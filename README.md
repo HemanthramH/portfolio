@@ -1,1 +1,7887 @@
-index.html
+<!doctype html>
+<!-- ✨ Built with Framer • https://www.framer.com/ -->
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <!-- Start of headStart -->
+        <!-- End of headStart -->
+        <meta name="viewport" content="width=device-width">
+        <meta name="generator" content="Framer c07a8c1">
+        <title>Hemanth Ram  Portfolio </title>
+        <meta name="description" content="I’m a versatile designer specializing  in web, and product design to help grow your business. Let’s build something great!">
+        <meta name="framer-search-index" content="https://framerusercontent.com/sites/4893q6qVZE0ffMSHqTelzS/searchIndex-H8abS3OspxqT.json">
+        <link href="https://framerusercontent.com/images/khtpGAqK0yJUzdYAleI1p4UOPM.png" rel="icon" media="(prefers-color-scheme: light)">
+        <link href="https://framerusercontent.com/images/khtpGAqK0yJUzdYAleI1p4UOPM.png" rel="icon" media="(prefers-color-scheme: dark)">
+        <link rel="apple-touch-icon" href="https://framerusercontent.com/images/LdmKccZqWwqsghhg9zeVEyKFY.png">
+        <!-- Open Graph / Facebook -->
+        <meta property="og:type" content="website">
+        <meta property="og:title" content="Hemanth Ram  Portfolio ">
+        <meta property="og:description" content="I’m a versatile designer specializing  in web, and product design to help grow your business. Let’s build something great!">
+        <meta property="og:image" content="https://framerusercontent.com/images/LdmKccZqWwqsghhg9zeVEyKFY.png">
+        <!-- Twitter -->
+        <meta name="twitter:card" content="summary_large_image">
+        <meta name="twitter:title" content="Hemanth Ram  Portfolio ">
+        <meta name="twitter:description" content="I’m a versatile designer specializing  in web, and product design to help grow your business. Let’s build something great!">
+        <meta name="twitter:image" content="https://framerusercontent.com/images/LdmKccZqWwqsghhg9zeVEyKFY.png">
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <meta name="robots" content="max-image-preview:large">
+        <link rel="canonical" href="https://real-interaction-752648.framer.app/">
+        <meta property="og:url" content="https://real-interaction-752648.framer.app/">
+        <style data-framer-breakpoint-css>
+            @media(min-width: 1300px) {
+                .hidden-72rtr7 {
+                    display:none!important
+                }
+            }
+
+            @media(min-width: 750px) and (max-width: 1299px) {
+                .hidden-1oifrzv {
+                    display:none!important
+                }
+            }
+
+            @media(max-width: 749px) {
+                .hidden-oryvlp {
+                    display:none!important
+                }
+            }
+
+            @media(min-width: 1300px) {
+                .hidden-ynmlr3 {
+                    display:none!important
+                }
+            }
+
+            @media(min-width: 750px) and (max-width: 1299px) {
+                .hidden-1979d9p {
+                    display:none!important
+                }
+            }
+
+            @media(max-width: 749px) {
+                .hidden-173olyx {
+                    display:none!important
+                }
+            }
+        </style>
+        <style data-framer-css-ssr-minified data-framer-components="framer-lib-cursors-host framer-1qXmj PropertyOverrides framer-151yu framer-MsQXt framer-l8LZC framer-hEL9t framer-gzpkS framer-PuKlG framer-EBDBp framer-lBbnu framer-AxuV6 framer-mQinw framer-bpCAi framer-QVjJF framer-MLXmq framer-Umspt framer-NbFtm framer-kzBl7 framer-LgHU8 framer-ajQUV">
+            html,body,#main {
+                margin: 0;
+                padding: 0;
+                box-sizing: border-box
+            }
+
+            :root {
+                -webkit-font-smoothing: antialiased;
+                -moz-osx-font-smoothing: grayscale
+            }
+
+            * {
+                box-sizing: border-box;
+                -webkit-font-smoothing: inherit
+            }
+
+            h1,h2,h3,h4,h5,h6,p,figure {
+                margin: 0
+            }
+
+            body,input,textarea,select,button {
+                font-size: 12px;
+                font-family: sans-serif
+            }
+
+            body {
+                --token-cba3b9c8-9e49-437e-aca1-1e69db3088dc: rgb(17, 17, 17);
+                --token-91879fd0-dbdd-4c64-ae12-6b899e52b8b5: rgb(13, 13, 13);
+                --token-b2b2cec5-8316-4f9c-8fd9-5fdfc3c24032: rgba(255, 255, 255, .1);
+                --token-7a7ce709-7970-4e23-97d8-1ae0355d02f0: rgb(255, 255, 255);
+                --token-f5646347-2529-487d-8af1-d99f05c5451c: rgb(10, 10, 10);
+                --token-16f2e642-57af-452f-984c-64067596f797: rgb(120, 120, 120);
+                --token-27dab558-c2be-4da2-b3df-e0c399d3b44b: rgba(255, 255, 255, .6);
+                --token-9c481c42-f250-450a-9468-47953e7b268b: rgba(255, 255, 255, .03);
+                --token-237a00c2-a8b1-4063-9fcb-8dc6bd0797dd: rgba(17, 17, 17, .7);
+                --token-c858731e-e94e-456c-870f-c18178498e78: rgb(255, 215, 0)
+            }
+
+            #__framer-badge-container {
+                position: fixed;
+                bottom: 0;
+                padding: 20px;
+                width: 100%;
+                display: flex;
+                justify-content: right;
+                pointer-events: none;
+                z-index: 314159
+            }
+
+            .__framer-badge {
+                pointer-events: auto
+            }
+
+            @font-face {
+                font-family: Inter;
+                font-style: normal;
+                font-weight: 300;
+                font-display: swap;
+                src: url(https://fonts.gstatic.com/s/inter/v18/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2JL7SUc.woff2) format("woff2");
+                unicode-range: U+0460-052F,U+1C80-1C8A,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F
+            }
+
+            @font-face {
+                font-family: Inter;
+                font-style: normal;
+                font-weight: 300;
+                font-display: swap;
+                src: url(https://fonts.gstatic.com/s/inter/v18/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa0ZL7SUc.woff2) format("woff2");
+                unicode-range: U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116
+            }
+
+            @font-face {
+                font-family: Inter;
+                font-style: normal;
+                font-weight: 300;
+                font-display: swap;
+                src: url(https://fonts.gstatic.com/s/inter/v18/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2ZL7SUc.woff2) format("woff2");
+                unicode-range: U+1F00-1FFF
+            }
+
+            @font-face {
+                font-family: Inter;
+                font-style: normal;
+                font-weight: 300;
+                font-display: swap;
+                src: url(https://fonts.gstatic.com/s/inter/v18/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1pL7SUc.woff2) format("woff2");
+                unicode-range: U+0370-0377,U+037A-037F,U+0384-038A,U+038C,U+038E-03A1,U+03A3-03FF
+            }
+
+            @font-face {
+                font-family: Inter;
+                font-style: normal;
+                font-weight: 300;
+                font-display: swap;
+                src: url(https://fonts.gstatic.com/s/inter/v18/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2pL7SUc.woff2) format("woff2");
+                unicode-range: U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB
+            }
+
+            @font-face {
+                font-family: Inter;
+                font-style: normal;
+                font-weight: 300;
+                font-display: swap;
+                src: url(https://fonts.gstatic.com/s/inter/v18/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa25L7SUc.woff2) format("woff2");
+                unicode-range: U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF
+            }
+
+            @font-face {
+                font-family: Inter;
+                font-style: normal;
+                font-weight: 300;
+                font-display: swap;
+                src: url(https://fonts.gstatic.com/s/inter/v18/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7.woff2) format("woff2");
+                unicode-range: U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD
+            }
+
+            @font-face {
+                font-family: Inter;
+                font-style: normal;
+                font-weight: 600;
+                font-display: swap;
+                src: url(https://fonts.gstatic.com/s/inter/v18/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2JL7SUc.woff2) format("woff2");
+                unicode-range: U+0460-052F,U+1C80-1C8A,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F
+            }
+
+            @font-face {
+                font-family: Inter;
+                font-style: normal;
+                font-weight: 600;
+                font-display: swap;
+                src: url(https://fonts.gstatic.com/s/inter/v18/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa0ZL7SUc.woff2) format("woff2");
+                unicode-range: U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116
+            }
+
+            @font-face {
+                font-family: Inter;
+                font-style: normal;
+                font-weight: 600;
+                font-display: swap;
+                src: url(https://fonts.gstatic.com/s/inter/v18/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2ZL7SUc.woff2) format("woff2");
+                unicode-range: U+1F00-1FFF
+            }
+
+            @font-face {
+                font-family: Inter;
+                font-style: normal;
+                font-weight: 600;
+                font-display: swap;
+                src: url(https://fonts.gstatic.com/s/inter/v18/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1pL7SUc.woff2) format("woff2");
+                unicode-range: U+0370-0377,U+037A-037F,U+0384-038A,U+038C,U+038E-03A1,U+03A3-03FF
+            }
+
+            @font-face {
+                font-family: Inter;
+                font-style: normal;
+                font-weight: 600;
+                font-display: swap;
+                src: url(https://fonts.gstatic.com/s/inter/v18/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2pL7SUc.woff2) format("woff2");
+                unicode-range: U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB
+            }
+
+            @font-face {
+                font-family: Inter;
+                font-style: normal;
+                font-weight: 600;
+                font-display: swap;
+                src: url(https://fonts.gstatic.com/s/inter/v18/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa25L7SUc.woff2) format("woff2");
+                unicode-range: U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF
+            }
+
+            @font-face {
+                font-family: Inter;
+                font-style: normal;
+                font-weight: 600;
+                font-display: swap;
+                src: url(https://fonts.gstatic.com/s/inter/v18/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7.woff2) format("woff2");
+                unicode-range: U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD
+            }
+
+            @font-face {
+                font-family: Plus Jakarta Sans;
+                font-style: italic;
+                font-weight: 600;
+                font-display: swap;
+                src: url(https://fonts.gstatic.com/s/plusjakartasans/v8/LDIuaomQNQcsA88c7O9yZ4KMCoOg4Koz4yOqhMva.woff2) format("woff2");
+                unicode-range: U+0460-052F,U+1C80-1C8A,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F
+            }
+
+            @font-face {
+                font-family: Plus Jakarta Sans;
+                font-style: italic;
+                font-weight: 600;
+                font-display: swap;
+                src: url(https://fonts.gstatic.com/s/plusjakartasans/v8/LDIuaomQNQcsA88c7O9yZ4KMCoOg4Koz4yGqhMva.woff2) format("woff2");
+                unicode-range: U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB
+            }
+
+            @font-face {
+                font-family: Plus Jakarta Sans;
+                font-style: italic;
+                font-weight: 600;
+                font-display: swap;
+                src: url(https://fonts.gstatic.com/s/plusjakartasans/v8/LDIuaomQNQcsA88c7O9yZ4KMCoOg4Koz4yCqhMva.woff2) format("woff2");
+                unicode-range: U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF
+            }
+
+            @font-face {
+                font-family: Plus Jakarta Sans;
+                font-style: italic;
+                font-weight: 600;
+                font-display: swap;
+                src: url(https://fonts.gstatic.com/s/plusjakartasans/v8/LDIuaomQNQcsA88c7O9yZ4KMCoOg4Koz4y6qhA.woff2) format("woff2");
+                unicode-range: U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD
+            }
+
+            @font-face {
+                font-family: Plus Jakarta Sans;
+                font-style: italic;
+                font-weight: 700;
+                font-display: swap;
+                src: url(https://fonts.gstatic.com/s/plusjakartasans/v8/LDIuaomQNQcsA88c7O9yZ4KMCoOg4Koz4yOqhMva.woff2) format("woff2");
+                unicode-range: U+0460-052F,U+1C80-1C8A,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F
+            }
+
+            @font-face {
+                font-family: Plus Jakarta Sans;
+                font-style: italic;
+                font-weight: 700;
+                font-display: swap;
+                src: url(https://fonts.gstatic.com/s/plusjakartasans/v8/LDIuaomQNQcsA88c7O9yZ4KMCoOg4Koz4yGqhMva.woff2) format("woff2");
+                unicode-range: U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB
+            }
+
+            @font-face {
+                font-family: Plus Jakarta Sans;
+                font-style: italic;
+                font-weight: 700;
+                font-display: swap;
+                src: url(https://fonts.gstatic.com/s/plusjakartasans/v8/LDIuaomQNQcsA88c7O9yZ4KMCoOg4Koz4yCqhMva.woff2) format("woff2");
+                unicode-range: U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF
+            }
+
+            @font-face {
+                font-family: Plus Jakarta Sans;
+                font-style: italic;
+                font-weight: 700;
+                font-display: swap;
+                src: url(https://fonts.gstatic.com/s/plusjakartasans/v8/LDIuaomQNQcsA88c7O9yZ4KMCoOg4Koz4y6qhA.woff2) format("woff2");
+                unicode-range: U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD
+            }
+
+            @font-face {
+                font-family: Plus Jakarta Sans;
+                font-style: normal;
+                font-weight: 500;
+                font-display: swap;
+                src: url(https://fonts.gstatic.com/s/plusjakartasans/v8/LDIoaomQNQcsA88c7O9yZ4KMCoOg4Ko70yyygA.woff2) format("woff2");
+                unicode-range: U+0460-052F,U+1C80-1C8A,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F
+            }
+
+            @font-face {
+                font-family: Plus Jakarta Sans;
+                font-style: normal;
+                font-weight: 500;
+                font-display: swap;
+                src: url(https://fonts.gstatic.com/s/plusjakartasans/v8/LDIoaomQNQcsA88c7O9yZ4KMCoOg4Ko50yyygA.woff2) format("woff2");
+                unicode-range: U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB
+            }
+
+            @font-face {
+                font-family: Plus Jakarta Sans;
+                font-style: normal;
+                font-weight: 500;
+                font-display: swap;
+                src: url(https://fonts.gstatic.com/s/plusjakartasans/v8/LDIoaomQNQcsA88c7O9yZ4KMCoOg4Ko40yyygA.woff2) format("woff2");
+                unicode-range: U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF
+            }
+
+            @font-face {
+                font-family: Plus Jakarta Sans;
+                font-style: normal;
+                font-weight: 500;
+                font-display: swap;
+                src: url(https://fonts.gstatic.com/s/plusjakartasans/v8/LDIoaomQNQcsA88c7O9yZ4KMCoOg4Ko20yw.woff2) format("woff2");
+                unicode-range: U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD
+            }
+
+            @font-face {
+                font-family: Plus Jakarta Sans;
+                font-style: normal;
+                font-weight: 600;
+                font-display: swap;
+                src: url(https://fonts.gstatic.com/s/plusjakartasans/v8/LDIoaomQNQcsA88c7O9yZ4KMCoOg4Ko70yyygA.woff2) format("woff2");
+                unicode-range: U+0460-052F,U+1C80-1C8A,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F
+            }
+
+            @font-face {
+                font-family: Plus Jakarta Sans;
+                font-style: normal;
+                font-weight: 600;
+                font-display: swap;
+                src: url(https://fonts.gstatic.com/s/plusjakartasans/v8/LDIoaomQNQcsA88c7O9yZ4KMCoOg4Ko50yyygA.woff2) format("woff2");
+                unicode-range: U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB
+            }
+
+            @font-face {
+                font-family: Plus Jakarta Sans;
+                font-style: normal;
+                font-weight: 600;
+                font-display: swap;
+                src: url(https://fonts.gstatic.com/s/plusjakartasans/v8/LDIoaomQNQcsA88c7O9yZ4KMCoOg4Ko40yyygA.woff2) format("woff2");
+                unicode-range: U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF
+            }
+
+            @font-face {
+                font-family: Plus Jakarta Sans;
+                font-style: normal;
+                font-weight: 600;
+                font-display: swap;
+                src: url(https://fonts.gstatic.com/s/plusjakartasans/v8/LDIoaomQNQcsA88c7O9yZ4KMCoOg4Ko20yw.woff2) format("woff2");
+                unicode-range: U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD
+            }
+
+            @font-face {
+                font-family: Plus Jakarta Sans;
+                font-style: normal;
+                font-weight: 700;
+                font-display: swap;
+                src: url(https://fonts.gstatic.com/s/plusjakartasans/v8/LDIoaomQNQcsA88c7O9yZ4KMCoOg4Ko70yyygA.woff2) format("woff2");
+                unicode-range: U+0460-052F,U+1C80-1C8A,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F
+            }
+
+            @font-face {
+                font-family: Plus Jakarta Sans;
+                font-style: normal;
+                font-weight: 700;
+                font-display: swap;
+                src: url(https://fonts.gstatic.com/s/plusjakartasans/v8/LDIoaomQNQcsA88c7O9yZ4KMCoOg4Ko50yyygA.woff2) format("woff2");
+                unicode-range: U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB
+            }
+
+            @font-face {
+                font-family: Plus Jakarta Sans;
+                font-style: normal;
+                font-weight: 700;
+                font-display: swap;
+                src: url(https://fonts.gstatic.com/s/plusjakartasans/v8/LDIoaomQNQcsA88c7O9yZ4KMCoOg4Ko40yyygA.woff2) format("woff2");
+                unicode-range: U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF
+            }
+
+            @font-face {
+                font-family: Plus Jakarta Sans;
+                font-style: normal;
+                font-weight: 700;
+                font-display: swap;
+                src: url(https://fonts.gstatic.com/s/plusjakartasans/v8/LDIoaomQNQcsA88c7O9yZ4KMCoOg4Ko20yw.woff2) format("woff2");
+                unicode-range: U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD
+            }
+
+            @font-face {
+                font-family: Inter;
+                src: url(https://framerusercontent.com/assets/5vvr9Vy74if2I6bQbJvbw7SY1pQ.woff2);
+                font-display: swap;
+                font-style: normal;
+                font-weight: 400;
+                unicode-range: U+0460-052F,U+1C80-1C88,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F
+            }
+
+            @font-face {
+                font-family: Inter;
+                src: url(https://framerusercontent.com/assets/EOr0mi4hNtlgWNn9if640EZzXCo.woff2);
+                font-display: swap;
+                font-style: normal;
+                font-weight: 400;
+                unicode-range: U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116
+            }
+
+            @font-face {
+                font-family: Inter;
+                src: url(https://framerusercontent.com/assets/Y9k9QrlZAqio88Klkmbd8VoMQc.woff2);
+                font-display: swap;
+                font-style: normal;
+                font-weight: 400;
+                unicode-range: U+1F00-1FFF
+            }
+
+            @font-face {
+                font-family: Inter;
+                src: url(https://framerusercontent.com/assets/OYrD2tBIBPvoJXiIHnLoOXnY9M.woff2);
+                font-display: swap;
+                font-style: normal;
+                font-weight: 400;
+                unicode-range: U+0370-03FF
+            }
+
+            @font-face {
+                font-family: Inter;
+                src: url(https://framerusercontent.com/assets/JeYwfuaPfZHQhEG8U5gtPDZ7WQ.woff2);
+                font-display: swap;
+                font-style: normal;
+                font-weight: 400;
+                unicode-range: U+0100-024F,U+0259,U+1E00-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF
+            }
+
+            @font-face {
+                font-family: Inter;
+                src: url(https://framerusercontent.com/assets/vQyevYAyHtARFwPqUzQGpnDs.woff2);
+                font-display: swap;
+                font-style: normal;
+                font-weight: 400;
+                unicode-range: U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD
+            }
+
+            @font-face {
+                font-family: Inter;
+                src: url(https://framerusercontent.com/assets/b6Y37FthZeALduNqHicBT6FutY.woff2);
+                font-display: swap;
+                font-style: normal;
+                font-weight: 400;
+                unicode-range: U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+1EA0-1EF9,U+20AB
+            }
+
+            @font-face {
+                font-family: Inter;
+                src: url(https://framerusercontent.com/assets/DpPBYI0sL4fYLgAkX8KXOPVt7c.woff2);
+                font-display: swap;
+                font-style: normal;
+                font-weight: 700;
+                unicode-range: U+0460-052F,U+1C80-1C88,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F
+            }
+
+            @font-face {
+                font-family: Inter;
+                src: url(https://framerusercontent.com/assets/4RAEQdEOrcnDkhHiiCbJOw92Lk.woff2);
+                font-display: swap;
+                font-style: normal;
+                font-weight: 700;
+                unicode-range: U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116
+            }
+
+            @font-face {
+                font-family: Inter;
+                src: url(https://framerusercontent.com/assets/1K3W8DizY3v4emK8Mb08YHxTbs.woff2);
+                font-display: swap;
+                font-style: normal;
+                font-weight: 700;
+                unicode-range: U+1F00-1FFF
+            }
+
+            @font-face {
+                font-family: Inter;
+                src: url(https://framerusercontent.com/assets/tUSCtfYVM1I1IchuyCwz9gDdQ.woff2);
+                font-display: swap;
+                font-style: normal;
+                font-weight: 700;
+                unicode-range: U+0370-03FF
+            }
+
+            @font-face {
+                font-family: Inter;
+                src: url(https://framerusercontent.com/assets/VgYFWiwsAC5OYxAycRXXvhze58.woff2);
+                font-display: swap;
+                font-style: normal;
+                font-weight: 700;
+                unicode-range: U+0100-024F,U+0259,U+1E00-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF
+            }
+
+            @font-face {
+                font-family: Inter;
+                src: url(https://framerusercontent.com/assets/DXD0Q7LSl7HEvDzucnyLnGBHM.woff2);
+                font-display: swap;
+                font-style: normal;
+                font-weight: 700;
+                unicode-range: U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD
+            }
+
+            @font-face {
+                font-family: Inter;
+                src: url(https://framerusercontent.com/assets/GIryZETIX4IFypco5pYZONKhJIo.woff2);
+                font-display: swap;
+                font-style: normal;
+                font-weight: 700;
+                unicode-range: U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+1EA0-1EF9,U+20AB
+            }
+
+            @font-face {
+                font-family: Inter;
+                src: url(https://framerusercontent.com/assets/H89BbHkbHDzlxZzxi8uPzTsp90.woff2);
+                font-display: swap;
+                font-style: italic;
+                font-weight: 700;
+                unicode-range: U+0460-052F,U+1C80-1C88,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F
+            }
+
+            @font-face {
+                font-family: Inter;
+                src: url(https://framerusercontent.com/assets/u6gJwDuwB143kpNK1T1MDKDWkMc.woff2);
+                font-display: swap;
+                font-style: italic;
+                font-weight: 700;
+                unicode-range: U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116
+            }
+
+            @font-face {
+                font-family: Inter;
+                src: url(https://framerusercontent.com/assets/43sJ6MfOPh1LCJt46OvyDuSbA6o.woff2);
+                font-display: swap;
+                font-style: italic;
+                font-weight: 700;
+                unicode-range: U+1F00-1FFF
+            }
+
+            @font-face {
+                font-family: Inter;
+                src: url(https://framerusercontent.com/assets/wccHG0r4gBDAIRhfHiOlq6oEkqw.woff2);
+                font-display: swap;
+                font-style: italic;
+                font-weight: 700;
+                unicode-range: U+0370-03FF
+            }
+
+            @font-face {
+                font-family: Inter;
+                src: url(https://framerusercontent.com/assets/WZ367JPwf9bRW6LdTHN8rXgSjw.woff2);
+                font-display: swap;
+                font-style: italic;
+                font-weight: 700;
+                unicode-range: U+0100-024F,U+0259,U+1E00-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF
+            }
+
+            @font-face {
+                font-family: Inter;
+                src: url(https://framerusercontent.com/assets/QxmhnWTzLtyjIiZcfaLIJ8EFBXU.woff2);
+                font-display: swap;
+                font-style: italic;
+                font-weight: 700;
+                unicode-range: U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD
+            }
+
+            @font-face {
+                font-family: Inter;
+                src: url(https://framerusercontent.com/assets/2A4Xx7CngadFGlVV4xrO06OBHY.woff2);
+                font-display: swap;
+                font-style: italic;
+                font-weight: 700;
+                unicode-range: U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+1EA0-1EF9,U+20AB
+            }
+
+            @font-face {
+                font-family: Inter;
+                src: url(https://framerusercontent.com/assets/CfMzU8w2e7tHgF4T4rATMPuWosA.woff2);
+                font-display: swap;
+                font-style: italic;
+                font-weight: 400;
+                unicode-range: U+0460-052F,U+1C80-1C88,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F
+            }
+
+            @font-face {
+                font-family: Inter;
+                src: url(https://framerusercontent.com/assets/867QObYax8ANsfX4TGEVU9YiCM.woff2);
+                font-display: swap;
+                font-style: italic;
+                font-weight: 400;
+                unicode-range: U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116
+            }
+
+            @font-face {
+                font-family: Inter;
+                src: url(https://framerusercontent.com/assets/Oyn2ZbENFdnW7mt2Lzjk1h9Zb9k.woff2);
+                font-display: swap;
+                font-style: italic;
+                font-weight: 400;
+                unicode-range: U+1F00-1FFF
+            }
+
+            @font-face {
+                font-family: Inter;
+                src: url(https://framerusercontent.com/assets/cdAe8hgZ1cMyLu9g005pAW3xMo.woff2);
+                font-display: swap;
+                font-style: italic;
+                font-weight: 400;
+                unicode-range: U+0370-03FF
+            }
+
+            @font-face {
+                font-family: Inter;
+                src: url(https://framerusercontent.com/assets/DOfvtmE1UplCq161m6Hj8CSQYg.woff2);
+                font-display: swap;
+                font-style: italic;
+                font-weight: 400;
+                unicode-range: U+0100-024F,U+0259,U+1E00-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF
+            }
+
+            @font-face {
+                font-family: Inter;
+                src: url(https://framerusercontent.com/assets/vFzuJY0c65av44uhEKB6vyjFMg.woff2);
+                font-display: swap;
+                font-style: italic;
+                font-weight: 400;
+                unicode-range: U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD
+            }
+
+            @font-face {
+                font-family: Inter;
+                src: url(https://framerusercontent.com/assets/tKtBcDnBMevsEEJKdNGhhkLzYo.woff2);
+                font-display: swap;
+                font-style: italic;
+                font-weight: 400;
+                unicode-range: U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+1EA0-1EF9,U+20AB
+            }
+
+            @font-face {
+                font-family: Plus Jakarta Sans;
+                src: url(https://framerusercontent.com/third-party-assets/fontshare/wf/UABF25CCX23LBLOOMOCUSPFEXYUNKOIQ/NGF5IU7BZUA2FUOVWECHGUFSHNEIX4YK/QDINYT7WQXBD2IDFQGGJ74DWIUFHOOZD.woff2);
+                font-display: swap;
+                font-style: italic;
+                font-weight: 500
+            }
+
+            @font-face {
+                font-family: Satoshi;
+                src: url(https://framerusercontent.com/third-party-assets/fontshare/wf/TTX2Z3BF3P6Y5BQT3IV2VNOK6FL22KUT/7QYRJOI3JIMYHGY6CH7SOIFRQLZOLNJ6/KFIAZD4RUMEZIYV6FQ3T3GP5PDBDB6JY.woff2);
+                font-display: swap;
+                font-style: normal;
+                font-weight: 400
+            }
+
+            @font-face {
+                font-family: Satoshi;
+                src: url(https://framerusercontent.com/third-party-assets/fontshare/wf/LAFFD4SDUCDVQEXFPDC7C53EQ4ZELWQI/PXCT3G6LO6ICM5I3NTYENYPWJAECAWDD/GHM6WVH6MILNYOOCXHXB5GTSGNTMGXZR.woff2);
+                font-display: swap;
+                font-style: normal;
+                font-weight: 700
+            }
+
+            @font-face {
+                font-family: Satoshi;
+                src: url(https://framerusercontent.com/third-party-assets/fontshare/wf/CDEBEFT2R7XKNGXSBBLZGMY4MMHZG75P/HEVKDGQCYDZ7Z6CDVR2ZQGBCTUD6ZARH/BKWEE3VKGTFABE37K2DTH625VUSN2N35.woff2);
+                font-display: swap;
+                font-style: italic;
+                font-weight: 700
+            }
+
+            @font-face {
+                font-family: Satoshi;
+                src: url(https://framerusercontent.com/third-party-assets/fontshare/wf/MPIFA4B3XXRNY2MJDGP6GOOOAF6EOCLO/W5E4ZFYPJ3V6JKMBGHB6YMITK6EWS2XA/QOMBWPST76ICDYF6WOBS7SQ7RBT67QW2.woff2);
+                font-display: swap;
+                font-style: italic;
+                font-weight: 400
+            }
+
+            @font-face {
+                font-family: Plus Jakarta Sans;
+                src: url(https://framerusercontent.com/third-party-assets/fontshare/wf/TX2N2Q6ZO2LBO34H72H5RVJTBQFGU4GV/ZICVNTLTT4V7CCIJPWNY363N6LIP2AET/OUUAK2X2MEGEKC6ULA4CFSBY4PE5EGPV.woff2);
+                font-display: swap;
+                font-style: normal;
+                font-weight: 400
+            }
+
+            @font-face {
+                font-family: Plus Jakarta Sans Placeholder;
+                src: local("Arial");
+                ascent-override:98.16%;descent-override:20.99%;line-gap-override:0%;size-adjust:105.75%}
+
+            @font-face {
+                font-family: Inter Placeholder;
+                src: local("Arial");
+                ascent-override:89.79%;descent-override:22.36%;line-gap-override:0%;size-adjust:107.89%}
+
+            @font-face {
+                font-family: Plus Jakarta Sans Placeholder;
+                src: local("Arial");
+                ascent-override:122.93%;descent-override:34.04%;line-gap-override:11.35%;size-adjust:105.75%}
+
+            @font-face {
+                font-family: Satoshi Placeholder;
+                src: local("Arial");
+                ascent-override:102.23%;descent-override:24.29%;line-gap-override:10.12%;size-adjust:98.8%}
+
+            body {
+                --framer-will-change-override: none
+            }
+
+            @supports (background: -webkit-named-image(i)) and (not (grid-template-rows: subgrid)) {
+                body {
+                    --framer-will-change-override: transform
+                }
+            }
+
+            [data-framer-component-type] {
+                position: absolute
+            }
+
+            [data-framer-component-type=Text] {
+                cursor: inherit
+            }
+
+            [data-framer-component-text-autosized] * {
+                white-space: pre
+            }
+
+            [data-framer-component-type=Text]>* {
+                text-align: var(--framer-text-alignment, start)
+            }
+
+            [data-framer-component-type=Text] span span,[data-framer-component-type=Text] p span,[data-framer-component-type=Text] h1 span,[data-framer-component-type=Text] h2 span,[data-framer-component-type=Text] h3 span,[data-framer-component-type=Text] h4 span,[data-framer-component-type=Text] h5 span,[data-framer-component-type=Text] h6 span {
+                display: block
+            }
+
+            [data-framer-component-type=Text] span span span,[data-framer-component-type=Text] p span span,[data-framer-component-type=Text] h1 span span,[data-framer-component-type=Text] h2 span span,[data-framer-component-type=Text] h3 span span,[data-framer-component-type=Text] h4 span span,[data-framer-component-type=Text] h5 span span,[data-framer-component-type=Text] h6 span span {
+                display: unset
+            }
+
+            [data-framer-component-type=Text] div div span,[data-framer-component-type=Text] a div span,[data-framer-component-type=Text] span span span,[data-framer-component-type=Text] p span span,[data-framer-component-type=Text] h1 span span,[data-framer-component-type=Text] h2 span span,[data-framer-component-type=Text] h3 span span,[data-framer-component-type=Text] h4 span span,[data-framer-component-type=Text] h5 span span,[data-framer-component-type=Text] h6 span span,[data-framer-component-type=Text] a {
+                font-family: var(--font-family);
+                font-style: var(--font-style);
+                font-weight: min(calc(var(--framer-font-weight-increase, 0) + var(--font-weight, 400)),900);
+                color: var(--text-color);
+                letter-spacing: var(--letter-spacing);
+                font-size: var(--font-size);
+                text-transform: var(--text-transform);
+                text-decoration: var(--text-decoration);
+                line-height: var(--line-height)
+            }
+
+            [data-framer-component-type=Text] div div span,[data-framer-component-type=Text] a div span,[data-framer-component-type=Text] span span span,[data-framer-component-type=Text] p span span,[data-framer-component-type=Text] h1 span span,[data-framer-component-type=Text] h2 span span,[data-framer-component-type=Text] h3 span span,[data-framer-component-type=Text] h4 span span,[data-framer-component-type=Text] h5 span span,[data-framer-component-type=Text] h6 span span,[data-framer-component-type=Text] a {
+                --font-family: var(--framer-font-family);
+                --font-style: var(--framer-font-style);
+                --font-weight: var(--framer-font-weight);
+                --text-color: var(--framer-text-color);
+                --letter-spacing: var(--framer-letter-spacing);
+                --font-size: var(--framer-font-size);
+                --text-transform: var(--framer-text-transform);
+                --text-decoration: var(--framer-text-decoration);
+                --line-height: var(--framer-line-height)
+            }
+
+            [data-framer-component-type=Text] a,[data-framer-component-type=Text] a div span,[data-framer-component-type=Text] a span span span,[data-framer-component-type=Text] a p span span,[data-framer-component-type=Text] a h1 span span,[data-framer-component-type=Text] a h2 span span,[data-framer-component-type=Text] a h3 span span,[data-framer-component-type=Text] a h4 span span,[data-framer-component-type=Text] a h5 span span,[data-framer-component-type=Text] a h6 span span {
+                --font-family: var(--framer-link-font-family, var(--framer-font-family));
+                --font-style: var(--framer-link-font-style, var(--framer-font-style));
+                --font-weight: var(--framer-link-font-weight, var(--framer-font-weight));
+                --text-color: var(--framer-link-text-color, var(--framer-text-color));
+                --font-size: var(--framer-link-font-size, var(--framer-font-size));
+                --text-transform: var(--framer-link-text-transform, var(--framer-text-transform));
+                --text-decoration: var(--framer-link-text-decoration, var(--framer-text-decoration))
+            }
+
+            [data-framer-component-type=Text] a:hover,[data-framer-component-type=Text] a div span:hover,[data-framer-component-type=Text] a span span span:hover,[data-framer-component-type=Text] a p span span:hover,[data-framer-component-type=Text] a h1 span span:hover,[data-framer-component-type=Text] a h2 span span:hover,[data-framer-component-type=Text] a h3 span span:hover,[data-framer-component-type=Text] a h4 span span:hover,[data-framer-component-type=Text] a h5 span span:hover,[data-framer-component-type=Text] a h6 span span:hover {
+                --font-family: var(--framer-link-hover-font-family, var(--framer-link-font-family, var(--framer-font-family)));
+                --font-style: var(--framer-link-hover-font-style, var(--framer-link-font-style, var(--framer-font-style)));
+                --font-weight: var(--framer-link-hover-font-weight, var(--framer-link-font-weight, var(--framer-font-weight)));
+                --text-color: var(--framer-link-hover-text-color, var(--framer-link-text-color, var(--framer-text-color)));
+                --font-size: var(--framer-link-hover-font-size, var(--framer-link-font-size, var(--framer-font-size)));
+                --text-transform: var(--framer-link-hover-text-transform, var(--framer-link-text-transform, var(--framer-text-transform)));
+                --text-decoration: var(--framer-link-hover-text-decoration, var(--framer-link-text-decoration, var(--framer-text-decoration)))
+            }
+
+            [data-framer-component-type=Text].isCurrent a,[data-framer-component-type=Text].isCurrent a div span,[data-framer-component-type=Text].isCurrent a span span span,[data-framer-component-type=Text].isCurrent a p span span,[data-framer-component-type=Text].isCurrent a h1 span span,[data-framer-component-type=Text].isCurrent a h2 span span,[data-framer-component-type=Text].isCurrent a h3 span span,[data-framer-component-type=Text].isCurrent a h4 span span,[data-framer-component-type=Text].isCurrent a h5 span span,[data-framer-component-type=Text].isCurrent a h6 span span {
+                --font-family: var(--framer-link-current-font-family, var(--framer-link-font-family, var(--framer-font-family)));
+                --font-style: var(--framer-link-current-font-style, var(--framer-link-font-style, var(--framer-font-style)));
+                --font-weight: var(--framer-link-current-font-weight, var(--framer-link-font-weight, var(--framer-font-weight)));
+                --text-color: var(--framer-link-current-text-color, var(--framer-link-text-color, var(--framer-text-color)));
+                --font-size: var(--framer-link-current-font-size, var(--framer-link-font-size, var(--framer-font-size)));
+                --text-transform: var(--framer-link-current-text-transform, var(--framer-link-text-transform, var(--framer-text-transform)));
+                --text-decoration: var(--framer-link-current-text-decoration, var(--framer-link-text-decoration, var(--framer-text-decoration)))
+            }
+
+            p.framer-text,div.framer-text,figure.framer-text,h1.framer-text,h2.framer-text,h3.framer-text,h4.framer-text,h5.framer-text,h6.framer-text,ol.framer-text,ul.framer-text {
+                margin: 0;
+                padding: 0
+            }
+
+            p.framer-text,div.framer-text,h1.framer-text,h2.framer-text,h3.framer-text,h4.framer-text,h5.framer-text,h6.framer-text,li.framer-text,ol.framer-text,ul.framer-text,span.framer-text:not([data-text-fill]) {
+                font-family: var(--framer-blockquote-font-family, var(--framer-font-family, Inter, Inter Placeholder, sans-serif));
+                font-style: var(--framer-blockquote-font-style, var(--framer-font-style, normal));
+                font-weight: var(--framer-blockquote-font-weight, var(--framer-font-weight, 400));
+                color: var(--framer-blockquote-text-color, var(--framer-text-color, #000));
+                font-size: calc(var(--framer-blockquote-font-size, var(--framer-font-size, 16px)) * var(--framer-font-size-scale, 1));
+                letter-spacing: var(--framer-blockquote-letter-spacing, var(--framer-letter-spacing, 0));
+                text-transform: var(--framer-blockquote-text-transform, var(--framer-text-transform, none));
+                text-decoration: var(--framer-blockquote-text-decoration, var(--framer-text-decoration, none));
+                line-height: var(--framer-blockquote-line-height, var(--framer-line-height, 1.2em));
+                text-align: var(--framer-blockquote-text-alignment, var(--framer-text-alignment, start));
+                -webkit-text-stroke-width: var(--framer-text-stroke-width, initial);
+                -webkit-text-stroke-color: var(--framer-text-stroke-color, initial);
+                -moz-font-feature-settings: var(--framer-font-open-type-features, initial);
+                -webkit-font-feature-settings: var(--framer-font-open-type-features, initial);
+                font-feature-settings: var(--framer-font-open-type-features, initial);
+                font-variation-settings: var(--framer-font-variation-axes, normal);
+                text-wrap: var(--framer-text-wrap-override, var(--framer-text-wrap))
+            }
+
+            @supports not (color: color(display-p3 1 1 1)) {
+                p.framer-text,div.framer-text,h1.framer-text,h2.framer-text,h3.framer-text,h4.framer-text,h5.framer-text,h6.framer-text,li.framer-text,ol.framer-text,ul.framer-text,span.framer-text:not([data-text-fill]) {
+                    color:var(--framer-blockquote-text-color-rgb, var(--framer-blockquote-text-color, var(--framer-text-color-rgb, var(--framer-text-color, #000))));
+                    -webkit-text-stroke-color: var(--framer-text-stroke-color-rgb, var(--framer-text-stroke-color, initial))
+                }
+            }
+
+            .framer-fit-text .framer-text {
+                white-space: nowrap;
+                white-space-collapse: preserve
+            }
+
+            strong.framer-text {
+                font-family: var(--framer-blockquote-font-family-bold, var(--framer-font-family-bold));
+                font-style: var(--framer-blockquote-font-style-bold, var(--framer-font-style-bold));
+                font-weight: var(--framer-blockquote-font-weight-bold, var(--framer-font-weight-bold, bolder));
+                font-variation-settings: var(--framer-blockquote-font-variation-axes-bold, var(--framer-font-variation-axes-bold))
+            }
+
+            em.framer-text {
+                font-family: var(--framer-blockquote-font-family-italic, var(--framer-font-family-italic));
+                font-style: var(--framer-blockquote-font-style-italic, var(--framer-font-style-italic, italic));
+                font-weight: var(--framer-blockquote-font-weight-italic, var(--framer-font-weight-italic));
+                font-variation-settings: var(--framer-blockquote-font-variation-axes-italic, var(--framer-font-variation-axes-italic))
+            }
+
+            em.framer-text>strong.framer-text {
+                font-family: var(--framer-blockquote-font-family-bold-italic, var(--framer-font-family-bold-italic));
+                font-style: var(--framer-blockquote-font-style-bold-italic, var(--framer-font-style-bold-italic, italic));
+                font-weight: var(--framer-blockquote-font-weight-bold-italic, var(--framer-font-weight-bold-italic, bolder));
+                font-variation-settings: var(--framer-blockquote-font-variation-axes-bold-italic, var(--framer-font-variation-axes-bold-italic))
+            }
+
+            p.framer-text:not(:first-child),div.framer-text:not(:first-child),h1.framer-text:not(:first-child),h2.framer-text:not(:first-child),h3.framer-text:not(:first-child),h4.framer-text:not(:first-child),h5.framer-text:not(:first-child),h6.framer-text:not(:first-child),ol.framer-text:not(:first-child),ul.framer-text:not(:first-child),blockquote.framer-text:not(:first-child),table.framer-text:not(:first-child),figure.framer-text:not(:first-child),.framer-image.framer-text:not(:first-child) {
+                margin-top: var(--framer-blockquote-paragraph-spacing, var(--framer-paragraph-spacing, 0))
+            }
+
+            li.framer-text>ul.framer-text:nth-child(2),li.framer-text>ol.framer-text:nth-child(2) {
+                margin-top: 0
+            }
+
+            .framer-text[data-text-fill] {
+                display: inline-block;
+                background-clip: text;
+                -webkit-background-clip: text;
+                -webkit-text-fill-color: transparent;
+                padding: max(0em,calc(calc(1.3em - var(--framer-blockquote-line-height, var(--framer-line-height, 1.3em))) / 2));
+                margin: min(0em,calc(calc(1.3em - var(--framer-blockquote-line-height, var(--framer-line-height, 1.3em))) / -2))
+            }
+
+            code.framer-text,code.framer-text span.framer-text:not([data-text-fill]) {
+                font-family: var(--framer-code-font-family, var(--framer-font-family, Inter, Inter Placeholder, sans-serif));
+                font-style: var(--framer-blockquote-font-style, var(--framer-code-font-style, var(--framer-font-style, normal)));
+                font-weight: var(--framer-blockquote-font-weight, var(--framer-code-font-weight, var(--framer-font-weight, 400)));
+                color: var(--framer-blockquote-text-color, var(--framer-code-text-color, var(--framer-text-color, #000)));
+                font-size: calc(var(--framer-blockquote-font-size, var(--framer-font-size, 16px)) * var(--framer-font-size-scale, 1));
+                letter-spacing: var(--framer-blockquote-letter-spacing, var(--framer-letter-spacing, 0));
+                line-height: var(--framer-blockquote-line-height, var(--framer-line-height, 1.2em))
+            }
+
+            @supports not (color: color(display-p3 1 1 1)) {
+                code.framer-text,code.framer-text span.framer-text:not([data-text-fill]) {
+                    color:var(--framer-blockquote-text-color-rgb, var(--framer-blockquote-text-color, var(--framer-code-text-color-rgb, var(--framer-code-text-color, var(--framer-text-color-rgb, var(--framer-text-color, #000))))))
+                }
+            }
+
+            blockquote.framer-text {
+                margin-block-start:initial;margin-block-end:initial;margin-inline-start:initial;margin-inline-end:initial;unicode-bidi: initial
+            }
+
+            a.framer-text,a.framer-text span.framer-text:not([data-text-fill]),span.framer-text[data-nested-link],span.framer-text[data-nested-link] span.framer-text:not([data-text-fill]) {
+                font-family: var(--framer-blockquote-font-family, var(--framer-link-font-family, var(--framer-font-family, Inter, Inter Placeholder, sans-serif)));
+                font-style: var(--framer-blockquote-font-style, var(--framer-link-font-style, var(--framer-font-style, normal)));
+                font-weight: var(--framer-blockquote-font-weight, var(--framer-link-font-weight, var(--framer-font-weight, 400)));
+                color: var(--framer-blockquote-text-color, var(--framer-link-text-color, var(--framer-text-color, #000)));
+                font-size: calc(var(--framer-blockquote-font-size, var(--framer-font-size, 16px)) * var(--framer-font-size-scale, 1));
+                text-transform: var(--framer-blockquote-text-transform, var(--framer-link-text-transform, var(--framer-text-transform, none)));
+                text-decoration: var(--framer-blockquote-text-decoration, var(--framer-link-text-decoration, var(--framer-text-decoration, none)));
+                cursor: var(--framer-custom-cursors, pointer)
+            }
+
+            @supports not (color: color(display-p3 1 1 1)) {
+                a.framer-text,a.framer-text span.framer-text:not([data-text-fill]),span.framer-text[data-nested-link],span.framer-text[data-nested-link] span.framer-text:not([data-text-fill]) {
+                    color:var(--framer-blockquote-text-color-rgb, var(--framer-blockquote-text-color, var(--framer-link-text-color-rgb, var(--framer-link-text-color, var(--framer-text-color-rgb, var(--framer-text-color, #000))))))
+                }
+            }
+
+            code.framer-text a.framer-text,code.framer-text a.framer-text span.framer-text:not([data-text-fill]),code.framer-text span.framer-text[data-nested-link],code.framer-text span.framer-text[data-nested-link] span.framer-text:not([data-text-fill]) {
+                font-family: var(--framer-code-font-family, var(--framer-font-family, Inter, Inter Placeholder, sans-serif));
+                font-style: var(--framer-blockquote-font-style, var(--framer-code-font-style, var(--framer-font-style, normal)));
+                font-weight: var(--framer-blockquote-font-weight, var(--framer-code-font-weight, var(--framer-font-weight, 400)));
+                color: var(--framer-blockquote-text-color, var(--framer-link-text-color, var(--framer-code-text-color, var(--framer-text-color, #000))));
+                font-size: calc(var(--framer-blockquote-font-size, var(--framer-font-size, 16px)) * var(--framer-font-size-scale, 1))
+            }
+
+            @supports not (color: color(display-p3 1 1 1)) {
+                code.framer-text a.framer-text,code.framer-text a.framer-text span.framer-text:not([data-text-fill]),code.framer-text span.framer-text[data-nested-link],code.framer-text span.framer-text[data-nested-link] span.framer-text:not([data-text-fill]) {
+                    color:var(--framer-blockquote-text-color-rgb, var(--framer-blockquote-text-color, var(--framer-link-text-color-rgb, var(--framer-link-text-color, var(--framer-code-text-color-rgb, var(--framer-code-text-color, var(--framer-text-color-rgb, var(--framer-text-color, #000))))))))
+                }
+            }
+
+            a.framer-text:hover,a.framer-text:hover span.framer-text:not([data-text-fill]),span.framer-text[data-nested-link]:hover,span.framer-text[data-nested-link]:hover span.framer-text:not([data-text-fill]) {
+                font-family: var(--framer-link-hover-font-family, var(--framer-blockquote-font-family, var(--framer-link-font-family, var(--framer-font-family, Inter, Inter Placeholder, sans-serif))));
+                font-style: var(--framer-link-hover-font-style, var(--framer-blockquote-font-style, var(--framer-link-font-style, var(--framer-font-style, normal))));
+                font-weight: var(--framer-link-hover-font-weight, var(--framer-blockquote-font-weight, var(--framer-link-font-weight, var(--framer-font-weight, 400))));
+                color: var(--framer-link-hover-text-color, var(--framer-blockquote-text-color, var(--framer-link-text-color, var(--framer-text-color, #000))));
+                font-size: calc(var(--framer-link-hover-font-size, var(--framer-blockquote-font-size, var(--framer-font-size, 16px))) * var(--framer-font-size-scale, 1));
+                text-transform: var(--framer-link-hover-text-transform, var(--framer-blockquote-text-transform, var(--framer-link-text-transform, var(--framer-text-transform, none))));
+                text-decoration: var(--framer-link-hover-text-decoration, var(--framer-blockquote-text-decoration, var(--framer-link-text-decoration, var(--framer-text-decoration, none))))
+            }
+
+            @supports not (color: color(display-p3 1 1 1)) {
+                a.framer-text:hover,a.framer-text:hover span.framer-text:not([data-text-fill]),span.framer-text[data-nested-link]:hover,span.framer-text[data-nested-link]:hover span.framer-text:not([data-text-fill]) {
+                    color:var(--framer-link-hover-text-color-rgb, var(--framer-link-hover-text-color, var(--framer-blockquote-text-color-rgb, var(--framer-blockquote-text-color, var(--framer-link-text-color-rgb, var(--framer-link-text-color, var(--framer-text-color-rgb, var(--framer-text-color, #000))))))))
+                }
+            }
+
+            code.framer-text a.framer-text:hover,code.framer-text a.framer-text:hover span.framer-text:not([data-text-fill]),code.framer-text span.framer-text[data-nested-link]:hover,code.framer-text span.framer-text[data-nested-link]:hover span.framer-text:not([data-text-fill]) {
+                font-family: var(var(--framer-code-font-family, var(--framer-font-family, Inter, Inter Placeholder, sans-serif)));
+                font-style: var(--framer-blockquote-font-style, var(--framer-code-font-style, var(--framer-font-style, normal)));
+                font-weight: var(--framer-blockquote-font-weight, var(--framer-code-font-weight, var(--framer-font-weight, 400)));
+                color: var(--framer-link-hover-text-color, var(--framer-blockquote-text-color, var(--framer-link-text-color, var(--framer-code-text-color, var(--framer-text-color, #000)))));
+                font-size: calc(var(--framer-link-hover-font-size, var(--framer-blockquote-font-size, var(--framer-link-font-size, var(--framer-font-size, 16px)))) * var(--framer-font-size-scale, 1))
+            }
+
+            @supports not (color: color(display-p3 1 1 1)) {
+                code.framer-text a.framer-text:hover,code.framer-text a.framer-text:hover span.framer-text:not([data-text-fill]),code.framer-text span.framer-text[data-nested-link]:hover,code.framer-text span.framer-text[data-nested-link]:hover span.framer-text:not([data-text-fill]) {
+                    color:var(--framer-link-hover-text-color-rgb, var(--framer-link-hover-text-color, var(--framer-blockquote-text-color-rgb, var(--framer-blockquote-text-color, var(--framer-link-text-color-rgb, var(--framer-link-text-color, var(--framer-text-color-rgb, var(--framer-text-color, #000))))))))
+                }
+            }
+
+            a.framer-text[data-framer-page-link-current],a.framer-text[data-framer-page-link-current] span.framer-text:not([data-text-fill]),span.framer-text[data-framer-page-link-current],span.framer-text[data-framer-page-link-current] span.framer-text:not([data-text-fill]) {
+                font-family: var(--framer-link-current-font-family, var(--framer-link-font-family, var(--framer-font-family, Inter, Inter Placeholder, sans-serif)));
+                font-style: var(--framer-link-current-font-style, var(--framer-link-font-style, var(--framer-font-style, normal)));
+                font-weight: var(--framer-link-current-font-weight, var(--framer-link-font-weight, var(--framer-font-weight, 400)));
+                color: var(--framer-link-current-text-color, var(--framer-link-text-color, var(--framer-text-color, #000)));
+                font-size: calc(var(--framer-link-current-font-size, var(--framer-link-font-size, var(--framer-font-size, 16px))) * var(--framer-font-size-scale, 1));
+                text-transform: var(--framer-link-current-text-transform, var(--framer-link-text-transform, var(--framer-text-transform, none)));
+                text-decoration: var(--framer-link-current-text-decoration, var(--framer-link-text-decoration, var(--framer-text-decoration, none)))
+            }
+
+            @supports not (color: color(display-p3 1 1 1)) {
+                a.framer-text[data-framer-page-link-current],a.framer-text[data-framer-page-link-current] span.framer-text:not([data-text-fill]),span.framer-text[data-framer-page-link-current],span.framer-text[data-framer-page-link-current] span.framer-text:not([data-text-fill]) {
+                    color:var(--framer-link-current-text-color-rgb, var(--framer-link-current-text-color, var(--framer-link-text-color-rgb, var(--framer-link-text-color, var(--framer-text-color-rgb, var(--framer-text-color, #000))))))
+                }
+            }
+
+            code.framer-text a.framer-text[data-framer-page-link-current],code.framer-text a.framer-text[data-framer-page-link-current] span.framer-text:not([data-text-fill]),code.framer-text span.framer-text[data-framer-page-link-current],code.framer-text span.framer-text[data-framer-page-link-current] span.framer-text:not([data-text-fill]) {
+                font-family: var(--framer-code-font-family, var(--framer-font-family, Inter, Inter Placeholder, sans-serif));
+                font-style: var(--framer-code-font-style, var(--framer-font-style, normal));
+                font-weight: var(--framer-code-font-weight, var(--framer-font-weight, 400));
+                color: var(--framer-link-current-text-color, var(--framer-link-text-color, var(--framer-code-text-color, var(--framer-text-color, #000))));
+                font-size: calc(var(--framer-link-current-font-size, var(--framer-link-font-size, var(--framer-font-size, 16px))) * var(--framer-font-size-scale, 1))
+            }
+
+            @supports not (color: color(display-p3 1 1 1)) {
+                code.framer-text a.framer-text[data-framer-page-link-current],code.framer-text a.framer-text[data-framer-page-link-current] span.framer-text:not([data-text-fill]),code.framer-text span.framer-text[data-framer-page-link-current],code.framer-text span.framer-text[data-framer-page-link-current] span.framer-text:not([data-text-fill]) {
+                    color:var(--framer-link-current-text-color-rgb, var(--framer-link-current-text-color, var(--framer-link-text-color-rgb, var(--framer-link-text-color, var(--framer-code-text-color-rgb, var(--framer-code-text-color, var(--framer-text-color-rgb, var(--framer-text-color, #000))))))))
+                }
+            }
+
+            a.framer-text[data-framer-page-link-current]:hover,a.framer-text[data-framer-page-link-current]:hover span.framer-text:not([data-text-fill]),span.framer-text[data-framer-page-link-current]:hover,span.framer-text[data-framer-page-link-current]:hover span.framer-text:not([data-text-fill]) {
+                font-family: var(--framer-link-hover-font-family, var(--framer-link-current-font-family, var(--framer-link-font-family, var(--framer-font-family, Inter, Inter Placeholder, sans-serif))));
+                font-style: var(--framer-link-hover-font-style, var(--framer-link-current-font-style, var(--framer-link-font-style, var(--framer-font-style, normal))));
+                font-weight: var(--framer-link-hover-font-weight, var(--framer-link-current-font-weight, var(--framer-link-font-weight, var(--framer-font-weight, 400))));
+                color: var(--framer-link-hover-text-color, var(--framer-link-current-text-color, var(--framer-link-text-color, var(--framer-text-color, #000))));
+                font-size: calc(var(--framer-link-hover-font-size, var(--framer-link-current-font-size, var(--framer-link-font-size, var(--framer-font-size, 16px)))) * var(--framer-font-size-scale, 1));
+                text-transform: var(--framer-link-hover-text-transform, var(--framer-link-current-text-transform, var(--framer-link-text-transform, var(--framer-text-transform, none))));
+                text-decoration: var(--framer-link-hover-text-decoration, var(--framer-link-current-text-decoration, var(--framer-link-text-decoration, var(--framer-text-decoration, none))))
+            }
+
+            @supports not (color: color(display-p3 1 1 1)) {
+                a.framer-text[data-framer-page-link-current]:hover,a.framer-text[data-framer-page-link-current]:hover span.framer-text:not([data-text-fill]),span.framer-text[data-framer-page-link-current]:hover,span.framer-text[data-framer-page-link-current]:hover span.framer-text:not([data-text-fill]) {
+                    color:var(--framer-link-hover-text-color-rgb, var(--framer-link-hover-text-color, var(--framer-link-current-text-color-rgb, var(--framer-link-current-text-color, var(--framer-link-text-color-rgb, var(--framer-link-text-color, var(--framer-code-text-color-rgb, var(--framer-code-text-color, var(--framer-text-color-rgb, var(--framer-text-color, #000))))))))))
+                }
+            }
+
+            code.framer-text a.framer-text[data-framer-page-link-current]:hover,code.framer-text a.framer-text[data-framer-page-link-current]:hover span.framer-text:not([data-text-fill]),code.framer-text span.framer-text[data-framer-page-link-current]:hover,code.framer-text span.framer-text[data-framer-page-link-current]:hover span.framer-text:not([data-text-fill]) {
+                font-family: var(--framer-code-font-family, var(--framer-font-family, Inter, Inter Placeholder, sans-serif));
+                font-style: var(--framer-code-font-style, var(--framer-font-style, normal));
+                font-weight: var(--framer-code-font-weight, var(--framer-font-weight, 400));
+                color: var(--framer-link-hover-text-color, var(--framer-link-current-text-color, var(--framer-link-text-color, var(--framer-code-text-color, var(--framer-text-color, #000)))));
+                font-size: calc(var(--framer-link-hover-font-size, var(--framer-link-current-font-size, var(--framer-link-font-size, var(--framer-font-size, 16px)))) * var(--framer-font-size-scale, 1))
+            }
+
+            @supports not (color: color(display-p3 1 1 1)) {
+                code.framer-text a.framer-text[data-framer-page-link-current]:hover,code.framer-text a.framer-text[data-framer-page-link-current]:hover span.framer-text:not([data-text-fill]),code.framer-text span.framer-text[data-framer-page-link-current]:hover,code.framer-text span.framer-text[data-framer-page-link-current]:hover span.framer-text:not([data-text-fill]) {
+                    color:var(--framer-link-hover-text-color-rgb, var(--framer-link-hover-text-color, var(--framer-link-current-text-color-rgb, var(--framer-link-current-text-color, var(--framer-link-text-color-rgb, var(--framer-link-text-color, var(--framer-code-text-color-rgb, var(--framer-code-text-color, var(--framer-text-color-rgb, var(--framer-text-color, #000))))))))))
+                }
+            }
+
+            .framer-image.framer-text {
+                display: block;
+                max-width: 100%;
+                height: auto
+            }
+
+            .text-styles-preset-reset.framer-text {
+                --framer-font-family: Inter, Inter Placeholder, sans-serif;
+                --framer-font-style: normal;
+                --framer-font-weight: 500;
+                --framer-text-color: #000;
+                --framer-font-size: 16px;
+                --framer-letter-spacing: 0;
+                --framer-text-transform: none;
+                --framer-text-decoration: none;
+                --framer-line-height: 1.2em;
+                --framer-text-alignment: start;
+                --framer-font-open-type-features: normal
+            }
+
+            ol.framer-text {
+                --list-style-type: decimal
+            }
+
+            ul.framer-text,ol.framer-text {
+                padding-left: 3ch;
+                position: relative
+            }
+
+            li.framer-text {
+                counter-increment: list-item;
+                list-style: none
+            }
+
+            ol.framer-text>li.framer-text:before {
+                position: absolute;
+                left: 0;
+                content: counter(list-item,var(--list-style-type)) ".";
+                font-variant-numeric: tabular-nums
+            }
+
+            ol.framer-text>li.framer-text:nth-last-child(n+100),ol.framer-text>li.framer-text:nth-last-child(n+100)~li {
+                padding-left: 1ch
+            }
+
+            ol.framer-text>li.framer-text:nth-last-child(n+1000),ol.framer-text>li.framer-text:nth-last-child(n+1000)~li {
+                padding-left: 2ch
+            }
+
+            ol.framer-text>li.framer-text:nth-last-child(n+10000),ol.framer-text>li.framer-text:nth-last-child(n+10000)~li {
+                padding-left: 3ch
+            }
+
+            ol.framer-text>li.framer-text:nth-last-child(n+100000),ol.framer-text>li.framer-text:nth-last-child(n+100000)~li {
+                padding-left: 4ch
+            }
+
+            ol.framer-text>li.framer-text:nth-last-child(n+1000000),ol.framer-text>li.framer-text:nth-last-child(n+1000000)~li {
+                padding-left: 5ch
+            }
+
+            ul.framer-text>li.framer-text:before {
+                position: absolute;
+                left: 0;
+                content: "\2022"
+            }
+
+            .framer-table-wrapper {
+                overflow-x: auto
+            }
+
+            table.framer-text,.framer-table-wrapper table.framer-text {
+                border-collapse: separate;
+                border-spacing: 0;
+                table-layout: auto;
+                word-break: normal;
+                width: 100%
+            }
+
+            td.framer-text,th.framer-text {
+                min-width: 16ch;
+                vertical-align: top
+            }
+
+            .framer-text-module[style*=aspect-ratio]>:first-child {
+                width: 100%
+            }
+
+            @supports not (aspect-ratio: 1) {
+                .framer-text-module[style*=aspect-ratio] {
+                    position:relative
+                }
+            }
+
+            @supports not (aspect-ratio: 1) {
+                .framer-text-module[style*=aspect-ratio]:before {
+                    content:"";
+                    display: block;
+                    padding-bottom: calc(100% / calc(var(--aspect-ratio)))
+                }
+            }
+
+            @supports not (aspect-ratio: 1) {
+                .framer-text-module[style*=aspect-ratio]>:first-child {
+                    position:absolute;
+                    top: 0;
+                    left: 0;
+                    height: 100%
+                }
+            }
+
+            [data-framer-component-type=DeprecatedRichText] {
+                cursor: inherit
+            }
+
+            [data-framer-component-type=DeprecatedRichText] .text-styles-preset-reset {
+                --framer-font-family: Inter, Inter Placeholder, sans-serif;
+                --framer-font-style: normal;
+                --framer-font-weight: 500;
+                --framer-text-color: #000;
+                --framer-font-size: 16px;
+                --framer-letter-spacing: 0;
+                --framer-text-transform: none;
+                --framer-text-decoration: none;
+                --framer-line-height: 1.2em;
+                --framer-text-alignment: start;
+                --framer-font-open-type-features: normal;
+                --font-variation-settings: normal
+            }
+
+            [data-framer-component-type=DeprecatedRichText] p,[data-framer-component-type=DeprecatedRichText] div,[data-framer-component-type=DeprecatedRichText] h1,[data-framer-component-type=DeprecatedRichText] h2,[data-framer-component-type=DeprecatedRichText] h3,[data-framer-component-type=DeprecatedRichText] h4,[data-framer-component-type=DeprecatedRichText] h5,[data-framer-component-type=DeprecatedRichText] h6 {
+                margin: 0;
+                padding: 0
+            }
+
+            [data-framer-component-type=DeprecatedRichText] p,[data-framer-component-type=DeprecatedRichText] div,[data-framer-component-type=DeprecatedRichText] h1,[data-framer-component-type=DeprecatedRichText] h2,[data-framer-component-type=DeprecatedRichText] h3,[data-framer-component-type=DeprecatedRichText] h4,[data-framer-component-type=DeprecatedRichText] h5,[data-framer-component-type=DeprecatedRichText] h6,[data-framer-component-type=DeprecatedRichText] li,[data-framer-component-type=DeprecatedRichText] ol,[data-framer-component-type=DeprecatedRichText] ul,[data-framer-component-type=DeprecatedRichText] span:not([data-text-fill]) {
+                font-family: var(--framer-font-family, Inter, Inter Placeholder, sans-serif);
+                font-style: var(--framer-font-style, normal);
+                font-weight: var(--framer-font-weight, 400);
+                color: var(--framer-text-color, #000);
+                font-size: var(--framer-font-size, 16px);
+                letter-spacing: var(--framer-letter-spacing, 0);
+                text-transform: var(--framer-text-transform, none);
+                text-decoration: var(--framer-text-decoration, none);
+                line-height: var(--framer-line-height, 1.2em);
+                text-align: var(--framer-text-alignment, start)
+            }
+
+            [data-framer-component-type=DeprecatedRichText] p:not(:first-child),[data-framer-component-type=DeprecatedRichText] div:not(:first-child),[data-framer-component-type=DeprecatedRichText] h1:not(:first-child),[data-framer-component-type=DeprecatedRichText] h2:not(:first-child),[data-framer-component-type=DeprecatedRichText] h3:not(:first-child),[data-framer-component-type=DeprecatedRichText] h4:not(:first-child),[data-framer-component-type=DeprecatedRichText] h5:not(:first-child),[data-framer-component-type=DeprecatedRichText] h6:not(:first-child),[data-framer-component-type=DeprecatedRichText] ol:not(:first-child),[data-framer-component-type=DeprecatedRichText] ul:not(:first-child),[data-framer-component-type=DeprecatedRichText] .framer-image:not(:first-child) {
+                margin-top: var(--framer-paragraph-spacing, 0)
+            }
+
+            [data-framer-component-type=DeprecatedRichText] span[data-text-fill] {
+                display: inline-block;
+                background-clip: text;
+                -webkit-background-clip: text;
+                -webkit-text-fill-color: transparent
+            }
+
+            [data-framer-component-type=DeprecatedRichText] a,[data-framer-component-type=DeprecatedRichText] a span:not([data-text-fill]) {
+                font-family: var(--framer-link-font-family, var(--framer-font-family, Inter, Inter Placeholder, sans-serif));
+                font-style: var(--framer-link-font-style, var(--framer-font-style, normal));
+                font-weight: var(--framer-link-font-weight, var(--framer-font-weight, 400));
+                color: var(--framer-link-text-color, var(--framer-text-color, #000));
+                font-size: var(--framer-link-font-size, var(--framer-font-size, 16px));
+                text-transform: var(--framer-link-text-transform, var(--framer-text-transform, none));
+                text-decoration: var(--framer-link-text-decoration, var(--framer-text-decoration, none))
+            }
+
+            [data-framer-component-type=DeprecatedRichText] a:hover,[data-framer-component-type=DeprecatedRichText] a:hover span:not([data-text-fill]) {
+                font-family: var(--framer-link-hover-font-family, var(--framer-link-font-family, var(--framer-font-family, Inter, Inter Placeholder, sans-serif)));
+                font-style: var(--framer-link-hover-font-style, var(--framer-link-font-style, var(--framer-font-style, normal)));
+                font-weight: var(--framer-link-hover-font-weight, var(--framer-link-font-weight, var(--framer-font-weight, 400)));
+                color: var(--framer-link-hover-text-color, var(--framer-link-text-color, var(--framer-text-color, #000)));
+                font-size: var(--framer-link-hover-font-size, var(--framer-link-font-size, var(--framer-font-size, 16px)));
+                text-transform: var(--framer-link-hover-text-transform, var(--framer-link-text-transform, var(--framer-text-transform, none)));
+                text-decoration: var(--framer-link-hover-text-decoration, var(--framer-link-text-decoration, var(--framer-text-decoration, none)))
+            }
+
+            [data-framer-component-type=DeprecatedRichText] a[data-framer-page-link-current],[data-framer-component-type=DeprecatedRichText] a[data-framer-page-link-current] span:not([data-text-fill]):not([data-nested-link]) {
+                font-family: var(--framer-link-current-font-family, var(--framer-link-font-family, var(--framer-font-family, Inter, Inter Placeholder, sans-serif)));
+                font-style: var(--framer-link-current-font-style, var(--framer-link-font-style, var(--framer-font-style, normal)));
+                font-weight: var(--framer-link-current-font-weight, var(--framer-link-font-weight, var(--framer-font-weight, 400)));
+                color: var(--framer-link-current-text-color, var(--framer-link-text-color, var(--framer-text-color, #000)));
+                font-size: var(--framer-link-current-font-size, var(--framer-link-font-size, var(--framer-font-size, 16px)));
+                text-transform: var(--framer-link-current-text-transform, var(--framer-link-text-transform, var(--framer-text-transform, none)));
+                text-decoration: var(--framer-link-current-text-decoration, var(--framer-link-text-decoration, var(--framer-text-decoration, none)))
+            }
+
+            [data-framer-component-type=DeprecatedRichText] a[data-framer-page-link-current]:hover,[data-framer-component-type=DeprecatedRichText] a[data-framer-page-link-current]:hover span:not([data-text-fill]):not([data-nested-link]) {
+                font-family: var(--framer-link-hover-font-family, var(--framer-link-current-font-family, var(--framer-link-font-family, var(--framer-font-family, Inter, Inter Placeholder, sans-serif))));
+                font-style: var(--framer-link-hover-font-style, var(--framer-link-current-font-style, var(--framer-link-font-style, var(--framer-font-style, normal))));
+                font-weight: var(--framer-link-hover-font-weight, var(--framer-link-current-font-weight, var(--framer-link-font-weight, var(--framer-font-weight, 400))));
+                color: var(--framer-link-hover-text-color, var(--framer-link-current-text-color, var(--framer-link-text-color, var(--framer-text-color, #000))));
+                font-size: var(--framer-link-hover-font-size, var(--framer-link-current-font-size, var(--framer-link-font-size, var(--framer-font-size, 16px))));
+                text-transform: var(--framer-link-hover-text-transform, var(--framer-link-current-text-transform, var(--framer-link-text-transform, var(--framer-text-transform, none))));
+                text-decoration: var(--framer-link-hover-text-decoration, var(--framer-link-current-text-decoration, var(--framer-link-text-decoration, var(--framer-text-decoration, none))))
+            }
+
+            [data-framer-component-type=DeprecatedRichText] strong {
+                font-weight: bolder
+            }
+
+            [data-framer-component-type=DeprecatedRichText] em {
+                font-style: italic
+            }
+
+            [data-framer-component-type=DeprecatedRichText] .framer-image {
+                display: block;
+                max-width: 100%;
+                height: auto
+            }
+
+            [data-framer-component-type=DeprecatedRichText] ul,[data-framer-component-type=DeprecatedRichText] ol {
+                display: table;
+                width: 100%;
+                padding-left: 0;
+                margin: 0
+            }
+
+            [data-framer-component-type=DeprecatedRichText] li {
+                display: table-row;
+                counter-increment: list-item;
+                list-style: none
+            }
+
+            [data-framer-component-type=DeprecatedRichText] ol>li:before {
+                display: table-cell;
+                width: 2.25ch;
+                box-sizing: border-box;
+                padding-right: .75ch;
+                content: counter(list-item) ".";
+                white-space: nowrap
+            }
+
+            [data-framer-component-type=DeprecatedRichText] ul>li:before {
+                display: table-cell;
+                width: 2.25ch;
+                box-sizing: border-box;
+                padding-right: .75ch;
+                content: "\2022"
+            }
+
+            :not([data-framer-generated])>[data-framer-stack-content-wrapper]>*,:not([data-framer-generated])>[data-framer-stack-content-wrapper]>[data-framer-component-type],:not([data-framer-generated])>[data-framer-stack-content-wrapper]>[data-framer-legacy-stack-gap-enabled]>*,:not([data-framer-generated])>[data-framer-stack-content-wrapper]>[data-framer-legacy-stack-gap-enabled]>[data-framer-component-type] {
+                position: relative
+            }
+
+            .flexbox-gap-not-supported [data-framer-legacy-stack-gap-enabled=true]>*,[data-framer-legacy-stack-gap-enabled=true][data-framer-stack-flexbox-gap=false] {
+                margin-top: calc(var(--stack-gap-y) / 2);
+                margin-bottom: calc(var(--stack-gap-y) / 2);
+                margin-right: calc(var(--stack-gap-x) / 2);
+                margin-left: calc(var(--stack-gap-x) / 2)
+            }
+
+            [data-framer-stack-content-wrapper][data-framer-stack-gap-enabled=true] {
+                row-gap: var(--stack-native-row-gap);
+                column-gap: var(--stack-native-column-gap)
+            }
+
+            .flexbox-gap-not-supported [data-framer-stack-content-wrapper][data-framer-stack-gap-enabled=true] {
+                row-gap: unset;
+                column-gap: unset
+            }
+
+            .flexbox-gap-not-supported [data-framer-stack-direction-reverse=false] [data-framer-legacy-stack-gap-enabled=true]>*:first-child,[data-framer-stack-direction-reverse=false] [data-framer-legacy-stack-gap-enabled=true][data-framer-stack-flexbox-gap=false]>*:first-child,.flexbox-gap-not-supported [data-framer-stack-direction-reverse=true] [data-framer-legacy-stack-gap-enabled=true]>*:last-child,[data-framer-stack-direction-reverse=true] [data-framer-legacy-stack-gap-enabled=true][data-framer-stack-flexbox-gap=false]>*:last-child {
+                margin-top: 0;
+                margin-left: 0
+            }
+
+            .flexbox-gap-not-supported [data-framer-stack-direction-reverse=false] [data-framer-legacy-stack-gap-enabled=true]>*:last-child,[data-framer-stack-direction-reverse=false] [data-framer-legacy-stack-gap-enabled=true][data-framer-stack-flexbox-gap=false]>*:last-child,.flexbox-gap-not-supported [data-framer-stack-direction-reverse=true] [data-framer-legacy-stack-gap-enabled=true]>*:first-child,[data-framer-stack-direction-reverse=true] [data-framer-legacy-stack-gap-enabled=true][data-framer-stack-flexbox-gap=false]>*:first-child {
+                margin-right: 0;
+                margin-bottom: 0
+            }
+
+            NavigationContainer [data-framer-component-type=NavigationContainer]>*,[data-framer-component-type=NavigationContainer]>[data-framer-component-type] {
+                position: relative
+            }
+
+            [data-framer-component-type=Scroll]::-webkit-scrollbar {
+                display: none
+            }
+
+            [data-framer-component-type=ScrollContentWrapper]>* {
+                position: relative
+            }
+
+            [data-framer-component-type=NativeScroll] {
+                -webkit-overflow-scrolling: touch
+            }
+
+            [data-framer-component-type=NativeScroll]>* {
+                position: relative
+            }
+
+            [data-framer-component-type=NativeScroll].direction-both {
+                overflow-x: scroll;
+                overflow-y: scroll
+            }
+
+            [data-framer-component-type=NativeScroll].direction-vertical {
+                overflow-x: hidden;
+                overflow-y: scroll
+            }
+
+            [data-framer-component-type=NativeScroll].direction-horizontal {
+                overflow-x: scroll;
+                overflow-y: hidden
+            }
+
+            [data-framer-component-type=NativeScroll].direction-vertical>* {
+                width: 100%!important
+            }
+
+            [data-framer-component-type=NativeScroll].direction-horizontal>* {
+                height: 100%!important
+            }
+
+            [data-framer-component-type=NativeScroll].scrollbar-hidden::-webkit-scrollbar {
+                display: none
+            }
+
+            [data-framer-component-type=PageContentWrapper]>*,[data-framer-component-type=PageContentWrapper]>[data-framer-component-type] {
+                position: relative
+            }
+
+            [data-framer-component-type=DeviceComponent].no-device>* {
+                width: 100%!important;
+                height: 100%!important
+            }
+
+            [data-is-present=false],[data-is-present=false] * {
+                pointer-events: none!important
+            }
+
+            [data-framer-cursor=pointer] {
+                cursor: pointer
+            }
+
+            [data-framer-cursor=grab] {
+                cursor: grab
+            }
+
+            [data-framer-cursor=grab]:active {
+                cursor: grabbing
+            }
+
+            [data-framer-component-type=Frame] *,[data-framer-component-type=Stack] * {
+                pointer-events: auto
+            }
+
+            [data-framer-generated] * {
+                pointer-events: unset
+            }
+
+            .svgContainer svg {
+                display: block
+            }
+
+            [data-reset=button] {
+                border-width: 0;
+                padding: 0;
+                background: none
+            }
+
+            [data-hide-scrollbars=true]::-webkit-scrollbar {
+                width: 0px;
+                height: 0px
+            }
+
+            [data-hide-scrollbars=true]::-webkit-scrollbar-thumb {
+                background: transparent
+            }
+
+            [data-hide-scrollbars=true] {
+                scrollbar-width: none
+            }
+
+            .framer-cursor-none,.framer-cursor-none * {
+                cursor: none!important
+            }
+
+            .framer-pointer-events-none,.framer-pointer-events-none * {
+                pointer-events: none!important
+            }
+
+            .framer-1qXmj.framer-fjlu8w,.framer-1qXmj .framer-fjlu8w {
+                display: block
+            }
+
+            .framer-1qXmj.framer-ynmlr3 {
+                align-content: center;
+                align-items: center;
+                background-color: var(--token-f5646347-2529-487d-8af1-d99f05c5451c, #0a0a0a);
+                display: flex;
+                flex-direction: column;
+                flex-wrap: nowrap;
+                gap: 0px;
+                height: min-content;
+                justify-content: flex-start;
+                padding: 0;
+                position: relative;
+                width: 100%
+            }
+
+            .framer-1qXmj .framer-11n6lfm-container {
+                flex: none;
+                height: auto;
+                left: 50%;
+                max-width: 840px;
+                position: var(--framer-canvas-fixed-position, fixed);
+                top: 25px;
+                transform: translate(-50%);
+                width: 840px;
+                z-index: 8
+            }
+
+            .framer-1qXmj .framer-wi2ciu {
+                background: transparent;
+                flex-grow: 1;
+                height: 0px;
+                margin: 0 0 -0px;
+                position: relative;
+                width: 0px
+            }
+
+            [data-layout-template=true]>#overlay {
+                margin-bottom: -0px
+            }
+
+            @media (max-width: 749px) {
+                .framer-1qXmj .framer-11n6lfm-container {
+                    width:95%
+                }
+            }
+
+            @media (min-width: 750px) and (max-width: 1299px) {
+                .framer-1qXmj .framer-11n6lfm-container {
+                    width:90%
+                }
+            }
+
+            .framer-151yu.framer-g9law,.framer-151yu .framer-g9law {
+                display: block
+            }
+
+            .framer-151yu.framer-7ui4vy {
+                align-content: center;
+                align-items: center;
+                display: flex;
+                flex-direction: row;
+                flex-wrap: nowrap;
+                gap: 0px;
+                height: 64px;
+                justify-content: center;
+                overflow: visible;
+                padding: 0;
+                position: relative;
+                width: 840px
+            }
+
+            .framer-151yu .framer-beie2w {
+                align-content: center;
+                align-items: center;
+                display: flex;
+                flex: 1 0 0px;
+                flex-direction: row;
+                flex-wrap: nowrap;
+                gap: 32px;
+                height: 100%;
+                justify-content: flex-start;
+                max-width: 1350px;
+                overflow: visible;
+                padding: 0 40px;
+                position: relative;
+                width: 1px
+            }
+
+            .framer-151yu .framer-1hstkbv {
+                align-content: center;
+                align-items: center;
+                display: flex;
+                flex: none;
+                flex-direction: row;
+                flex-wrap: nowrap;
+                height: 64px;
+                justify-content: space-between;
+                overflow: visible;
+                padding: 0;
+                position: relative;
+                width: 292px
+            }
+
+            .framer-151yu .framer-skoexp,.framer-151yu .framer-11km8nm,.framer-151yu .framer-189yefz {
+                align-content: center;
+                align-items: center;
+                display: flex;
+                flex: none;
+                flex-direction: row;
+                flex-wrap: nowrap;
+                gap: 10px;
+                height: 33px;
+                justify-content: center;
+                overflow: hidden;
+                padding: 0;
+                position: relative;
+                width: 136px
+            }
+
+            .framer-151yu .framer-1b1o4zc,.framer-151yu .framer-1vd7fuy,.framer-151yu .framer-1mh7vs0 {
+                flex: none;
+                gap: 10px;
+                height: 33px;
+                overflow: visible;
+                position: relative;
+                width: 34px
+            }
+
+            .framer-151yu .framer-8zhj5c,.framer-151yu .framer-14e3fp3,.framer-151yu .framer-2344cf {
+                flex: none;
+                height: auto;
+                position: relative;
+                white-space: pre;
+                width: auto
+            }
+
+            .framer-151yu .framer-1kjgda5-container,.framer-151yu .framer-12ze8jm-container,.framer-151yu .framer-d513k-container,.framer-151yu .framer-1hho832-container,.framer-151yu .framer-1npidy0-container,.framer-151yu .framer-t5vekd-container {
+                flex: none;
+                height: auto;
+                position: relative;
+                width: auto
+            }
+
+            .framer-151yu .framer-auuvt8 {
+                align-content: center;
+                align-items: center;
+                display: flex;
+                flex: 1 0 0px;
+                flex-direction: row;
+                flex-wrap: nowrap;
+                gap: 10px;
+                height: min-content;
+                justify-content: flex-start;
+                min-height: 64px;
+                overflow: visible;
+                padding: 0;
+                position: relative;
+                width: 1px
+            }
+
+            .framer-151yu .framer-14grg2k {
+                align-content: center;
+                align-items: center;
+                display: flex;
+                flex: none;
+                flex-direction: row;
+                flex-wrap: nowrap;
+                gap: 16px;
+                height: min-content;
+                justify-content: center;
+                overflow: visible;
+                padding: 0;
+                position: relative;
+                width: min-content
+            }
+
+            .framer-151yu .framer-65b4ht {
+                align-content: center;
+                align-items: center;
+                display: flex;
+                flex: none;
+                flex-direction: row;
+                flex-wrap: nowrap;
+                gap: 8px;
+                height: min-content;
+                justify-content: center;
+                overflow: visible;
+                padding: 0;
+                position: relative;
+                width: min-content
+            }
+
+            .framer-151yu.framer-v-18ihko2.framer-7ui4vy {
+                align-content: flex-start;
+                align-items: flex-start;
+                flex-wrap: wrap;
+                overflow: hidden;
+                width: 390px;
+                will-change: var(--framer-will-change-override, transform)
+            }
+
+            .framer-151yu.framer-v-18ihko2 .framer-beie2w {
+                align-content: flex-start;
+                align-items: flex-start;
+                flex-direction: column;
+                gap: 8px;
+                height: 64px;
+                padding: 0 18px 32px
+            }
+
+            .framer-151yu.framer-v-18ihko2 .framer-14grg2k,.framer-151yu.framer-v-18ihko2 .framer-65b4ht,.framer-151yu.framer-v-1ubwsoj .framer-14grg2k {
+                align-content: flex-start;
+                align-items: flex-start;
+                flex-direction: column;
+                width: 100%
+            }
+
+            .framer-151yu.framer-v-1ubwsoj.framer-7ui4vy {
+                align-content: flex-start;
+                align-items: flex-start;
+                flex-wrap: wrap;
+                height: min-content;
+                overflow: hidden;
+                padding: 0 18px 32px;
+                width: 390px;
+                will-change: var(--framer-will-change-override, transform)
+            }
+
+            .framer-151yu.framer-v-1ubwsoj .framer-beie2w {
+                align-content: flex-start;
+                align-items: flex-start;
+                flex-direction: column;
+                gap: 8px;
+                height: min-content;
+                padding: 0 0 32px
+            }
+
+            .framer-151yu.framer-v-1ubwsoj .framer-auuvt8 {
+                flex: none;
+                gap: unset;
+                height: 64px;
+                justify-content: space-between;
+                min-height: unset;
+                width: 100%
+            }
+
+            .framer-151yu.framer-v-1ubwsoj .framer-65b4ht {
+                flex-direction: column;
+                width: 100%
+            }
+
+            .framer-151yu.framer-v-1ubwsoj .framer-d513k-container,.framer-151yu.framer-v-1ubwsoj .framer-1hho832-container,.framer-151yu.framer-v-1ubwsoj .framer-1npidy0-container,.framer-151yu.framer-v-1ubwsoj .framer-t5vekd-container {
+                width: 100%
+            }
+
+            .framer-151yu[data-border=true]:after,.framer-151yu [data-border=true]:after {
+                content: "";
+                border-width: var(--border-top-width, 0) var(--border-right-width, 0) var(--border-bottom-width, 0) var(--border-left-width, 0);
+                border-color: var(--border-color, none);
+                border-style: var(--border-style, none);
+                width: 100%;
+                height: 100%;
+                position: absolute;
+                box-sizing: border-box;
+                left: 0;
+                top: 0;
+                border-radius: inherit;
+                pointer-events: none
+            }
+
+            .framer-l8LZC.framer-du93ly,.framer-l8LZC .framer-du93ly {
+                display: block
+            }
+
+            .framer-l8LZC.framer-12isa6r {
+                align-content: center;
+                align-items: center;
+                cursor: pointer;
+                display: flex;
+                flex-direction: row;
+                flex-wrap: nowrap;
+                gap: 8px;
+                height: min-content;
+                justify-content: flex-start;
+                overflow: hidden;
+                padding: 3px;
+                position: relative;
+                width: min-content
+            }
+
+            .framer-l8LZC .framer-1hishfo-container {
+                flex: none;
+                height: auto;
+                position: relative;
+                width: auto;
+                z-index: 1
+            }
+
+            .framer-l8LZC .framer-1dwfo1m {
+                flex: none;
+                inset: 2px 4px;
+                overflow: hidden;
+                position: absolute;
+                will-change: var(--framer-will-change-override, transform);
+                z-index: 0
+            }
+
+            @supports (background: -webkit-named-image(i)) and (not (font-palette:dark)) {
+                .framer-l8LZC.framer-12isa6r {
+                    gap:0px
+                }
+
+                .framer-l8LZC.framer-12isa6r>* {
+                    margin: 0 4px
+                }
+
+                .framer-l8LZC.framer-12isa6r>:first-child {
+                    margin-left: 0
+                }
+
+                .framer-l8LZC.framer-12isa6r>:last-child {
+                    margin-right: 0
+                }
+            }
+
+            .framer-l8LZC.framer-v-12isa6r.hover .framer-1dwfo1m,.framer-l8LZC.framer-v-q9jm1r.hover .framer-1dwfo1m {
+                inset: 0
+            }
+
+            .framer-hEL9t.framer-mdcvs0,.framer-hEL9t .framer-mdcvs0 {
+                display: block
+            }
+
+            .framer-hEL9t.framer-u2tgai {
+                cursor: pointer;
+                height: 30px;
+                overflow: hidden;
+                position: relative;
+                width: 30px
+            }
+
+            .framer-hEL9t .framer-1w07jwh {
+                flex: none;
+                height: 2px;
+                left: calc(50.00000000000002% - 20px / 2);
+                overflow: visible;
+                position: absolute;
+                top: 10px;
+                width: 20px
+            }
+
+            .framer-hEL9t .framer-1ucutao {
+                bottom: 10px;
+                flex: none;
+                height: 2px;
+                left: calc(50.00000000000002% - 20px / 2);
+                overflow: visible;
+                position: absolute;
+                width: 20px
+            }
+
+            .framer-hEL9t.framer-v-1r3tigq.framer-u2tgai {
+                aspect-ratio: 1 / 1;
+                height: var(--framer-aspect-ratio-supported, 30px)
+            }
+
+            .framer-hEL9t.framer-v-1r3tigq .framer-1w07jwh {
+                top: calc(50.00000000000002% - 2px / 2)
+            }
+
+            .framer-hEL9t.framer-v-1r3tigq .framer-1ucutao {
+                bottom: unset;
+                top: calc(50.00000000000002% - 2px / 2)
+            }
+
+            .framer-MsQXt.framer-1mkmxms,.framer-MsQXt .framer-1mkmxms {
+                display: block
+            }
+
+            .framer-MsQXt.framer-1h5x971 {
+                align-content: center;
+                align-items: center;
+                cursor: pointer;
+                display: flex;
+                flex-direction: row;
+                flex-wrap: nowrap;
+                gap: 6px;
+                height: 64px;
+                justify-content: flex-start;
+                overflow: hidden;
+                padding: 6px 12px;
+                position: relative;
+                text-decoration: none;
+                width: min-content
+            }
+
+            .framer-MsQXt .framer-ixwgze {
+                -webkit-user-select: none;
+                flex: none;
+                height: auto;
+                overflow: visible;
+                position: relative;
+                user-select: none;
+                white-space: pre;
+                width: auto;
+                z-index: 1
+            }
+
+            @supports (background: -webkit-named-image(i)) and (not (font-palette:dark)) {
+                .framer-MsQXt.framer-1h5x971 {
+                    gap:0px
+                }
+
+                .framer-MsQXt.framer-1h5x971>* {
+                    margin: 0 3px
+                }
+
+                .framer-MsQXt.framer-1h5x971>:first-child {
+                    margin-left: 0
+                }
+
+                .framer-MsQXt.framer-1h5x971>:last-child {
+                    margin-right: 0
+                }
+            }
+
+            .framer-gzpkS.framer-lux5qc,.framer-gzpkS .framer-lux5qc {
+                display: block
+            }
+
+            .framer-gzpkS.framer-72rtr7 {
+                align-content: center;
+                align-items: center;
+                background-color: #000;
+                display: flex;
+                flex-direction: column;
+                flex-wrap: nowrap;
+                gap: 0px;
+                height: min-content;
+                justify-content: flex-start;
+                overflow: visible;
+                padding: 0;
+                position: relative;
+                width: 1300px
+            }
+
+            .framer-gzpkS .framer-19jf7yw {
+                align-content: center;
+                align-items: center;
+                display: flex;
+                flex: none;
+                flex-direction: column;
+                flex-wrap: nowrap;
+                gap: 70px;
+                height: min-content;
+                justify-content: center;
+                overflow: hidden;
+                padding: 160px 40px 100px;
+                position: relative;
+                width: 100%
+            }
+
+            .framer-gzpkS .framer-proezj {
+                align-content: center;
+                align-items: center;
+                display: flex;
+                flex: none;
+                flex-direction: column;
+                flex-wrap: nowrap;
+                gap: 44px;
+                height: min-content;
+                justify-content: center;
+                overflow: visible;
+                padding: 0;
+                position: relative;
+                width: 100%
+            }
+
+            .framer-gzpkS .framer-16gmzkm {
+                align-content: flex-start;
+                align-items: flex-start;
+                display: flex;
+                flex: none;
+                flex-direction: column;
+                flex-wrap: nowrap;
+                gap: 24px;
+                height: min-content;
+                justify-content: center;
+                max-width: 1200px;
+                overflow: visible;
+                padding: 0;
+                position: relative;
+                width: 100%;
+                z-index: 3
+            }
+
+            .framer-gzpkS .framer-15rs65j-container,.framer-gzpkS .framer-h1h6ez-container,.framer-gzpkS .framer-142rx2f-container,.framer-gzpkS .framer-8edj8b-container,.framer-gzpkS .framer-1ga9jn2-container,.framer-gzpkS .framer-wh422y-container,.framer-gzpkS .framer-7muodc-container,.framer-gzpkS .framer-dq26nc-container,.framer-gzpkS .framer-i19y5c-container,.framer-gzpkS .framer-6jq0ri-container,.framer-gzpkS .framer-qfl6p0-container {
+                flex: none;
+                height: auto;
+                position: relative;
+                width: auto;
+                will-change: var(--framer-will-change-effect-override, transform)
+            }
+
+            .framer-gzpkS .framer-1qmwjf3 {
+                align-content: flex-start;
+                align-items: flex-start;
+                display: flex;
+                flex: none;
+                flex-direction: column;
+                flex-wrap: nowrap;
+                gap: 16px;
+                height: min-content;
+                justify-content: center;
+                max-width: 600px;
+                overflow: visible;
+                padding: 0;
+                position: relative;
+                width: 100%
+            }
+
+            .framer-gzpkS .framer-brju1u,.framer-gzpkS .framer-32h4k8 {
+                align-content: center;
+                align-items: center;
+                display: flex;
+                flex: none;
+                flex-direction: row;
+                flex-wrap: wrap;
+                gap: 16px;
+                height: min-content;
+                justify-content: flex-start;
+                overflow: visible;
+                padding: 0;
+                position: relative;
+                width: 100%
+            }
+
+            .framer-gzpkS .framer-13qy7mu,.framer-gzpkS .framer-1qg4at5 {
+                -webkit-user-select: none;
+                flex: none;
+                height: auto;
+                max-width: 496px;
+                pointer-events: auto;
+                position: relative;
+                user-select: none;
+                white-space: pre-wrap;
+                width: auto;
+                word-break: break-word;
+                word-wrap: break-word
+            }
+
+            .framer-gzpkS .framer-eonpnc-container,.framer-gzpkS .framer-y5cmjp-container,.framer-gzpkS .framer-2wwajj-container,.framer-gzpkS .framer-8ahuka-container,.framer-gzpkS .framer-1436kte-container,.framer-gzpkS .framer-ynxwrr-container,.framer-gzpkS .framer-1hon8kr-container {
+                flex: none;
+                height: auto;
+                position: relative;
+                width: auto
+            }
+
+            .framer-gzpkS .framer-1fxib7w {
+                align-content: flex-start;
+                align-items: flex-start;
+                display: flex;
+                flex: none;
+                flex-direction: column;
+                flex-wrap: nowrap;
+                gap: 10px;
+                height: min-content;
+                justify-content: center;
+                max-width: 500px;
+                overflow: hidden;
+                padding: 0;
+                position: relative;
+                width: 100%
+            }
+
+            .framer-gzpkS .framer-1f0e319,.framer-gzpkS .framer-14i1brs,.framer-gzpkS .framer-16dayhl,.framer-gzpkS .framer-qvae0h,.framer-gzpkS .framer-1nii7z6 {
+                -webkit-user-select: none;
+                flex: none;
+                height: auto;
+                pointer-events: auto;
+                position: relative;
+                user-select: none;
+                white-space: pre-wrap;
+                width: 100%;
+                word-break: break-word;
+                word-wrap: break-word
+            }
+
+            .framer-gzpkS .framer-mx672x {
+                align-content: center;
+                align-items: center;
+                display: flex;
+                flex: none;
+                flex-direction: column;
+                flex-wrap: nowrap;
+                gap: 24px;
+                height: min-content;
+                justify-content: center;
+                overflow: visible;
+                padding: 0;
+                position: absolute;
+                right: 310px;
+                top: 51px;
+                width: min-content;
+                z-index: 2
+            }
+
+            .framer-gzpkS .framer-rlksl5-container,.framer-gzpkS .framer-520j3r-container {
+                flex: none;
+                height: auto;
+                position: relative;
+                width: 209px
+            }
+
+            .framer-gzpkS .framer-1v5cgu0-container {
+                bottom: 10px;
+                flex: none;
+                height: 25px;
+                position: absolute;
+                right: -38px;
+                width: 25px;
+                z-index: 1
+            }
+
+            .framer-gzpkS .framer-1shfjc1 {
+                align-content: center;
+                align-items: center;
+                display: flex;
+                flex: none;
+                flex-direction: column;
+                flex-wrap: nowrap;
+                gap: 24px;
+                height: min-content;
+                justify-content: center;
+                overflow: visible;
+                padding: 0;
+                position: absolute;
+                right: 19px;
+                top: 178px;
+                width: min-content;
+                z-index: 2
+            }
+
+            .framer-gzpkS .framer-1bypo68-container {
+                flex: none;
+                height: 25px;
+                left: -14px;
+                position: absolute;
+                top: -31px;
+                width: 25px;
+                z-index: 1
+            }
+
+            .framer-gzpkS .framer-1tgr5dl {
+                align-content: center;
+                align-items: center;
+                border-radius: 36px;
+                display: flex;
+                flex: none;
+                flex-direction: row;
+                flex-wrap: nowrap;
+                gap: 5px;
+                height: min-content;
+                justify-content: center;
+                overflow: hidden;
+                padding: 7px;
+                position: relative;
+                text-decoration: none;
+                width: min-content;
+                will-change: var(--framer-will-change-override, transform);
+                z-index: 7
+            }
+
+            .framer-gzpkS .framer-z125dv-container {
+                flex: none;
+                height: 25px;
+                position: relative;
+                width: 25px
+            }
+
+            .framer-gzpkS .framer-18jh2m7-container {
+                -webkit-filter: grayscale(1);
+                filter: grayscale(1);
+                flex: none;
+                height: 1069px;
+                opacity: .08;
+                position: absolute;
+                right: -40px;
+                top: -160px;
+                width: 1360px;
+                z-index: 1
+            }
+
+            .framer-gzpkS .framer-jurclp {
+                flex: none;
+                height: 382px;
+                left: calc(50.00000000000002% - 840px / 2);
+                overflow: hidden;
+                position: absolute;
+                top: 0;
+                width: 840px
+            }
+
+            .framer-gzpkS .framer-1xb91t7-container {
+                flex: none;
+                height: 1px;
+                left: -120px;
+                position: absolute;
+                top: calc(52.63157894736844% - 1px / 2);
+                width: 100px;
+                z-index: 2
+            }
+
+            .framer-gzpkS .framer-1i0w92m-container {
+                flex: none;
+                height: 1px;
+                left: -90px;
+                position: absolute;
+                top: -40px;
+                width: 100px;
+                z-index: 2
+            }
+
+            .framer-gzpkS .framer-1jn488y-container {
+                flex: none;
+                height: 1px;
+                left: -100px;
+                position: absolute;
+                top: 83px;
+                width: 100px;
+                z-index: 2
+            }
+
+            .framer-gzpkS .framer-1xc8lci-container {
+                flex: none;
+                height: 1px;
+                left: -120px;
+                position: absolute;
+                top: 10px;
+                width: 100px;
+                z-index: 2
+            }
+
+            .framer-gzpkS .framer-1dye2xh-container {
+                flex: none;
+                height: 1px;
+                left: -111px;
+                position: absolute;
+                top: 20px;
+                width: 100px;
+                z-index: 2
+            }
+
+            .framer-gzpkS .framer-6b2916 {
+                -webkit-filter: blur(16px);
+                -webkit-mask: radial-gradient(50% 109.00000000000001% at 50% 50%,#000000 0%,rgba(0,0,0,.96427) 0%,rgba(0,0,0,0) 80.68468468468468%) add;
+                filter: blur(16px);
+                flex: none;
+                height: 1823px;
+                left: -324px;
+                mask: radial-gradient(50% 109.00000000000001% at 50% 50%,#000000 0%,rgba(0,0,0,.96427) 0%,rgba(0,0,0,0) 80.68468468468468%) add;
+                opacity: .35;
+                overflow: hidden;
+                pointer-events: none;
+                position: absolute;
+                right: -160px;
+                top: -704px;
+                z-index: 3
+            }
+
+            .framer-gzpkS .framer-1nv2mco {
+                background: radial-gradient(50% 50% at 50% 50%,var(--token-27dab558-c2be-4da2-b3df-e0c399d3b44b, rgba(255, 255, 255, .6)) 0%,rgba(171,171,171,0) 100%);
+                flex: none;
+                height: 1865px;
+                left: calc(49.75000000000002% - 36px / 2);
+                opacity: .42;
+                overflow: hidden;
+                position: absolute;
+                top: -352px;
+                width: 36px;
+                z-index: 1
+            }
+
+            .framer-gzpkS .framer-1ql46mk {
+                background: radial-gradient(50% 50% at 50% 50%,var(--token-27dab558-c2be-4da2-b3df-e0c399d3b44b, rgba(255, 255, 255, .6)) 0%,rgba(171,171,171,0) 100%);
+                bottom: 147px;
+                flex: none;
+                left: calc(49.50000000000002% - 22px / 2);
+                overflow: hidden;
+                position: absolute;
+                top: -357px;
+                width: 22px;
+                z-index: 1
+            }
+
+            .framer-gzpkS .framer-k80625 {
+                background: radial-gradient(50% 50% at 50% 50%,var(--token-27dab558-c2be-4da2-b3df-e0c399d3b44b, rgba(255, 255, 255, .6)) 0%,rgba(171,171,171,0) 100%);
+                bottom: -7px;
+                flex: none;
+                left: calc(49.50000000000002% - 24px / 2);
+                overflow: hidden;
+                position: absolute;
+                top: -354px;
+                width: 24px;
+                z-index: 1
+            }
+
+            .framer-gzpkS .framer-1relhvq {
+                background: radial-gradient(50% 50% at 50% 50%,var(--token-27dab558-c2be-4da2-b3df-e0c399d3b44b, rgba(255, 255, 255, .6)) 0%,rgba(171,171,171,0) 100%);
+                bottom: -128px;
+                flex: none;
+                left: calc(49.58333333333336% - 25px / 2);
+                overflow: hidden;
+                position: absolute;
+                top: -350px;
+                width: 25px;
+                z-index: 1
+            }
+
+            .framer-gzpkS .framer-1ypobzq {
+                background: radial-gradient(50% 50% at 50% 50%,var(--token-27dab558-c2be-4da2-b3df-e0c399d3b44b, rgba(255, 255, 255, .6)) 0%,rgba(171,171,171,0) 100%);
+                bottom: -920px;
+                flex: none;
+                left: calc(50.00000000000002% - 35px / 2);
+                overflow: hidden;
+                position: absolute;
+                top: -352px;
+                width: 35px;
+                z-index: 1
+            }
+
+            .framer-gzpkS .framer-17ncbfs {
+                background: radial-gradient(50% 50% at 50% 50%,var(--token-27dab558-c2be-4da2-b3df-e0c399d3b44b, rgba(255, 255, 255, .6)) 0%,rgba(171,171,171,0) 100%);
+                bottom: -164px;
+                flex: none;
+                left: calc(49.416666666666686% - 37px / 2);
+                overflow: hidden;
+                position: absolute;
+                top: -348px;
+                width: 37px;
+                z-index: 1
+            }
+
+            .framer-gzpkS .framer-wzf5ut {
+                background: radial-gradient(50% 50% at 50% 50%,var(--token-27dab558-c2be-4da2-b3df-e0c399d3b44b, rgba(255, 255, 255, .6)) 0%,rgba(171,171,171,0) 100%);
+                bottom: -296px;
+                flex: none;
+                left: calc(49.83333333333336% - 16px / 2);
+                overflow: hidden;
+                position: absolute;
+                top: -352px;
+                width: 16px;
+                z-index: 1
+            }
+
+            .framer-gzpkS .framer-1mk5u7h {
+                background: radial-gradient(50% 50% at 50% 50%,var(--token-27dab558-c2be-4da2-b3df-e0c399d3b44b, rgba(255, 255, 255, .6)) 0%,rgba(171,171,171,0) 100%);
+                bottom: -121px;
+                flex: none;
+                left: calc(49.75000000000002% - 11px / 2);
+                overflow: hidden;
+                position: absolute;
+                top: -352px;
+                width: 11px;
+                z-index: 1
+            }
+
+            .framer-gzpkS .framer-1fc61ai {
+                background: radial-gradient(50% 50% at 50% 50%,var(--token-27dab558-c2be-4da2-b3df-e0c399d3b44b, rgba(255, 255, 255, .6)) 0%,rgba(171,171,171,0) 100%);
+                bottom: 29px;
+                flex: none;
+                left: calc(49.75000000000002% - 14px / 2);
+                overflow: hidden;
+                position: absolute;
+                top: -354px;
+                width: 14px;
+                z-index: 1
+            }
+
+            .framer-gzpkS .framer-14xak74 {
+                background: radial-gradient(50% 50% at 50% 50%,var(--token-27dab558-c2be-4da2-b3df-e0c399d3b44b, rgba(255, 255, 255, .6)) 0%,rgba(171,171,171,0) 100%);
+                bottom: -121px;
+                flex: none;
+                left: calc(49.666666666666686% - 14px / 2);
+                overflow: hidden;
+                position: absolute;
+                top: -353px;
+                width: 14px;
+                z-index: 1
+            }
+
+            .framer-gzpkS .framer-73mzne {
+                background: radial-gradient(50% 50% at 50% 50%,var(--token-27dab558-c2be-4da2-b3df-e0c399d3b44b, rgba(255, 255, 255, .6)) 0%,rgba(171,171,171,0) 100%);
+                bottom: -46px;
+                flex: none;
+                left: calc(50.00000000000002% - 1198px / 2);
+                opacity: .13;
+                overflow: hidden;
+                position: absolute;
+                top: -352px;
+                width: 1198px;
+                z-index: 1
+            }
+
+            .framer-gzpkS .framer-1h2dhe7 {
+                background: radial-gradient(50% 50% at 50% 50%,var(--token-27dab558-c2be-4da2-b3df-e0c399d3b44b, rgba(255, 255, 255, .6)) 0%,rgba(171,171,171,0) 100%);
+                flex: none;
+                height: 929px;
+                left: calc(50.00000000000002% - 865px / 2);
+                opacity: .13;
+                overflow: hidden;
+                position: absolute;
+                top: -252px;
+                width: 865px;
+                z-index: 1
+            }
+
+            .framer-gzpkS .framer-76hv8g {
+                background: radial-gradient(50% 50% at 50% 50%,var(--token-27dab558-c2be-4da2-b3df-e0c399d3b44b, rgba(255, 255, 255, .6)) 0%,rgba(171,171,171,0) 100%);
+                flex: none;
+                height: 639px;
+                left: calc(50.00000000000002% - 778px / 2);
+                opacity: .13;
+                overflow: hidden;
+                position: absolute;
+                top: -393px;
+                width: 778px;
+                z-index: 1
+            }
+
+            .framer-gzpkS .framer-1ojx368 {
+                background: linear-gradient(0deg,var(--token-f5646347-2529-487d-8af1-d99f05c5451c, #0a0a0a) 0%,rgba(10,10,10,0) 100%);
+                bottom: 0;
+                flex: none;
+                height: 1118px;
+                left: 0;
+                overflow: hidden;
+                position: absolute;
+                right: 0;
+                z-index: 1
+            }
+
+            .framer-gzpkS .framer-drtkyo {
+                align-content: center;
+                align-items: center;
+                border-radius: 44px;
+                display: flex;
+                flex: none;
+                flex-direction: column;
+                flex-wrap: nowrap;
+                gap: 10px;
+                height: min-content;
+                justify-content: center;
+                overflow: hidden;
+                padding: 100px 40px;
+                position: relative;
+                scroll-margin-top: 50px;
+                width: 100%;
+                will-change: var(--framer-will-change-override, transform)
+            }
+
+            .framer-gzpkS .framer-srssws {
+                align-content: center;
+                align-items: center;
+                display: flex;
+                flex: none;
+                flex-direction: column;
+                flex-wrap: nowrap;
+                gap: 44px;
+                height: min-content;
+                justify-content: flex-start;
+                max-width: 1100px;
+                overflow: visible;
+                padding: 0;
+                position: relative;
+                width: 100%;
+                z-index: 2
+            }
+
+            .framer-gzpkS .framer-1p1s71v {
+                align-content: flex-end;
+                align-items: flex-end;
+                display: flex;
+                flex: none;
+                flex-direction: row;
+                flex-wrap: nowrap;
+                gap: 16px;
+                height: min-content;
+                justify-content: center;
+                overflow: visible;
+                padding: 0;
+                position: relative;
+                width: 100%
+            }
+
+            .framer-gzpkS .framer-ffgqj2,.framer-gzpkS .framer-b1as8u {
+                align-content: flex-start;
+                align-items: flex-start;
+                display: flex;
+                flex: 1 0 0px;
+                flex-direction: column;
+                flex-wrap: nowrap;
+                gap: 24px;
+                height: min-content;
+                justify-content: center;
+                max-width: 720px;
+                overflow: visible;
+                padding: 0;
+                position: relative;
+                width: 1px
+            }
+
+            .framer-gzpkS .framer-1wnbt6e,.framer-gzpkS .framer-llwb4p,.framer-gzpkS .framer-oc6su1 {
+                align-content: flex-start;
+                align-items: flex-start;
+                display: flex;
+                flex: none;
+                flex-direction: column;
+                flex-wrap: nowrap;
+                gap: 16px;
+                height: min-content;
+                justify-content: center;
+                overflow: visible;
+                padding: 0;
+                position: relative;
+                width: 100%
+            }
+
+            .framer-gzpkS .framer-kddpza,.framer-gzpkS .framer-zkxxl2 {
+                align-content: center;
+                align-items: center;
+                display: flex;
+                flex: none;
+                flex-direction: row;
+                flex-wrap: nowrap;
+                gap: 16px;
+                height: min-content;
+                justify-content: flex-start;
+                overflow: visible;
+                padding: 0;
+                position: relative;
+                width: 100%
+            }
+
+            .framer-gzpkS .framer-trfzxg {
+                align-content: center;
+                align-items: center;
+                display: flex;
+                flex: 1 0 0px;
+                flex-direction: row;
+                flex-wrap: wrap;
+                gap: 16px;
+                height: min-content;
+                justify-content: flex-end;
+                opacity: 0;
+                overflow: visible;
+                padding: 0;
+                position: relative;
+                width: 1px
+            }
+
+            .framer-gzpkS .framer-lkoyi4-container {
+                flex: none;
+                height: auto;
+                max-width: 280px;
+                min-width: 240px;
+                position: relative;
+                width: 280px;
+                will-change: var(--framer-will-change-effect-override, transform)
+            }
+
+            .framer-gzpkS .framer-mxzdeu {
+                align-content: center;
+                align-items: center;
+                display: flex;
+                flex: none;
+                flex-direction: row;
+                flex-wrap: nowrap;
+                gap: 16px;
+                height: min-content;
+                justify-content: center;
+                max-width: 1400px;
+                overflow: visible;
+                padding: 0;
+                position: relative;
+                width: 100%
+            }
+
+            .framer-gzpkS .framer-vgw53,.framer-gzpkS .framer-1ufxy84 {
+                align-content: center;
+                align-items: center;
+                display: flex;
+                flex: 1 0 0px;
+                flex-direction: column;
+                flex-wrap: nowrap;
+                gap: 24px;
+                height: min-content;
+                justify-content: center;
+                overflow: visible;
+                padding: 0;
+                position: relative;
+                width: 1px
+            }
+
+            .framer-gzpkS .framer-pnj16u {
+                align-content: center;
+                align-items: center;
+                display: flex;
+                flex: none;
+                flex-direction: column;
+                flex-wrap: nowrap;
+                gap: 24px;
+                height: 549px;
+                justify-content: flex-start;
+                overflow: visible;
+                padding: 0;
+                position: relative;
+                width: 100%
+            }
+
+            .framer-gzpkS .framer-e7qe3j-container,.framer-gzpkS .framer-100u3bk-container,.framer-gzpkS .framer-pzci2z-container,.framer-gzpkS .framer-c69de8-container {
+                flex: 1 0 0px;
+                height: 1px;
+                position: relative;
+                width: 100%;
+                z-index: 2
+            }
+
+            .framer-gzpkS .framer-178gb50 {
+                align-content: center;
+                align-items: center;
+                display: flex;
+                flex: none;
+                flex-direction: column;
+                flex-wrap: nowrap;
+                gap: 24px;
+                height: 274px;
+                justify-content: flex-start;
+                overflow: visible;
+                padding: 0;
+                position: relative;
+                width: 100%
+            }
+
+            .framer-gzpkS .framer-ml21aj-container,.framer-gzpkS .framer-xfvic-container {
+                flex: none;
+                height: auto;
+                position: relative;
+                width: 100%;
+                z-index: 2
+            }
+
+            .framer-gzpkS .framer-1opts02 {
+                align-content: center;
+                align-items: center;
+                display: flex;
+                flex: none;
+                flex-direction: column;
+                flex-wrap: nowrap;
+                gap: 24px;
+                height: 275px;
+                justify-content: flex-start;
+                overflow: visible;
+                padding: 0;
+                position: relative;
+                width: 100%
+            }
+
+            .framer-gzpkS .framer-vxy8d6 {
+                align-content: center;
+                align-items: center;
+                display: flex;
+                flex: none;
+                flex-direction: column;
+                flex-wrap: nowrap;
+                gap: 24px;
+                height: 548px;
+                justify-content: flex-start;
+                overflow: visible;
+                padding: 0;
+                position: relative;
+                width: 100%
+            }
+
+            .framer-gzpkS .framer-e18fk5 {
+                align-content: flex-end;
+                align-items: flex-end;
+                display: flex;
+                flex: none;
+                flex-direction: row;
+                flex-wrap: nowrap;
+                gap: 0px;
+                height: min-content;
+                justify-content: center;
+                overflow: visible;
+                padding: 0;
+                position: relative;
+                width: 100%
+            }
+
+            .framer-gzpkS .framer-1tu67e7 {
+                align-content: center;
+                align-items: center;
+                display: flex;
+                flex: 1 0 0px;
+                flex-direction: row;
+                flex-wrap: wrap;
+                gap: 16px;
+                height: min-content;
+                justify-content: center;
+                overflow: visible;
+                padding: 0;
+                position: relative;
+                width: 1px
+            }
+
+            .framer-gzpkS .framer-a7wxup,.framer-gzpkS .framer-5dnyfk,.framer-gzpkS .framer-bz02lf {
+                --border-bottom-width: 1px;
+                --border-color: var(--token-b2b2cec5-8316-4f9c-8fd9-5fdfc3c24032, rgba(255, 255, 255, .1));
+                --border-left-width: 1px;
+                --border-right-width: 1px;
+                --border-style: solid;
+                --border-top-width: 1px;
+                -webkit-mask: linear-gradient(180deg,#000000 0%,rgba(0,0,0,.16) 82.8441722972973%) add;
+                border-radius: 48px;
+                flex: none;
+                inset: 0;
+                mask: linear-gradient(180deg,#000000 0%,rgba(0,0,0,.16) 82.8441722972973%) add;
+                overflow: hidden;
+                pointer-events: none;
+                position: absolute;
+                will-change: var(--framer-will-change-override, transform);
+                z-index: 1
+            }
+
+            .framer-gzpkS .framer-11xnb6b {
+                align-content: center;
+                align-items: center;
+                display: flex;
+                flex: none;
+                flex-direction: column;
+                flex-wrap: nowrap;
+                gap: 44px;
+                height: min-content;
+                justify-content: center;
+                overflow: visible;
+                padding: 100px 40px;
+                position: relative;
+                scroll-margin-top: 50px;
+                width: 100%
+            }
+
+            .framer-gzpkS .framer-13va1sf {
+                align-content: flex-start;
+                align-items: flex-start;
+                display: flex;
+                flex: none;
+                flex-direction: row;
+                flex-wrap: nowrap;
+                gap: 44px;
+                height: min-content;
+                justify-content: center;
+                max-width: 1100px;
+                overflow: visible;
+                padding: 0;
+                position: relative;
+                width: 100%
+            }
+
+            .framer-gzpkS .framer-1tl4vph {
+                align-content: flex-start;
+                align-items: flex-start;
+                display: flex;
+                flex: 1.2 0 0px;
+                flex-direction: column;
+                flex-wrap: nowrap;
+                gap: 24px;
+                height: min-content;
+                justify-content: center;
+                max-width: 720px;
+                overflow: visible;
+                padding: 0;
+                position: sticky;
+                top: 130px;
+                width: 1px;
+                z-index: 1
+            }
+
+            .framer-gzpkS .framer-idoty6,.framer-gzpkS .framer-xdrbdu {
+                align-content: flex-start;
+                align-items: flex-start;
+                display: flex;
+                flex: none;
+                flex-direction: column;
+                flex-wrap: nowrap;
+                gap: 24px;
+                height: min-content;
+                justify-content: center;
+                overflow: visible;
+                padding: 0;
+                position: relative;
+                width: 100%
+            }
+
+            .framer-gzpkS .framer-l68drn {
+                align-content: flex-start;
+                align-items: flex-start;
+                background-color: var(--token-cba3b9c8-9e49-437e-aca1-1e69db3088dc, #111111);
+                border-radius: 16px;
+                box-shadow: 16px 24px 20px 8px #0006,inset 0 2px #b8b4b414;
+                display: flex;
+                flex: none;
+                flex-direction: column;
+                flex-wrap: nowrap;
+                gap: 16px;
+                height: min-content;
+                justify-content: flex-start;
+                overflow: visible;
+                padding: 24px 24px 32px;
+                position: relative;
+                width: 314px
+            }
+
+            .framer-gzpkS .framer-o4uk7,.framer-gzpkS .framer-86crwl {
+                align-content: center;
+                align-items: center;
+                display: flex;
+                flex: none;
+                flex-direction: column;
+                flex-wrap: nowrap;
+                gap: 24px;
+                height: min-content;
+                justify-content: center;
+                overflow: visible;
+                padding: 0;
+                position: relative;
+                width: 100%
+            }
+
+            .framer-gzpkS .framer-1j1qzn8 {
+                border-radius: 10px;
+                box-shadow: 20px 30px 20px 8px #0006;
+                flex: none;
+                height: 267px;
+                position: relative;
+                width: 100%
+            }
+
+            .framer-gzpkS .framer-1dgad2j {
+                align-content: flex-start;
+                align-items: flex-start;
+                background-color: var(--token-cba3b9c8-9e49-437e-aca1-1e69db3088dc, #111111);
+                border-radius: 16px;
+                box-shadow: 16px 24px 20px 8px #0006,inset 0 2px #b8b4b414;
+                display: flex;
+                flex: none;
+                flex-direction: column;
+                flex-wrap: nowrap;
+                gap: 16px;
+                height: min-content;
+                justify-content: flex-start;
+                overflow: visible;
+                padding: 24px 24px 32px;
+                position: relative;
+                width: 549px
+            }
+
+            .framer-gzpkS .framer-x4f90z {
+                border-radius: 10px;
+                box-shadow: 20px 30px 20px 8px #0006;
+                flex: none;
+                height: 423px;
+                position: relative;
+                width: 100%
+            }
+
+            .framer-gzpkS .framer-i0kw2a {
+                align-content: center;
+                align-items: center;
+                display: flex;
+                flex: none;
+                flex-direction: row;
+                flex-wrap: wrap;
+                gap: 24px;
+                height: min-content;
+                justify-content: flex-start;
+                overflow: hidden;
+                padding: 0;
+                position: relative;
+                width: 100%
+            }
+
+            .framer-gzpkS .framer-1uc1fgv,.framer-gzpkS .framer-1umvuf0 {
+                background-color: var(--token-7a7ce709-7970-4e23-97d8-1ae0355d02f0, #ffffff);
+                flex: none;
+                height: 24px;
+                opacity: .1;
+                overflow: hidden;
+                position: relative;
+                width: 1px
+            }
+
+            .framer-gzpkS .framer-4q5lul {
+                background-color: var(--token-7a7ce709-7970-4e23-97d8-1ae0355d02f0, #ffffff);
+                flex: none;
+                height: 1px;
+                opacity: .1;
+                overflow: hidden;
+                position: relative;
+                width: 100%
+            }
+
+            .framer-gzpkS .framer-1yva7l2 {
+                align-content: center;
+                align-items: center;
+                display: flex;
+                flex: none;
+                flex-direction: row;
+                flex-wrap: wrap;
+                gap: 24px;
+                height: min-content;
+                justify-content: flex-start;
+                overflow: visible;
+                padding: 0;
+                position: relative;
+                width: 100%
+            }
+
+            .framer-gzpkS .framer-19860qk-container {
+                flex: 1 0 0px;
+                height: 125px;
+                min-width: 150px;
+                position: relative;
+                width: 1px
+            }
+
+            .framer-gzpkS .framer-1k5yg0g-container,.framer-gzpkS .framer-2ojbu1-container {
+                flex: 1 0 0px;
+                height: auto;
+                min-width: 150px;
+                position: relative;
+                width: 1px
+            }
+
+            .framer-gzpkS .framer-1c7rrqy {
+                background-color: var(--token-b2b2cec5-8316-4f9c-8fd9-5fdfc3c24032, rgba(255, 255, 255, .1));
+                flex: none;
+                height: 2px;
+                opacity: .8;
+                overflow: hidden;
+                position: relative;
+                width: 100%
+            }
+
+            .framer-gzpkS .framer-yy6fss {
+                align-content: flex-end;
+                align-items: flex-end;
+                display: flex;
+                flex: 1 0 0px;
+                flex-direction: column;
+                flex-wrap: wrap;
+                gap: 24px;
+                height: min-content;
+                justify-content: flex-start;
+                overflow: visible;
+                padding: 0;
+                position: relative;
+                width: 1px
+            }
+
+            .framer-gzpkS .framer-rlvksz-container {
+                flex: none;
+                height: auto;
+                max-width: 500px;
+                min-width: 400px;
+                position: sticky;
+                top: 130px;
+                width: 100%;
+                z-index: 1
+            }
+
+            .framer-gzpkS .framer-1rbkz8h-container {
+                flex: none;
+                height: auto;
+                max-width: 500px;
+                min-width: 400px;
+                position: sticky;
+                top: 150px;
+                width: 100%;
+                z-index: 1
+            }
+
+            .framer-gzpkS .framer-11vpxof-container {
+                flex: none;
+                height: auto;
+                max-width: 500px;
+                min-width: 400px;
+                position: sticky;
+                top: 170px;
+                width: 100%;
+                z-index: 1
+            }
+
+            .framer-gzpkS .framer-b8vw02-container {
+                flex: none;
+                height: auto;
+                max-width: 500px;
+                min-width: 400px;
+                position: sticky;
+                top: 190px;
+                width: 100%;
+                z-index: 1
+            }
+
+            .framer-gzpkS .framer-nuwyn1 {
+                align-content: center;
+                align-items: center;
+                background-color: var(--token-91879fd0-dbdd-4c64-ae12-6b899e52b8b5, #0d0d0d);
+                border-radius: 16px;
+                display: flex;
+                flex: none;
+                flex-direction: column;
+                flex-wrap: nowrap;
+                gap: 44px;
+                height: min-content;
+                justify-content: center;
+                overflow: hidden;
+                padding: 100px 40px;
+                position: relative;
+                scroll-margin-top: 50px;
+                width: 100%;
+                will-change: var(--framer-will-change-override, transform);
+                z-index: 2
+            }
+
+            .framer-gzpkS .framer-13amxry {
+                align-content: center;
+                align-items: center;
+                display: flex;
+                flex: none;
+                flex-direction: column;
+                flex-wrap: nowrap;
+                gap: 44px;
+                height: min-content;
+                justify-content: center;
+                max-width: 1100px;
+                overflow: visible;
+                padding: 0;
+                position: relative;
+                width: 100%
+            }
+
+            .framer-gzpkS .framer-grh76z {
+                align-content: flex-end;
+                align-items: flex-end;
+                display: flex;
+                flex: none;
+                flex-direction: row;
+                flex-wrap: nowrap;
+                height: min-content;
+                justify-content: space-between;
+                overflow: visible;
+                padding: 0;
+                position: relative;
+                width: 100%;
+                z-index: 3
+            }
+
+            .framer-gzpkS .framer-1buc26x {
+                align-content: flex-start;
+                align-items: flex-start;
+                display: flex;
+                flex: none;
+                flex-direction: row;
+                flex-wrap: nowrap;
+                gap: 20px;
+                height: min-content;
+                justify-content: center;
+                overflow: visible;
+                padding: 0;
+                position: relative;
+                width: 100%;
+                z-index: 3
+            }
+
+            .framer-gzpkS .framer-11xt6x8 {
+                align-content: center;
+                align-items: center;
+                display: flex;
+                flex: 1 0 0px;
+                flex-direction: column;
+                flex-wrap: nowrap;
+                gap: 24px;
+                height: min-content;
+                justify-content: flex-start;
+                overflow: visible;
+                padding: 0;
+                position: relative;
+                width: 1px
+            }
+
+            .framer-gzpkS .framer-58k2kg-container,.framer-gzpkS .framer-1hjqn64-container,.framer-gzpkS .framer-1epi35x-container,.framer-gzpkS .framer-14trop2-container {
+                flex: none;
+                height: auto;
+                position: relative;
+                width: 100%
+            }
+
+            .framer-gzpkS .framer-1gyjv5t {
+                align-content: center;
+                align-items: center;
+                display: flex;
+                flex: 1 0 0px;
+                flex-direction: column;
+                flex-wrap: nowrap;
+                gap: 20px;
+                height: min-content;
+                justify-content: flex-start;
+                overflow: visible;
+                padding: 0;
+                position: relative;
+                width: 1px
+            }
+
+            .framer-gzpkS .framer-e60yuk {
+                align-content: center;
+                align-items: center;
+                display: flex;
+                flex: none;
+                flex-direction: column;
+                flex-wrap: wrap;
+                gap: 0px;
+                height: min-content;
+                justify-content: center;
+                overflow: hidden;
+                padding: 0;
+                position: relative;
+                width: 100%;
+                z-index: 3
+            }
+
+            .framer-gzpkS .framer-xb38sf-container,.framer-gzpkS .framer-1dkp3p9-container {
+                flex: none;
+                height: 79px;
+                position: relative;
+                width: 100%
+            }
+
+            .framer-gzpkS .framer-14r9w8x-container,.framer-gzpkS .framer-1paipfw-container,.framer-gzpkS .framer-rge1td-container,.framer-gzpkS .framer-pu76po-container,.framer-gzpkS .framer-173x913-container,.framer-gzpkS .framer-z2w6k9-container,.framer-gzpkS .framer-lxcr0s-container,.framer-gzpkS .framer-1qelgkn-container,.framer-gzpkS .framer-n1uwat-container,.framer-gzpkS .framer-8m0i2r-container {
+                height: auto;
+                position: relative;
+                width: auto
+            }
+
+            .framer-gzpkS .framer-phxu8k-container {
+                bottom: 0;
+                flex: none;
+                height: 100px;
+                left: 0;
+                pointer-events: none;
+                position: fixed;
+                right: 0;
+                z-index: 10
+            }
+
+            .framer-GNz7j .framer-styles-preset-1bhedml:not(.rich-text-wrapper),.framer-GNz7j .framer-styles-preset-1bhedml.rich-text-wrapper h1 {
+                --framer-font-family: "Satoshi", "Satoshi Placeholder", sans-serif;
+                --framer-font-family-bold: "Satoshi", "Satoshi Placeholder", sans-serif;
+                --framer-font-family-bold-italic: "Satoshi", "Satoshi Placeholder", sans-serif;
+                --framer-font-family-italic: "Satoshi", "Satoshi Placeholder", sans-serif;
+                --framer-font-open-type-features: normal;
+                --framer-font-size: 72px;
+                --framer-font-style: normal;
+                --framer-font-style-bold: normal;
+                --framer-font-style-bold-italic: italic;
+                --framer-font-style-italic: italic;
+                --framer-font-variation-axes: normal;
+                --framer-font-weight: 400;
+                --framer-font-weight-bold: 700;
+                --framer-font-weight-bold-italic: 700;
+                --framer-font-weight-italic: 400;
+                --framer-letter-spacing: -2px;
+                --framer-line-height: 1.2em;
+                --framer-paragraph-spacing: 0px;
+                --framer-text-alignment: left;
+                --framer-text-color: var(--token-7a7ce709-7970-4e23-97d8-1ae0355d02f0, #ffffff);
+                --framer-text-decoration: none;
+                --framer-text-stroke-color: initial;
+                --framer-text-stroke-width: initial;
+                --framer-text-transform: none
+            }
+
+            .framer-nTqkl .framer-styles-preset-f2amck:not(.rich-text-wrapper),.framer-nTqkl .framer-styles-preset-f2amck.rich-text-wrapper h2 {
+                --framer-font-family: "Satoshi", "Satoshi Placeholder", sans-serif;
+                --framer-font-family-bold: "Satoshi", "Satoshi Placeholder", sans-serif;
+                --framer-font-family-bold-italic: "Satoshi", "Satoshi Placeholder", sans-serif;
+                --framer-font-family-italic: "Satoshi", "Satoshi Placeholder", sans-serif;
+                --framer-font-open-type-features: normal;
+                --framer-font-size: 54px;
+                --framer-font-style: normal;
+                --framer-font-style-bold: normal;
+                --framer-font-style-bold-italic: italic;
+                --framer-font-style-italic: italic;
+                --framer-font-variation-axes: normal;
+                --framer-font-weight: 400;
+                --framer-font-weight-bold: 700;
+                --framer-font-weight-bold-italic: 700;
+                --framer-font-weight-italic: 400;
+                --framer-letter-spacing: -2px;
+                --framer-line-height: 1.1em;
+                --framer-paragraph-spacing: 40px;
+                --framer-text-alignment: center;
+                --framer-text-color: var(--token-7a7ce709-7970-4e23-97d8-1ae0355d02f0, #ffffff);
+                --framer-text-decoration: none;
+                --framer-text-stroke-color: initial;
+                --framer-text-stroke-width: initial;
+                --framer-text-transform: none
+            }
+
+            @media (max-width: 1299px) and (min-width: 750px) {
+                .framer-nTqkl .framer-styles-preset-f2amck:not(.rich-text-wrapper),.framer-nTqkl .framer-styles-preset-f2amck.rich-text-wrapper h2 {
+                    --framer-font-family: "Satoshi", "Satoshi Placeholder", sans-serif;
+                    --framer-font-family-bold: "Satoshi", "Satoshi Placeholder", sans-serif;
+                    --framer-font-family-bold-italic: "Satoshi", "Satoshi Placeholder", sans-serif;
+                    --framer-font-family-italic: "Satoshi", "Satoshi Placeholder", sans-serif;
+                    --framer-font-open-type-features: normal;
+                    --framer-font-size: 44px;
+                    --framer-font-style: normal;
+                    --framer-font-style-bold: normal;
+                    --framer-font-style-bold-italic: italic;
+                    --framer-font-style-italic: italic;
+                    --framer-font-variation-axes: normal;
+                    --framer-font-weight: 400;
+                    --framer-font-weight-bold: 700;
+                    --framer-font-weight-bold-italic: 700;
+                    --framer-font-weight-italic: 400;
+                    --framer-letter-spacing: -2px;
+                    --framer-line-height: 1.1em;
+                    --framer-paragraph-spacing: 40px;
+                    --framer-text-alignment: center;
+                    --framer-text-color: var(--token-7a7ce709-7970-4e23-97d8-1ae0355d02f0, #ffffff);
+                    --framer-text-decoration: none;
+                    --framer-text-stroke-color: initial;
+                    --framer-text-stroke-width: initial;
+                    --framer-text-transform: none
+                }
+            }
+
+            @media (max-width: 749px) and (min-width: 0px) {
+                .framer-nTqkl .framer-styles-preset-f2amck:not(.rich-text-wrapper),.framer-nTqkl .framer-styles-preset-f2amck.rich-text-wrapper h2 {
+                    --framer-font-family: "Satoshi", "Satoshi Placeholder", sans-serif;
+                    --framer-font-family-bold: "Satoshi", "Satoshi Placeholder", sans-serif;
+                    --framer-font-family-bold-italic: "Satoshi", "Satoshi Placeholder", sans-serif;
+                    --framer-font-family-italic: "Satoshi", "Satoshi Placeholder", sans-serif;
+                    --framer-font-open-type-features: normal;
+                    --framer-font-size: 40px;
+                    --framer-font-style: normal;
+                    --framer-font-style-bold: normal;
+                    --framer-font-style-bold-italic: italic;
+                    --framer-font-style-italic: italic;
+                    --framer-font-variation-axes: normal;
+                    --framer-font-weight: 400;
+                    --framer-font-weight-bold: 700;
+                    --framer-font-weight-bold-italic: 700;
+                    --framer-font-weight-italic: 400;
+                    --framer-letter-spacing: -2px;
+                    --framer-line-height: 1.1em;
+                    --framer-paragraph-spacing: 40px;
+                    --framer-text-alignment: center;
+                    --framer-text-color: var(--token-7a7ce709-7970-4e23-97d8-1ae0355d02f0, #ffffff);
+                    --framer-text-decoration: none;
+                    --framer-text-stroke-color: initial;
+                    --framer-text-stroke-width: initial;
+                    --framer-text-transform: none
+                }
+            }
+
+            .framer-gzpkS[data-border=true]:after,.framer-gzpkS [data-border=true]:after {
+                content: "";
+                border-width: var(--border-top-width, 0) var(--border-right-width, 0) var(--border-bottom-width, 0) var(--border-left-width, 0);
+                border-color: var(--border-color, none);
+                border-style: var(--border-style, none);
+                width: 100%;
+                height: 100%;
+                position: absolute;
+                box-sizing: border-box;
+                left: 0;
+                top: 0;
+                border-radius: inherit;
+                pointer-events: none
+            }
+
+            @media (min-width: 750px) and (max-width: 1299px) {
+                .framer-gzpkS.framer-72rtr7 {
+                    width:750px
+                }
+
+                .framer-gzpkS .framer-13qy7mu {
+                    flex: 1 0 0px;
+                    white-space: pre;
+                    width: 1px
+                }
+
+                .framer-gzpkS .framer-6b2916 {
+                    height: 162.5vh;
+                    left: -377px;
+                    right: -13px;
+                    top: -606px
+                }
+
+                .framer-gzpkS .framer-1p1s71v,.framer-gzpkS .framer-e18fk5 {
+                    align-content: flex-start;
+                    align-items: flex-start;
+                    flex-direction: column;
+                    gap: 24px
+                }
+
+                .framer-gzpkS .framer-ffgqj2,.framer-gzpkS .framer-b1as8u,.framer-gzpkS .framer-11xt6x8,.framer-gzpkS .framer-1gyjv5t {
+                    flex: none;
+                    width: 100%
+                }
+
+                .framer-gzpkS .framer-trfzxg,.framer-gzpkS .framer-1tu67e7 {
+                    flex: none;
+                    justify-content: flex-start;
+                    width: 100%
+                }
+
+                .framer-gzpkS .framer-vgw53 {
+                    height: 793px
+                }
+
+                .framer-gzpkS .framer-pnj16u,.framer-gzpkS .framer-178gb50 {
+                    gap: 40px
+                }
+
+                .framer-gzpkS .framer-13va1sf {
+                    flex-direction: column
+                }
+
+                .framer-gzpkS .framer-1tl4vph {
+                    flex: none;
+                    position: relative;
+                    top: unset;
+                    width: 100%
+                }
+
+                .framer-gzpkS .framer-llwb4p {
+                    height: 728px
+                }
+
+                .framer-gzpkS .framer-1dgad2j {
+                    flex: 1 0 0px;
+                    height: 1px;
+                    width: 100%
+                }
+
+                .framer-gzpkS .framer-x4f90z {
+                    height: 470px
+                }
+
+                .framer-gzpkS .framer-yy6fss {
+                    align-content: flex-start;
+                    align-items: flex-start;
+                    flex: none;
+                    flex-direction: row;
+                    width: 100%
+                }
+
+                .framer-gzpkS .framer-rlvksz-container,.framer-gzpkS .framer-1rbkz8h-container,.framer-gzpkS .framer-11vpxof-container,.framer-gzpkS .framer-b8vw02-container {
+                    flex: 1 0 0px;
+                    position: relative;
+                    top: unset;
+                    width: 1px
+                }
+
+                .framer-gzpkS .framer-13amxry {
+                    align-content: flex-start;
+                    align-items: flex-start
+                }
+
+                .framer-gzpkS .framer-grh76z {
+                    align-content: flex-start;
+                    align-items: flex-start;
+                    flex-direction: column;
+                    gap: 24px;
+                    justify-content: flex-start
+                }
+
+                .framer-gzpkS .framer-1buc26x {
+                    flex-direction: column;
+                    width: 90%
+                }
+
+                .framer-gzpkS .framer-e60yuk {
+                    width: 90%
+                }
+            }
+
+            @media (max-width: 749px) {
+                .framer-gzpkS.framer-72rtr7 {
+                    width:350px
+                }
+
+                .framer-gzpkS .framer-drtkyo {
+                    order: 2;
+                    padding: 21px 18px
+                }
+
+                .framer-gzpkS .framer-1p1s71v {
+                    flex-direction: column;
+                    gap: 24px;
+                    order: 0
+                }
+
+                .framer-gzpkS .framer-ffgqj2,.framer-gzpkS .framer-19860qk-container,.framer-gzpkS .framer-1k5yg0g-container,.framer-gzpkS .framer-2ojbu1-container,.framer-gzpkS .framer-b1as8u,.framer-gzpkS .framer-11xt6x8,.framer-gzpkS .framer-1gyjv5t {
+                    flex: none;
+                    width: 100%
+                }
+
+                .framer-gzpkS .framer-1qg4at5 {
+                    flex: 1 0 0px;
+                    width: 1px
+                }
+
+                .framer-gzpkS .framer-lkoyi4-container,.framer-gzpkS .framer-l68drn {
+                    order: 2
+                }
+
+                .framer-gzpkS .framer-mxzdeu,.framer-gzpkS .framer-qvae0h {
+                    order: 1
+                }
+
+                .framer-gzpkS .framer-pnj16u,.framer-gzpkS .framer-178gb50 {
+                    gap: 40px;
+                    height: min-content
+                }
+
+                .framer-gzpkS .framer-e7qe3j-container,.framer-gzpkS .framer-100u3bk-container {
+                    flex: none;
+                    height: auto
+                }
+
+                .framer-gzpkS .framer-11xnb6b {
+                    order: 1;
+                    overflow: hidden;
+                    padding: 10px 18px
+                }
+
+                .framer-gzpkS .framer-13va1sf {
+                    flex-direction: column;
+                    gap: 68px;
+                    padding: 96px 0;
+                    width: 314px
+                }
+
+                .framer-gzpkS .framer-1tl4vph {
+                    flex: none;
+                    gap: 0px;
+                    position: relative;
+                    top: unset;
+                    width: 100%
+                }
+
+                .framer-gzpkS .framer-idoty6 {
+                    gap: 22px;
+                    padding: 22px 0
+                }
+
+                .framer-gzpkS .framer-16dayhl,.framer-gzpkS .framer-1j1qzn8 {
+                    order: 0
+                }
+
+                .framer-gzpkS .framer-1yva7l2,.framer-gzpkS .framer-1buc26x {
+                    flex-direction: column
+                }
+
+                .framer-gzpkS .framer-yy6fss {
+                    align-content: flex-start;
+                    align-items: flex-start;
+                    flex: none;
+                    width: 100%
+                }
+
+                .framer-gzpkS .framer-rlvksz-container,.framer-gzpkS .framer-1rbkz8h-container,.framer-gzpkS .framer-11vpxof-container,.framer-gzpkS .framer-b8vw02-container {
+                    min-width: unset;
+                    position: relative;
+                    top: unset
+                }
+
+                .framer-gzpkS .framer-nuwyn1 {
+                    order: 3;
+                    padding: 80px 18px
+                }
+
+                .framer-gzpkS .framer-grh76z {
+                    align-content: flex-start;
+                    align-items: flex-start;
+                    flex-direction: column;
+                    gap: 24px;
+                    justify-content: flex-start
+                }
+
+                .framer-gzpkS .framer-e60yuk {
+                    gap: 8px;
+                    overflow: visible
+                }
+
+                .framer-gzpkS .framer-phxu8k-container {
+                    order: 4
+                }
+            }
+
+            .framer-bpCAi.framer-c8y1s0,.framer-bpCAi .framer-c8y1s0 {
+                display: block
+            }
+
+            .framer-bpCAi.framer-45196i {
+                height: 30px;
+                overflow: hidden;
+                position: relative;
+                width: 30px
+            }
+
+            .framer-bpCAi .framer-1fct4kh-container {
+                flex: none;
+                inset: 0;
+                position: absolute
+            }
+
+            .framer-mQinw.framer-1669i9,.framer-mQinw .framer-1669i9 {
+                display: block
+            }
+
+            .framer-mQinw.framer-1t4lcce {
+                align-content: center;
+                align-items: center;
+                display: flex;
+                flex-direction: column;
+                flex-wrap: nowrap;
+                gap: 14px;
+                height: min-content;
+                justify-content: center;
+                overflow: hidden;
+                padding: 24px;
+                position: relative;
+                width: 209px;
+                will-change: var(--framer-will-change-override, transform)
+            }
+
+            .framer-mQinw .framer-kh99w4,.framer-mQinw .framer-aynstu {
+                flex: none;
+                height: auto;
+                position: relative;
+                white-space: pre-wrap;
+                width: 100%;
+                word-break: break-word;
+                word-wrap: break-word
+            }
+
+            @supports (background: -webkit-named-image(i)) and (not (font-palette:dark)) {
+                .framer-mQinw.framer-1t4lcce {
+                    gap:0px
+                }
+
+                .framer-mQinw.framer-1t4lcce>* {
+                    margin: 7px 0
+                }
+
+                .framer-mQinw.framer-1t4lcce>:first-child {
+                    margin-top: 0
+                }
+
+                .framer-mQinw.framer-1t4lcce>:last-child {
+                    margin-bottom: 0
+                }
+            }
+
+            .framer-QVjJF.framer-1i1wbcd,.framer-QVjJF .framer-1i1wbcd {
+                display: block
+            }
+
+            .framer-QVjJF.framer-1ansaoc {
+                height: 1px;
+                overflow: visible;
+                position: relative;
+                width: 100px
+            }
+
+            .framer-QVjJF .framer-rczvud {
+                bottom: 0;
+                flex: none;
+                overflow: visible;
+                position: absolute;
+                right: 0;
+                top: 0;
+                width: 2px
+            }
+
+            .framer-MLXmq.framer-9kazhr,.framer-MLXmq .framer-9kazhr {
+                display: block
+            }
+
+            .framer-MLXmq.framer-1skrgfi {
+                align-content: center;
+                align-items: center;
+                cursor: pointer;
+                display: flex;
+                flex-direction: column;
+                flex-wrap: nowrap;
+                gap: 32px;
+                height: min-content;
+                justify-content: center;
+                overflow: visible;
+                padding: 20px;
+                position: relative;
+                text-decoration: none;
+                width: 638px
+            }
+
+            .framer-MLXmq .framer-103apa5 {
+                align-content: center;
+                align-items: center;
+                display: flex;
+                flex: none;
+                flex-direction: row;
+                flex-wrap: nowrap;
+                gap: 24px;
+                height: min-content;
+                justify-content: center;
+                overflow: hidden;
+                padding: 0;
+                position: relative;
+                width: 100%;
+                will-change: var(--framer-will-change-override, transform)
+            }
+
+            .framer-MLXmq .framer-nnkl5n {
+                aspect-ratio: 1.5139240506329115 / 1;
+                flex: 1 0 0px;
+                height: var(--framer-aspect-ratio-supported, 395px);
+                position: relative;
+                width: 1px
+            }
+
+            .framer-MLXmq .framer-17osbco {
+                align-content: center;
+                align-items: center;
+                bottom: 12px;
+                display: flex;
+                flex: none;
+                flex-direction: column;
+                flex-wrap: nowrap;
+                gap: 10px;
+                height: min-content;
+                justify-content: center;
+                left: 7px;
+                overflow: hidden;
+                padding: 11px;
+                position: absolute;
+                width: min-content;
+                will-change: var(--framer-will-change-override, transform);
+                z-index: 1
+            }
+
+            .framer-MLXmq .framer-nzchhw-container {
+                aspect-ratio: 1 / 1;
+                flex: none;
+                height: var(--framer-aspect-ratio-supported, 27px);
+                position: relative;
+                width: 25px
+            }
+
+            .framer-MLXmq .framer-1v0atpl-container {
+                aspect-ratio: 1 / 1;
+                bottom: -22px;
+                flex: none;
+                height: var(--framer-aspect-ratio-supported, 27px);
+                left: -22px;
+                position: absolute;
+                width: 25px;
+                z-index: 1
+            }
+
+            @supports (background: -webkit-named-image(i)) and (not (font-palette:dark)) {
+                .framer-MLXmq.framer-1skrgfi,.framer-MLXmq .framer-103apa5,.framer-MLXmq .framer-17osbco {
+                    gap:0px
+                }
+
+                .framer-MLXmq.framer-1skrgfi>* {
+                    margin: 16px 0
+                }
+
+                .framer-MLXmq.framer-1skrgfi>:first-child,.framer-MLXmq .framer-17osbco>:first-child {
+                    margin-top: 0
+                }
+
+                .framer-MLXmq.framer-1skrgfi>:last-child,.framer-MLXmq .framer-17osbco>:last-child {
+                    margin-bottom: 0
+                }
+
+                .framer-MLXmq .framer-103apa5>* {
+                    margin: 0 12px
+                }
+
+                .framer-MLXmq .framer-103apa5>:first-child {
+                    margin-left: 0
+                }
+
+                .framer-MLXmq .framer-103apa5>:last-child {
+                    margin-right: 0
+                }
+
+                .framer-MLXmq .framer-17osbco>* {
+                    margin: 5px 0
+                }
+            }
+
+            .framer-MLXmq.framer-v-kspx97.framer-1skrgfi {
+                height: 661px;
+                width: 666px
+            }
+
+            .framer-MLXmq.framer-v-kspx97 .framer-103apa5 {
+                flex: 1 0 0px;
+                height: 1px
+            }
+
+            .framer-MLXmq.framer-v-kspx97 .framer-nnkl5n {
+                aspect-ratio: unset;
+                height: 100%
+            }
+
+            .framer-MLXmq.framer-v-1skrgfi.hover .framer-nnkl5n {
+                order: 0
+            }
+
+            .framer-MLXmq.framer-v-1skrgfi.hover .framer-nzchhw-container,.framer-MLXmq.framer-v-kspx97.hover .framer-nzchhw-container {
+                position: absolute;
+                right: -22px;
+                top: -22px;
+                z-index: 1
+            }
+
+            .framer-MLXmq.framer-v-1skrgfi.hover .framer-1v0atpl-container,.framer-MLXmq.framer-v-kspx97.hover .framer-1v0atpl-container {
+                bottom: unset;
+                left: unset;
+                position: relative
+            }
+
+            .framer-MLXmq.framer-v-kspx97.hover .framer-nnkl5n {
+                aspect-ratio: unset
+            }
+
+            .framer-EBDBp.framer-10qazvn,.framer-EBDBp .framer-10qazvn {
+                display: block
+            }
+
+            .framer-EBDBp.framer-4r3422 {
+                align-content: center;
+                align-items: center;
+                cursor: pointer;
+                display: flex;
+                flex-direction: row;
+                flex-wrap: nowrap;
+                gap: 24px;
+                height: min-content;
+                justify-content: center;
+                overflow: visible;
+                padding: 14px 0 0;
+                position: relative;
+                text-decoration: none;
+                width: min-content
+            }
+
+            .framer-EBDBp .framer-1um4r9g {
+                align-content: center;
+                align-items: center;
+                aspect-ratio: 1 / 1;
+                display: flex;
+                flex: none;
+                flex-direction: column;
+                flex-wrap: nowrap;
+                gap: 10px;
+                height: var(--framer-aspect-ratio-supported, 54px);
+                justify-content: center;
+                overflow: hidden;
+                padding: 0;
+                position: relative;
+                width: 54px;
+                will-change: var(--framer-will-change-override, transform)
+            }
+
+            .framer-EBDBp .framer-1r4hh7m-container {
+                aspect-ratio: 1 / 1;
+                flex: none;
+                height: var(--framer-aspect-ratio-supported, 28px);
+                position: relative;
+                width: 25px
+            }
+
+            .framer-EBDBp .framer-13a7y3v-container {
+                aspect-ratio: 1 / 1;
+                bottom: -22px;
+                flex: none;
+                height: var(--framer-aspect-ratio-supported, 27px);
+                left: -22px;
+                position: absolute;
+                width: 25px;
+                z-index: 1
+            }
+
+            .framer-EBDBp .framer-fuw8zf {
+                bottom: -11px;
+                flex: none;
+                height: auto;
+                position: absolute;
+                right: -43px;
+                white-space: pre;
+                width: auto;
+                z-index: 1
+            }
+
+            @supports (background: -webkit-named-image(i)) and (not (font-palette:dark)) {
+                .framer-EBDBp.framer-4r3422,.framer-EBDBp .framer-1um4r9g {
+                    gap:0px
+                }
+
+                .framer-EBDBp.framer-4r3422>* {
+                    margin: 0 12px
+                }
+
+                .framer-EBDBp.framer-4r3422>:first-child {
+                    margin-left: 0
+                }
+
+                .framer-EBDBp.framer-4r3422>:last-child {
+                    margin-right: 0
+                }
+
+                .framer-EBDBp .framer-1um4r9g>* {
+                    margin: 5px 0
+                }
+
+                .framer-EBDBp .framer-1um4r9g>:first-child {
+                    margin-top: 0
+                }
+
+                .framer-EBDBp .framer-1um4r9g>:last-child {
+                    margin-bottom: 0
+                }
+            }
+
+            .framer-EBDBp.framer-v-4r3422.hover .framer-1r4hh7m-container {
+                height: var(--framer-aspect-ratio-supported, 27px);
+                position: absolute;
+                right: -22px;
+                top: -22px;
+                z-index: 1
+            }
+
+            .framer-EBDBp.framer-v-4r3422.hover .framer-13a7y3v-container {
+                bottom: unset;
+                height: var(--framer-aspect-ratio-supported, 28px);
+                left: unset;
+                position: relative
+            }
+
+            .framer-Umspt.framer-gmf82w,.framer-Umspt .framer-gmf82w {
+                display: block
+            }
+
+            .framer-Umspt.framer-18fumeu {
+                align-content: center;
+                align-items: center;
+                cursor: pointer;
+                display: flex;
+                flex-direction: row;
+                flex-wrap: nowrap;
+                gap: 24px;
+                height: min-content;
+                justify-content: center;
+                overflow: hidden;
+                padding: 8px;
+                position: relative;
+                text-decoration: none;
+                width: min-content;
+                will-change: var(--framer-will-change-override, transform)
+            }
+
+            .framer-Umspt .framer-701tf3-container {
+                flex: none;
+                height: 24px;
+                position: relative;
+                width: 24px
+            }
+
+            @supports (background: -webkit-named-image(i)) and (not (font-palette:dark)) {
+                .framer-Umspt.framer-18fumeu {
+                    gap:0px
+                }
+
+                .framer-Umspt.framer-18fumeu>* {
+                    margin: 0 12px
+                }
+
+                .framer-Umspt.framer-18fumeu>:first-child {
+                    margin-left: 0
+                }
+
+                .framer-Umspt.framer-18fumeu>:last-child {
+                    margin-right: 0
+                }
+            }
+
+            .framer-NbFtm.framer-aa13l4,.framer-NbFtm .framer-aa13l4 {
+                display: block
+            }
+
+            .framer-NbFtm.framer-mve1di {
+                align-content: center;
+                align-items: center;
+                display: flex;
+                flex-direction: column;
+                flex-wrap: nowrap;
+                gap: 8px;
+                height: min-content;
+                justify-content: center;
+                overflow: hidden;
+                padding: 24px;
+                position: relative;
+                width: 138px;
+                will-change: var(--framer-will-change-override, transform)
+            }
+
+            .framer-NbFtm .framer-hl6owf {
+                align-content: center;
+                align-items: center;
+                display: flex;
+                flex: none;
+                flex-direction: row;
+                flex-wrap: nowrap;
+                gap: 0px;
+                height: min-content;
+                justify-content: center;
+                overflow: hidden;
+                padding: 0;
+                position: relative;
+                width: 100%
+            }
+
+            .framer-NbFtm .framer-1jb7lob {
+                flex: 1 0 0px;
+                height: auto;
+                position: relative;
+                white-space: pre-wrap;
+                width: 1px;
+                word-break: break-word;
+                word-wrap: break-word
+            }
+
+            .framer-NbFtm .framer-3j49ld {
+                flex: none;
+                height: auto;
+                position: relative;
+                white-space: pre-wrap;
+                width: 100%;
+                word-break: break-word;
+                word-wrap: break-word
+            }
+
+            @supports (background: -webkit-named-image(i)) and (not (font-palette:dark)) {
+                .framer-NbFtm.framer-mve1di,.framer-NbFtm .framer-hl6owf {
+                    gap:0px
+                }
+
+                .framer-NbFtm.framer-mve1di>* {
+                    margin: 4px 0
+                }
+
+                .framer-NbFtm.framer-mve1di>:first-child {
+                    margin-top: 0
+                }
+
+                .framer-NbFtm.framer-mve1di>:last-child {
+                    margin-bottom: 0
+                }
+
+                .framer-NbFtm .framer-hl6owf>* {
+                    margin: 0
+                }
+
+                .framer-NbFtm .framer-hl6owf>:first-child {
+                    margin-left: 0
+                }
+
+                .framer-NbFtm .framer-hl6owf>:last-child {
+                    margin-right: 0
+                }
+            }
+
+            .framer-sRkFW .framer-styles-preset-py4je5:not(.rich-text-wrapper),.framer-sRkFW .framer-styles-preset-py4je5.rich-text-wrapper h3 {
+                --framer-font-family: "Plus Jakarta Sans", "Plus Jakarta Sans Placeholder", sans-serif;
+                --framer-font-family-bold: "Plus Jakarta Sans", "Plus Jakarta Sans Placeholder", sans-serif;
+                --framer-font-family-bold-italic: "Plus Jakarta Sans", "Plus Jakarta Sans Placeholder", sans-serif;
+                --framer-font-family-italic: "Plus Jakarta Sans", "Plus Jakarta Sans Placeholder", sans-serif;
+                --framer-font-open-type-features: normal;
+                --framer-font-size: 30px;
+                --framer-font-style: normal;
+                --framer-font-style-bold: normal;
+                --framer-font-style-bold-italic: italic;
+                --framer-font-style-italic: italic;
+                --framer-font-variation-axes: normal;
+                --framer-font-weight: 600;
+                --framer-font-weight-bold: 700;
+                --framer-font-weight-bold-italic: 700;
+                --framer-font-weight-italic: 600;
+                --framer-letter-spacing: 0em;
+                --framer-line-height: 1.4em;
+                --framer-paragraph-spacing: 40px;
+                --framer-text-alignment: start;
+                --framer-text-color: var(--token-7a7ce709-7970-4e23-97d8-1ae0355d02f0, #ffffff);
+                --framer-text-decoration: none;
+                --framer-text-stroke-color: initial;
+                --framer-text-stroke-width: initial;
+                --framer-text-transform: none
+            }
+
+            @media (max-width: 1299px) and (min-width: 750px) {
+                .framer-sRkFW .framer-styles-preset-py4je5:not(.rich-text-wrapper),.framer-sRkFW .framer-styles-preset-py4je5.rich-text-wrapper h3 {
+                    --framer-font-family: "Plus Jakarta Sans", "Plus Jakarta Sans Placeholder", sans-serif;
+                    --framer-font-family-bold: "Plus Jakarta Sans", "Plus Jakarta Sans Placeholder", sans-serif;
+                    --framer-font-family-bold-italic: "Plus Jakarta Sans", "Plus Jakarta Sans Placeholder", sans-serif;
+                    --framer-font-family-italic: "Plus Jakarta Sans", "Plus Jakarta Sans Placeholder", sans-serif;
+                    --framer-font-open-type-features: normal;
+                    --framer-font-size: 30px;
+                    --framer-font-style: normal;
+                    --framer-font-style-bold: normal;
+                    --framer-font-style-bold-italic: italic;
+                    --framer-font-style-italic: italic;
+                    --framer-font-variation-axes: normal;
+                    --framer-font-weight: 600;
+                    --framer-font-weight-bold: 700;
+                    --framer-font-weight-bold-italic: 700;
+                    --framer-font-weight-italic: 600;
+                    --framer-letter-spacing: 0em;
+                    --framer-line-height: 1.4em;
+                    --framer-paragraph-spacing: 40px;
+                    --framer-text-alignment: start;
+                    --framer-text-color: var(--token-7a7ce709-7970-4e23-97d8-1ae0355d02f0, #ffffff);
+                    --framer-text-decoration: none;
+                    --framer-text-stroke-color: initial;
+                    --framer-text-stroke-width: initial;
+                    --framer-text-transform: none
+                }
+            }
+
+            @media (max-width: 749px) and (min-width: 0px) {
+                .framer-sRkFW .framer-styles-preset-py4je5:not(.rich-text-wrapper),.framer-sRkFW .framer-styles-preset-py4je5.rich-text-wrapper h3 {
+                    --framer-font-family: "Plus Jakarta Sans", "Plus Jakarta Sans Placeholder", sans-serif;
+                    --framer-font-family-bold: "Plus Jakarta Sans", "Plus Jakarta Sans Placeholder", sans-serif;
+                    --framer-font-family-bold-italic: "Plus Jakarta Sans", "Plus Jakarta Sans Placeholder", sans-serif;
+                    --framer-font-family-italic: "Plus Jakarta Sans", "Plus Jakarta Sans Placeholder", sans-serif;
+                    --framer-font-open-type-features: normal;
+                    --framer-font-size: 25px;
+                    --framer-font-style: normal;
+                    --framer-font-style-bold: normal;
+                    --framer-font-style-bold-italic: italic;
+                    --framer-font-style-italic: italic;
+                    --framer-font-variation-axes: normal;
+                    --framer-font-weight: 600;
+                    --framer-font-weight-bold: 700;
+                    --framer-font-weight-bold-italic: 700;
+                    --framer-font-weight-italic: 600;
+                    --framer-letter-spacing: 0em;
+                    --framer-line-height: 1.4em;
+                    --framer-paragraph-spacing: 40px;
+                    --framer-text-alignment: start;
+                    --framer-text-color: var(--token-7a7ce709-7970-4e23-97d8-1ae0355d02f0, #ffffff);
+                    --framer-text-decoration: none;
+                    --framer-text-stroke-color: initial;
+                    --framer-text-stroke-width: initial;
+                    --framer-text-transform: none
+                }
+            }
+
+            .framer-lBbnu.framer-g5elx6,.framer-lBbnu .framer-g5elx6 {
+                display: block
+            }
+
+            .framer-lBbnu.framer-1utbjg4 {
+                align-content: center;
+                align-items: center;
+                cursor: pointer;
+                display: flex;
+                flex-direction: row;
+                flex-wrap: nowrap;
+                gap: 10px;
+                height: min-content;
+                justify-content: center;
+                overflow: hidden;
+                padding: 13px 26px;
+                position: relative;
+                text-decoration: none;
+                width: min-content;
+                will-change: var(--framer-will-change-override, transform)
+            }
+
+            .framer-lBbnu .framer-1pppene {
+                -webkit-user-select: none;
+                flex: none;
+                height: auto;
+                position: relative;
+                user-select: none;
+                white-space: pre;
+                width: auto
+            }
+
+            @supports (background: -webkit-named-image(i)) and (not (font-palette:dark)) {
+                .framer-lBbnu.framer-1utbjg4 {
+                    gap:0px
+                }
+
+                .framer-lBbnu.framer-1utbjg4>* {
+                    margin: 0 5px
+                }
+
+                .framer-lBbnu.framer-1utbjg4>:first-child {
+                    margin-left: 0
+                }
+
+                .framer-lBbnu.framer-1utbjg4>:last-child {
+                    margin-right: 0
+                }
+            }
+
+            .framer-AxuV6.framer-1pta8r4,.framer-AxuV6 .framer-1pta8r4 {
+                display: block
+            }
+
+            .framer-AxuV6.framer-arjx3g {
+                align-content: center;
+                align-items: center;
+                cursor: pointer;
+                display: flex;
+                flex-direction: row;
+                flex-wrap: nowrap;
+                gap: 10px;
+                height: min-content;
+                justify-content: center;
+                overflow: hidden;
+                padding: 13px 26px;
+                position: relative;
+                text-decoration: none;
+                width: min-content;
+                will-change: var(--framer-will-change-override, transform)
+            }
+
+            .framer-AxuV6 .framer-i7bqb4 {
+                -webkit-user-select: none;
+                flex: none;
+                height: auto;
+                position: relative;
+                user-select: none;
+                white-space: pre;
+                width: auto
+            }
+
+            @supports (background: -webkit-named-image(i)) and (not (font-palette:dark)) {
+                .framer-AxuV6.framer-arjx3g {
+                    gap:0px
+                }
+
+                .framer-AxuV6.framer-arjx3g>* {
+                    margin: 0 5px
+                }
+
+                .framer-AxuV6.framer-arjx3g>:first-child {
+                    margin-left: 0
+                }
+
+                .framer-AxuV6.framer-arjx3g>:last-child {
+                    margin-right: 0
+                }
+            }
+
+            .framer-XQoOA .framer-styles-preset-1uqxdd2:not(.rich-text-wrapper),.framer-XQoOA .framer-styles-preset-1uqxdd2.rich-text-wrapper p {
+                --framer-font-family: "Plus Jakarta Sans", "Plus Jakarta Sans Placeholder", sans-serif;
+                --framer-font-family-bold: "Inter", "Inter Placeholder", sans-serif;
+                --framer-font-family-bold-italic: "Inter", "Inter Placeholder", sans-serif;
+                --framer-font-family-italic: "Inter", "Inter Placeholder", sans-serif;
+                --framer-font-open-type-features: normal;
+                --framer-font-size: 16px;
+                --framer-font-style: normal;
+                --framer-font-style-bold: normal;
+                --framer-font-style-bold-italic: italic;
+                --framer-font-style-italic: italic;
+                --framer-font-variation-axes: normal;
+                --framer-font-weight: 600;
+                --framer-font-weight-bold: 700;
+                --framer-font-weight-bold-italic: 700;
+                --framer-font-weight-italic: 400;
+                --framer-letter-spacing: 0em;
+                --framer-line-height: 2em;
+                --framer-paragraph-spacing: 20px;
+                --framer-text-alignment: start;
+                --framer-text-color: var(--token-27dab558-c2be-4da2-b3df-e0c399d3b44b, rgba(255, 255, 255, .6));
+                --framer-text-decoration: none;
+                --framer-text-stroke-color: initial;
+                --framer-text-stroke-width: initial;
+                --framer-text-transform: none
+            }
+
+            .framer-kzBl7.framer-igv6sj,.framer-kzBl7 .framer-igv6sj {
+                display: block
+            }
+
+            .framer-kzBl7.framer-ofwhdh {
+                align-content: flex-start;
+                align-items: flex-start;
+                display: flex;
+                flex-direction: column;
+                flex-wrap: nowrap;
+                gap: 24px;
+                height: min-content;
+                justify-content: center;
+                overflow: hidden;
+                padding: 24px;
+                position: relative;
+                width: 451px;
+                will-change: var(--framer-will-change-override, transform)
+            }
+
+            .framer-kzBl7 .framer-1dka7ig {
+                align-content: center;
+                align-items: center;
+                display: flex;
+                flex: none;
+                flex-direction: row;
+                flex-wrap: nowrap;
+                height: min-content;
+                justify-content: space-between;
+                overflow: visible;
+                padding: 0;
+                position: relative;
+                width: 100%;
+                z-index: 3
+            }
+
+            .framer-kzBl7 .framer-8q5y6o {
+                align-content: center;
+                align-items: center;
+                display: flex;
+                flex: 1 0 0px;
+                flex-direction: row;
+                flex-wrap: nowrap;
+                gap: 16px;
+                height: min-content;
+                justify-content: flex-start;
+                overflow: visible;
+                padding: 0;
+                position: relative;
+                width: 1px
+            }
+
+            .framer-kzBl7 .framer-122ls07 {
+                aspect-ratio: 1 / 1;
+                flex: none;
+                height: 76px;
+                overflow: hidden;
+                position: relative;
+                width: var(--framer-aspect-ratio-supported, 76px);
+                will-change: var(--framer-will-change-override, transform)
+            }
+
+            .framer-kzBl7 .framer-7civ38 {
+                align-content: flex-start;
+                align-items: flex-start;
+                display: flex;
+                flex: 1 0 0px;
+                flex-direction: column;
+                flex-wrap: nowrap;
+                gap: 8px;
+                height: min-content;
+                justify-content: center;
+                overflow: visible;
+                padding: 0;
+                position: relative;
+                width: 1px
+            }
+
+            .framer-kzBl7 .framer-1p6g420,.framer-kzBl7 .framer-1tczcl2 {
+                flex: none;
+                height: auto;
+                position: relative;
+                white-space: pre-wrap;
+                width: 100%;
+                word-break: break-word;
+                word-wrap: break-word
+            }
+
+            .framer-kzBl7 .framer-x5bmrj {
+                flex: none;
+                height: 1px;
+                overflow: hidden;
+                position: relative;
+                width: 100%;
+                will-change: var(--framer-will-change-override, transform);
+                z-index: 3
+            }
+
+            .framer-kzBl7 .framer-xxmpdy {
+                flex: none;
+                height: auto;
+                position: relative;
+                white-space: pre-wrap;
+                width: 100%;
+                word-break: break-word;
+                word-wrap: break-word;
+                z-index: 3
+            }
+
+            .framer-kzBl7 .framer-1ah3qff {
+                flex: none;
+                inset: 0;
+                overflow: hidden;
+                position: absolute;
+                will-change: var(--framer-will-change-override, transform);
+                z-index: 1
+            }
+
+            @supports (background: -webkit-named-image(i)) and (not (font-palette:dark)) {
+                .framer-kzBl7.framer-ofwhdh,.framer-kzBl7 .framer-8q5y6o,.framer-kzBl7 .framer-7civ38 {
+                    gap:0px
+                }
+
+                .framer-kzBl7.framer-ofwhdh>* {
+                    margin: 12px 0
+                }
+
+                .framer-kzBl7.framer-ofwhdh>:first-child,.framer-kzBl7 .framer-7civ38>:first-child {
+                    margin-top: 0
+                }
+
+                .framer-kzBl7.framer-ofwhdh>:last-child,.framer-kzBl7 .framer-7civ38>:last-child {
+                    margin-bottom: 0
+                }
+
+                .framer-kzBl7 .framer-8q5y6o>* {
+                    margin: 0 8px
+                }
+
+                .framer-kzBl7 .framer-8q5y6o>:first-child {
+                    margin-left: 0
+                }
+
+                .framer-kzBl7 .framer-8q5y6o>:last-child {
+                    margin-right: 0
+                }
+
+                .framer-kzBl7 .framer-7civ38>* {
+                    margin: 4px 0
+                }
+            }
+
+            .framer-UddiK .framer-styles-preset-1o2kbzs:not(.rich-text-wrapper),.framer-UddiK .framer-styles-preset-1o2kbzs.rich-text-wrapper h4 {
+                --framer-font-family: "Plus Jakarta Sans", "Plus Jakarta Sans Placeholder", sans-serif;
+                --framer-font-family-bold: "Plus Jakarta Sans", "Plus Jakarta Sans Placeholder", sans-serif;
+                --framer-font-family-bold-italic: "Plus Jakarta Sans", "Plus Jakarta Sans Placeholder", sans-serif;
+                --framer-font-family-italic: "Plus Jakarta Sans", "Plus Jakarta Sans Placeholder", sans-serif;
+                --framer-font-open-type-features: normal;
+                --framer-font-size: 25px;
+                --framer-font-style: normal;
+                --framer-font-style-bold: normal;
+                --framer-font-style-bold-italic: italic;
+                --framer-font-style-italic: italic;
+                --framer-font-variation-axes: normal;
+                --framer-font-weight: 600;
+                --framer-font-weight-bold: 700;
+                --framer-font-weight-bold-italic: 700;
+                --framer-font-weight-italic: 600;
+                --framer-letter-spacing: 0em;
+                --framer-line-height: 1.4em;
+                --framer-paragraph-spacing: 40px;
+                --framer-text-alignment: left;
+                --framer-text-color: var(--token-7a7ce709-7970-4e23-97d8-1ae0355d02f0, #ffffff);
+                --framer-text-decoration: none;
+                --framer-text-stroke-color: initial;
+                --framer-text-stroke-width: initial;
+                --framer-text-transform: none
+            }
+
+            @media (max-width: 1299px) and (min-width: 750px) {
+                .framer-UddiK .framer-styles-preset-1o2kbzs:not(.rich-text-wrapper),.framer-UddiK .framer-styles-preset-1o2kbzs.rich-text-wrapper h4 {
+                    --framer-font-family: "Plus Jakarta Sans", "Plus Jakarta Sans Placeholder", sans-serif;
+                    --framer-font-family-bold: "Plus Jakarta Sans", "Plus Jakarta Sans Placeholder", sans-serif;
+                    --framer-font-family-bold-italic: "Plus Jakarta Sans", "Plus Jakarta Sans Placeholder", sans-serif;
+                    --framer-font-family-italic: "Plus Jakarta Sans", "Plus Jakarta Sans Placeholder", sans-serif;
+                    --framer-font-open-type-features: normal;
+                    --framer-font-size: 20px;
+                    --framer-font-style: normal;
+                    --framer-font-style-bold: normal;
+                    --framer-font-style-bold-italic: italic;
+                    --framer-font-style-italic: italic;
+                    --framer-font-variation-axes: normal;
+                    --framer-font-weight: 600;
+                    --framer-font-weight-bold: 700;
+                    --framer-font-weight-bold-italic: 700;
+                    --framer-font-weight-italic: 600;
+                    --framer-letter-spacing: 0em;
+                    --framer-line-height: 1.4em;
+                    --framer-paragraph-spacing: 40px;
+                    --framer-text-alignment: left;
+                    --framer-text-color: var(--token-7a7ce709-7970-4e23-97d8-1ae0355d02f0, #ffffff);
+                    --framer-text-decoration: none;
+                    --framer-text-stroke-color: initial;
+                    --framer-text-stroke-width: initial;
+                    --framer-text-transform: none
+                }
+            }
+
+            @media (max-width: 749px) and (min-width: 0px) {
+                .framer-UddiK .framer-styles-preset-1o2kbzs:not(.rich-text-wrapper),.framer-UddiK .framer-styles-preset-1o2kbzs.rich-text-wrapper h4 {
+                    --framer-font-family: "Plus Jakarta Sans", "Plus Jakarta Sans Placeholder", sans-serif;
+                    --framer-font-family-bold: "Plus Jakarta Sans", "Plus Jakarta Sans Placeholder", sans-serif;
+                    --framer-font-family-bold-italic: "Plus Jakarta Sans", "Plus Jakarta Sans Placeholder", sans-serif;
+                    --framer-font-family-italic: "Plus Jakarta Sans", "Plus Jakarta Sans Placeholder", sans-serif;
+                    --framer-font-open-type-features: normal;
+                    --framer-font-size: 20px;
+                    --framer-font-style: normal;
+                    --framer-font-style-bold: normal;
+                    --framer-font-style-bold-italic: italic;
+                    --framer-font-style-italic: italic;
+                    --framer-font-variation-axes: normal;
+                    --framer-font-weight: 600;
+                    --framer-font-weight-bold: 700;
+                    --framer-font-weight-bold-italic: 700;
+                    --framer-font-weight-italic: 600;
+                    --framer-letter-spacing: 0em;
+                    --framer-line-height: 1.4em;
+                    --framer-paragraph-spacing: 40px;
+                    --framer-text-alignment: left;
+                    --framer-text-color: var(--token-7a7ce709-7970-4e23-97d8-1ae0355d02f0, #ffffff);
+                    --framer-text-decoration: none;
+                    --framer-text-stroke-color: initial;
+                    --framer-text-stroke-width: initial;
+                    --framer-text-transform: none
+                }
+            }
+
+            .framer-PuKlG.framer-1qeankv,.framer-PuKlG .framer-1qeankv {
+                display: block
+            }
+
+            .framer-PuKlG.framer-15sqof0 {
+                align-content: center;
+                align-items: center;
+                display: flex;
+                flex-direction: row;
+                flex-wrap: nowrap;
+                gap: 6px;
+                height: min-content;
+                justify-content: center;
+                overflow: visible;
+                padding: 6px 16px;
+                position: relative;
+                width: min-content
+            }
+
+            .framer-PuKlG .framer-1qkvdbg {
+                align-content: center;
+                align-items: center;
+                display: flex;
+                flex: none;
+                flex-direction: row;
+                flex-wrap: nowrap;
+                gap: 10px;
+                height: 11px;
+                justify-content: center;
+                overflow: hidden;
+                padding: 0;
+                position: relative;
+                width: 11px;
+                will-change: var(--framer-will-change-override, transform)
+            }
+
+            .framer-PuKlG .framer-1v60oqk {
+                align-content: center;
+                align-items: center;
+                display: flex;
+                flex: none;
+                flex-direction: row;
+                flex-wrap: nowrap;
+                gap: 10px;
+                height: 9px;
+                justify-content: center;
+                overflow: hidden;
+                padding: 0;
+                position: relative;
+                width: 8px;
+                will-change: var(--framer-will-change-override, transform)
+            }
+
+            .framer-PuKlG .framer-asjeaj {
+                flex: none;
+                height: 5px;
+                overflow: hidden;
+                position: relative;
+                width: 5px;
+                will-change: var(--framer-will-change-override, transform)
+            }
+
+            .framer-PuKlG .framer-fkhzu7 {
+                -webkit-user-select: none;
+                flex: none;
+                height: auto;
+                pointer-events: auto;
+                position: relative;
+                user-select: none;
+                white-space: pre;
+                width: auto
+            }
+
+            @supports (background: -webkit-named-image(i)) and (not (font-palette:dark)) {
+                .framer-PuKlG.framer-15sqof0,.framer-PuKlG .framer-1qkvdbg,.framer-PuKlG .framer-1v60oqk {
+                    gap:0px
+                }
+
+                .framer-PuKlG.framer-15sqof0>* {
+                    margin: 0 3px
+                }
+
+                .framer-PuKlG.framer-15sqof0>:first-child,.framer-PuKlG .framer-1qkvdbg>:first-child,.framer-PuKlG .framer-1v60oqk>:first-child {
+                    margin-left: 0
+                }
+
+                .framer-PuKlG.framer-15sqof0>:last-child,.framer-PuKlG .framer-1qkvdbg>:last-child,.framer-PuKlG .framer-1v60oqk>:last-child {
+                    margin-right: 0
+                }
+
+                .framer-PuKlG .framer-1qkvdbg>*,.framer-PuKlG .framer-1v60oqk>* {
+                    margin: 0 5px
+                }
+            }
+
+            .ssr-variant {
+                display: contents
+            }
+
+            .framer-LgHU8.framer-odtmfc,.framer-LgHU8 .framer-odtmfc {
+                display: block
+            }
+
+            .framer-LgHU8.framer-16e0psl {
+                align-content: flex-start;
+                align-items: flex-start;
+                display: flex;
+                flex-direction: column;
+                flex-wrap: nowrap;
+                gap: 32px;
+                height: min-content;
+                justify-content: center;
+                overflow: hidden;
+                padding: 30px;
+                position: relative;
+                width: 540px;
+                will-change: var(--framer-will-change-override, transform)
+            }
+
+            .framer-LgHU8 .framer-uc9z24 {
+                align-content: flex-start;
+                align-items: flex-start;
+                display: flex;
+                flex: none;
+                flex-direction: column;
+                flex-wrap: nowrap;
+                gap: 16px;
+                height: min-content;
+                justify-content: center;
+                overflow: visible;
+                padding: 0;
+                position: relative;
+                width: 100%;
+                z-index: 3
+            }
+
+            .framer-LgHU8 .framer-e5onc {
+                align-content: center;
+                align-items: center;
+                display: flex;
+                flex: none;
+                flex-direction: row;
+                flex-wrap: nowrap;
+                gap: 10px;
+                height: min-content;
+                justify-content: center;
+                overflow: hidden;
+                padding: 0;
+                position: relative;
+                width: 100%
+            }
+
+            .framer-LgHU8 .framer-h8fwvn-container {
+                flex: none;
+                height: 25px;
+                position: relative;
+                width: 25px
+            }
+
+            .framer-LgHU8 .framer-134dngq {
+                flex: 1 0 0px;
+                height: auto;
+                position: relative;
+                white-space: pre-wrap;
+                width: 1px;
+                word-break: break-word;
+                word-wrap: break-word
+            }
+
+            .framer-LgHU8 .framer-1gl58m0 {
+                flex: none;
+                height: auto;
+                position: relative;
+                white-space: pre-wrap;
+                width: 100%;
+                word-break: break-word;
+                word-wrap: break-word
+            }
+
+            .framer-LgHU8 .framer-2xcnz2 {
+                flex: none;
+                height: 239px;
+                position: relative;
+                width: 100%
+            }
+
+            .framer-LgHU8 .framer-azj6rc-container {
+                flex: none;
+                height: 244px;
+                position: relative;
+                width: 100%
+            }
+
+            .framer-LgHU8 .framer-1p37e1a {
+                height: 233px;
+                overflow: visible;
+                position: relative;
+                width: 299px
+            }
+
+            .framer-LgHU8 .framer-1a455c6 {
+                height: 233px;
+                overflow: visible;
+                position: relative;
+                width: 302px
+            }
+
+            .framer-LgHU8 .framer-170kwap {
+                height: 233px;
+                overflow: visible;
+                position: relative;
+                width: 300px
+            }
+
+            @supports (background: -webkit-named-image(i)) and (not (font-palette:dark)) {
+                .framer-LgHU8.framer-16e0psl,.framer-LgHU8 .framer-uc9z24,.framer-LgHU8 .framer-e5onc {
+                    gap:0px
+                }
+
+                .framer-LgHU8.framer-16e0psl>* {
+                    margin: 16px 0
+                }
+
+                .framer-LgHU8.framer-16e0psl>:first-child,.framer-LgHU8 .framer-uc9z24>:first-child {
+                    margin-top: 0
+                }
+
+                .framer-LgHU8.framer-16e0psl>:last-child,.framer-LgHU8 .framer-uc9z24>:last-child {
+                    margin-bottom: 0
+                }
+
+                .framer-LgHU8 .framer-uc9z24>* {
+                    margin: 8px 0
+                }
+
+                .framer-LgHU8 .framer-e5onc>* {
+                    margin: 0 5px
+                }
+
+                .framer-LgHU8 .framer-e5onc>:first-child {
+                    margin-left: 0
+                }
+
+                .framer-LgHU8 .framer-e5onc>:last-child {
+                    margin-right: 0
+                }
+            }
+
+            .framer-33SOM .framer-styles-preset-1ajziol:not(.rich-text-wrapper),.framer-33SOM .framer-styles-preset-1ajziol.rich-text-wrapper h5 {
+                --framer-font-family: "Plus Jakarta Sans", "Plus Jakarta Sans Placeholder", sans-serif;
+                --framer-font-family-bold: "Plus Jakarta Sans", "Plus Jakarta Sans Placeholder", sans-serif;
+                --framer-font-family-bold-italic: "Plus Jakarta Sans", "Plus Jakarta Sans Placeholder", sans-serif;
+                --framer-font-family-italic: "Plus Jakarta Sans", "Plus Jakarta Sans Placeholder", sans-serif;
+                --framer-font-open-type-features: normal;
+                --framer-font-size: 20px;
+                --framer-font-style: normal;
+                --framer-font-style-bold: normal;
+                --framer-font-style-bold-italic: italic;
+                --framer-font-style-italic: italic;
+                --framer-font-variation-axes: normal;
+                --framer-font-weight: 600;
+                --framer-font-weight-bold: 700;
+                --framer-font-weight-bold-italic: 700;
+                --framer-font-weight-italic: 600;
+                --framer-letter-spacing: 0em;
+                --framer-line-height: 1.4em;
+                --framer-paragraph-spacing: 40px;
+                --framer-text-alignment: left;
+                --framer-text-color: var(--token-7a7ce709-7970-4e23-97d8-1ae0355d02f0, #ffffff);
+                --framer-text-decoration: none;
+                --framer-text-stroke-color: initial;
+                --framer-text-stroke-width: initial;
+                --framer-text-transform: none
+            }
+
+            .framer-coXks .framer-styles-preset-vp3sdo:not(.rich-text-wrapper),.framer-coXks .framer-styles-preset-vp3sdo.rich-text-wrapper p {
+                --framer-font-family: "Inter", sans-serif;
+                --framer-font-family-bold: "Inter", "Inter Placeholder", sans-serif;
+                --framer-font-family-bold-italic: "Inter", "Inter Placeholder", sans-serif;
+                --framer-font-family-italic: "Inter", "Inter Placeholder", sans-serif;
+                --framer-font-open-type-features: normal;
+                --framer-font-size: 15px;
+                --framer-font-style: normal;
+                --framer-font-style-bold: normal;
+                --framer-font-style-bold-italic: italic;
+                --framer-font-style-italic: italic;
+                --framer-font-variation-axes: normal;
+                --framer-font-weight: 400;
+                --framer-font-weight-bold: 700;
+                --framer-font-weight-bold-italic: 700;
+                --framer-font-weight-italic: 400;
+                --framer-letter-spacing: -.02em;
+                --framer-line-height: 1.8em;
+                --framer-paragraph-spacing: 20px;
+                --framer-text-alignment: left;
+                --framer-text-color: var(--token-7a7ce709-7970-4e23-97d8-1ae0355d02f0, #ffffff);
+                --framer-text-decoration: none;
+                --framer-text-stroke-color: initial;
+                --framer-text-stroke-width: initial;
+                --framer-text-transform: none
+            }
+
+            @media (max-width: 1299px) and (min-width: 750px) {
+                .framer-coXks .framer-styles-preset-vp3sdo:not(.rich-text-wrapper),.framer-coXks .framer-styles-preset-vp3sdo.rich-text-wrapper p {
+                    --framer-font-family: "Inter", sans-serif;
+                    --framer-font-family-bold: "Inter", "Inter Placeholder", sans-serif;
+                    --framer-font-family-bold-italic: "Inter", "Inter Placeholder", sans-serif;
+                    --framer-font-family-italic: "Inter", "Inter Placeholder", sans-serif;
+                    --framer-font-open-type-features: normal;
+                    --framer-font-size: 15px;
+                    --framer-font-style: normal;
+                    --framer-font-style-bold: normal;
+                    --framer-font-style-bold-italic: italic;
+                    --framer-font-style-italic: italic;
+                    --framer-font-variation-axes: normal;
+                    --framer-font-weight: 400;
+                    --framer-font-weight-bold: 700;
+                    --framer-font-weight-bold-italic: 700;
+                    --framer-font-weight-italic: 400;
+                    --framer-letter-spacing: -.02em;
+                    --framer-line-height: 1.8em;
+                    --framer-paragraph-spacing: 20px;
+                    --framer-text-alignment: left;
+                    --framer-text-color: var(--token-7a7ce709-7970-4e23-97d8-1ae0355d02f0, #ffffff);
+                    --framer-text-decoration: none;
+                    --framer-text-stroke-color: initial;
+                    --framer-text-stroke-width: initial;
+                    --framer-text-transform: none
+                }
+            }
+
+            @media (max-width: 749px) and (min-width: 0px) {
+                .framer-coXks .framer-styles-preset-vp3sdo:not(.rich-text-wrapper),.framer-coXks .framer-styles-preset-vp3sdo.rich-text-wrapper p {
+                    --framer-font-family: "Inter", sans-serif;
+                    --framer-font-family-bold: "Inter", "Inter Placeholder", sans-serif;
+                    --framer-font-family-bold-italic: "Inter", "Inter Placeholder", sans-serif;
+                    --framer-font-family-italic: "Inter", "Inter Placeholder", sans-serif;
+                    --framer-font-open-type-features: normal;
+                    --framer-font-size: 15px;
+                    --framer-font-style: normal;
+                    --framer-font-style-bold: normal;
+                    --framer-font-style-bold-italic: italic;
+                    --framer-font-style-italic: italic;
+                    --framer-font-variation-axes: normal;
+                    --framer-font-weight: 400;
+                    --framer-font-weight-bold: 700;
+                    --framer-font-weight-bold-italic: 700;
+                    --framer-font-weight-italic: 400;
+                    --framer-letter-spacing: -.02em;
+                    --framer-line-height: 1.8em;
+                    --framer-paragraph-spacing: 20px;
+                    --framer-text-alignment: left;
+                    --framer-text-color: var(--token-7a7ce709-7970-4e23-97d8-1ae0355d02f0, #ffffff);
+                    --framer-text-decoration: none;
+                    --framer-text-stroke-color: initial;
+                    --framer-text-stroke-width: initial;
+                    --framer-text-transform: none
+                }
+            }
+
+            @supports (aspect-ratio: 1) {
+                body {
+                    --framer-aspect-ratio-supported: auto
+                }
+            }
+
+            .framer-ajQUV.framer-y37q31,.framer-ajQUV .framer-y37q31 {
+                display: block
+            }
+
+            .framer-ajQUV.framer-eygmpz {
+                align-content: center;
+                align-items: center;
+                display: flex;
+                flex-direction: row;
+                flex-wrap: nowrap;
+                gap: 10px;
+                height: min-content;
+                justify-content: center;
+                overflow: hidden;
+                padding: 12px 16px;
+                position: relative;
+                width: min-content;
+                will-change: var(--framer-will-change-override, transform)
+            }
+
+            .framer-ajQUV .framer-4mxji1-container {
+                flex: none;
+                height: 20px;
+                position: relative;
+                width: 20px
+            }
+
+            .framer-ajQUV .framer-av4puv {
+                flex: none;
+                height: auto;
+                position: relative;
+                white-space: pre;
+                width: auto
+            }
+
+            @supports (background: -webkit-named-image(i)) and (not (font-palette:dark)) {
+                .framer-ajQUV.framer-eygmpz {
+                    gap:0px
+                }
+
+                .framer-ajQUV.framer-eygmpz>* {
+                    margin: 0 5px
+                }
+
+                .framer-ajQUV.framer-eygmpz>:first-child {
+                    margin-left: 0
+                }
+
+                .framer-ajQUV.framer-eygmpz>:last-child {
+                    margin-right: 0
+                }
+            }
+
+            .framer-ZaPG2 .framer-styles-preset-wu4ebp:not(.rich-text-wrapper),.framer-ZaPG2 .framer-styles-preset-wu4ebp.rich-text-wrapper p {
+                --framer-font-family: "Plus Jakarta Sans", "Plus Jakarta Sans Placeholder", sans-serif;
+                --framer-font-family-bold: "Plus Jakarta Sans", "Plus Jakarta Sans Placeholder", sans-serif;
+                --framer-font-family-bold-italic: "Plus Jakarta Sans", "Plus Jakarta Sans Placeholder", sans-serif;
+                --framer-font-family-italic: "Plus Jakarta Sans", "Plus Jakarta Sans Placeholder", sans-serif;
+                --framer-font-open-type-features: normal;
+                --framer-font-size: 16px;
+                --framer-font-style: normal;
+                --framer-font-style-bold: normal;
+                --framer-font-style-bold-italic: italic;
+                --framer-font-style-italic: italic;
+                --framer-font-variation-axes: normal;
+                --framer-font-weight: 500;
+                --framer-font-weight-bold: 700;
+                --framer-font-weight-bold-italic: 700;
+                --framer-font-weight-italic: 500;
+                --framer-letter-spacing: 0em;
+                --framer-line-height: 2em;
+                --framer-paragraph-spacing: 20px;
+                --framer-text-alignment: start;
+                --framer-text-color: var(--token-27dab558-c2be-4da2-b3df-e0c399d3b44b, rgba(255, 255, 255, .6));
+                --framer-text-decoration: none;
+                --framer-text-stroke-color: initial;
+                --framer-text-stroke-width: initial;
+                --framer-text-transform: none
+            }
+
+            @media (max-width: 1299px) and (min-width: 750px) {
+                .framer-ZaPG2 .framer-styles-preset-wu4ebp:not(.rich-text-wrapper),.framer-ZaPG2 .framer-styles-preset-wu4ebp.rich-text-wrapper p {
+                    --framer-font-family: "Plus Jakarta Sans", "Plus Jakarta Sans Placeholder", sans-serif;
+                    --framer-font-family-bold: "Plus Jakarta Sans", "Plus Jakarta Sans Placeholder", sans-serif;
+                    --framer-font-family-bold-italic: "Plus Jakarta Sans", "Plus Jakarta Sans Placeholder", sans-serif;
+                    --framer-font-family-italic: "Plus Jakarta Sans", "Plus Jakarta Sans Placeholder", sans-serif;
+                    --framer-font-open-type-features: normal;
+                    --framer-font-size: 16px;
+                    --framer-font-style: normal;
+                    --framer-font-style-bold: normal;
+                    --framer-font-style-bold-italic: italic;
+                    --framer-font-style-italic: italic;
+                    --framer-font-variation-axes: normal;
+                    --framer-font-weight: 500;
+                    --framer-font-weight-bold: 700;
+                    --framer-font-weight-bold-italic: 700;
+                    --framer-font-weight-italic: 500;
+                    --framer-letter-spacing: 0em;
+                    --framer-line-height: 2em;
+                    --framer-paragraph-spacing: 20px;
+                    --framer-text-alignment: start;
+                    --framer-text-color: var(--token-27dab558-c2be-4da2-b3df-e0c399d3b44b, rgba(255, 255, 255, .6));
+                    --framer-text-decoration: none;
+                    --framer-text-stroke-color: initial;
+                    --framer-text-stroke-width: initial;
+                    --framer-text-transform: none
+                }
+            }
+
+            @media (max-width: 749px) and (min-width: 0px) {
+                .framer-ZaPG2 .framer-styles-preset-wu4ebp:not(.rich-text-wrapper),.framer-ZaPG2 .framer-styles-preset-wu4ebp.rich-text-wrapper p {
+                    --framer-font-family: "Plus Jakarta Sans", "Plus Jakarta Sans Placeholder", sans-serif;
+                    --framer-font-family-bold: "Plus Jakarta Sans", "Plus Jakarta Sans Placeholder", sans-serif;
+                    --framer-font-family-bold-italic: "Plus Jakarta Sans", "Plus Jakarta Sans Placeholder", sans-serif;
+                    --framer-font-family-italic: "Plus Jakarta Sans", "Plus Jakarta Sans Placeholder", sans-serif;
+                    --framer-font-open-type-features: normal;
+                    --framer-font-size: 15px;
+                    --framer-font-style: normal;
+                    --framer-font-style-bold: normal;
+                    --framer-font-style-bold-italic: italic;
+                    --framer-font-style-italic: italic;
+                    --framer-font-variation-axes: normal;
+                    --framer-font-weight: 500;
+                    --framer-font-weight-bold: 700;
+                    --framer-font-weight-bold-italic: 700;
+                    --framer-font-weight-italic: 500;
+                    --framer-letter-spacing: 0em;
+                    --framer-line-height: 2em;
+                    --framer-paragraph-spacing: 20px;
+                    --framer-text-alignment: start;
+                    --framer-text-color: var(--token-27dab558-c2be-4da2-b3df-e0c399d3b44b, rgba(255, 255, 255, .6));
+                    --framer-text-decoration: none;
+                    --framer-text-stroke-color: initial;
+                    --framer-text-stroke-width: initial;
+                    --framer-text-transform: none
+                }
+            }
+
+            html.lenis {
+                height: auto
+            }
+
+            .lenis.lenis-smooth {
+                scroll-behavior: auto!important
+            }
+
+            .lenis.lenis-smooth [data-lenis-prevent] {
+                overscroll-behavior: contain
+            }
+
+            .lenis.lenis-stopped {
+                overflow: hidden
+            }
+
+            .lenis.lenis-scrolling iframe {
+                pointer-events: none
+            }
+        </style>
+        <!-- Start of headEnd -->
+        <!-- End of headEnd -->
+    </head>
+    <body>
+        <script async src="https://events.framer.com/script?v=2" data-fid="3126b3faf9ae3891fe5a15581b741dcd060d5d010a1add926c10c9c6efcce89a" data-no-nt></script>
+        <!-- Start of bodyStart -->
+        <!-- End of bodyStart -->
+        <div id="main" data-framer-hydrate-v2="{&quot;routeId&quot;:&quot;augiA20Il&quot;,&quot;localeId&quot;:&quot;default&quot;,&quot;breakpoints&quot;:[{&quot;hash&quot;:&quot;72rtr7&quot;,&quot;mediaQuery&quot;:&quot;(min-width: 1300px)&quot;},{&quot;hash&quot;:&quot;1oifrzv&quot;,&quot;mediaQuery&quot;:&quot;(min-width: 750px) and (max-width: 1299px)&quot;},{&quot;hash&quot;:&quot;oryvlp&quot;,&quot;mediaQuery&quot;:&quot;(max-width: 749px)&quot;},{&quot;hash&quot;:&quot;ynmlr3&quot;,&quot;mediaQuery&quot;:&quot;(min-width: 1300px)&quot;},{&quot;hash&quot;:&quot;1979d9p&quot;,&quot;mediaQuery&quot;:&quot;(min-width: 750px) and (max-width: 1299px)&quot;},{&quot;hash&quot;:&quot;173olyx&quot;,&quot;mediaQuery&quot;:&quot;(max-width: 749px)&quot;}]}" data-framer-ssr-released-at="2025-05-07T11:06:59.174Z" data-framer-page-optimized-at="2025-05-13T18:04:07.043Z">
+            <!--$-->
+            <style data-framer-html-style>
+                :root body {
+                    background: var(--token-f5646347-2529-487d-8af1-d99f05c5451c, rgb(10, 10, 10));
+                }
+            </style>
+            <div class="framer-1qXmj framer-ynmlr3" data-framer-cursor="9e0108" data-layout-template="true" style="min-height:100vh;width:auto">
+                <div class="ssr-variant hidden-173olyx hidden-1979d9p">
+                    <div class="framer-11n6lfm-container" data-framer-layout-hint-center-x="true">
+                        <nav class="framer-151yu framer-33SOM framer-7ui4vy framer-v-7ui4vy" data-border="true" data-framer-name="Desktop" style="--border-bottom-width:1px;--border-color:var(--token-b2b2cec5-8316-4f9c-8fd9-5fdfc3c24032, rgba(255, 255, 255, 0.1));--border-left-width:1px;--border-right-width:1px;--border-style:solid;--border-top-width:1px;backdrop-filter:blur(12px);background-color:var(--token-237a00c2-a8b1-4063-9fcb-8dc6bd0797dd, rgba(17, 17, 17, 0.7));border-bottom-left-radius:32px;border-bottom-right-radius:32px;border-top-left-radius:32px;border-top-right-radius:32px;-webkit-backdrop-filter:blur(12px);max-width:100%;width:100%" tabindex="-1">
+                            <div class="framer-beie2w" data-framer-name="Nav Wrapper">
+                                <div class="framer-11km8nm">
+                                    <div class="framer-1vd7fuy" data-framer-name="logo">
+                                        <div style="position:absolute;border-radius:inherit;top:0;right:0;bottom:0;left:0" data-framer-background-image-wrapper="true">
+                                            <img decoding="async" width="316" height="100" src="https://framerusercontent.com/images/duRtoIIUg5pJHSrEAoXb5RLVCc.svg" alt style="display:block;width:100%;height:100%;border-radius:inherit;object-position:left center;object-fit:cover">
+                                        </div>
+                                    </div>
+                                    <div class="framer-14e3fp3" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none" data-framer-component-type="RichTextContainer">
+                                        <h5 class="framer-text framer-styles-preset-1ajziol" data-styles-preset="WkrX6JBfV">
+                                            <span data-text-fill="true" style="background-image:linear-gradient(0deg, rgb(0, 0, 0) -36%, rgb(232, 232, 232) 100%)" class="framer-text">Hemanth</span>
+                                        </h5>
+                                    </div>
+                                </div>
+                                <div class="framer-auuvt8" data-framer-name="Wrapper"></div>
+                                <div class="framer-14grg2k" data-framer-name="Right Links">
+                                    <nav class="framer-65b4ht" data-framer-name="nav links">
+                                        <!--$-->
+                                        <div class="framer-d513k-container">
+                                            <!--$-->
+                                            <a class="framer-MsQXt framer-ZaPG2 framer-1h5x971 framer-v-1h5x971 framer-1mkmxms" data-framer-name="Large" data-highlight="true" href="./#projects" tabindex="0">
+                                                <div class="framer-ixwgze" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;transform:none" data-framer-component-type="RichTextContainer">
+                                                    <p class="framer-text framer-styles-preset-wu4ebp" data-styles-preset="H1YXoF4HR">Projects</p>
+                                                </div>
+                                            </a>
+                                            <!--/$-->
+                                        </div>
+                                        <!--/$-->
+                                        <!--$-->
+                                        <div class="framer-1hho832-container">
+                                            <!--$-->
+                                            <a class="framer-MsQXt framer-ZaPG2 framer-1h5x971 framer-v-1h5x971 framer-1mkmxms" data-framer-name="Large" data-highlight="true" href="./#testimonials" tabindex="0">
+                                                <div class="framer-ixwgze" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;transform:none" data-framer-component-type="RichTextContainer">
+                                                    <p class="framer-text framer-styles-preset-wu4ebp" data-styles-preset="H1YXoF4HR">About Me</p>
+                                                </div>
+                                            </a>
+                                            <!--/$-->
+                                        </div>
+                                        <!--/$-->
+                                        <!--$-->
+                                        <div class="framer-1npidy0-container">
+                                            <!--$-->
+                                            <a class="framer-MsQXt framer-ZaPG2 framer-1h5x971 framer-v-1h5x971 framer-1mkmxms" data-framer-name="Large" data-highlight="true" href="./#services" tabindex="0">
+                                                <div class="framer-ixwgze" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;transform:none" data-framer-component-type="RichTextContainer">
+                                                    <p class="framer-text framer-styles-preset-wu4ebp" data-styles-preset="H1YXoF4HR">Services</p>
+                                                </div>
+                                            </a>
+                                            <!--/$-->
+                                        </div>
+                                        <!--/$-->
+                                        <div class="framer-t5vekd-container">
+                                            <!--$-->
+                                            <a class="framer-MsQXt framer-ZaPG2 framer-1h5x971 framer-v-1h5x971 framer-1mkmxms" data-framer-name="Large" data-highlight="true" href="https://hemanthram2197@gmail.com" target="_blank" rel="noopener" tabindex="0">
+                                                <div class="framer-ixwgze" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;transform:none" data-framer-component-type="RichTextContainer">
+                                                    <p class="framer-text framer-styles-preset-wu4ebp" data-styles-preset="H1YXoF4HR">Contact</p>
+                                                </div>
+                                            </a>
+                                            <!--/$-->
+                                        </div>
+                                    </nav>
+                                </div>
+                            </div>
+                        </nav>
+                    </div>
+                </div>
+                <div class="ssr-variant hidden-1979d9p hidden-ynmlr3">
+                    <div class="framer-11n6lfm-container" data-framer-layout-hint-center-x="true">
+                        <nav class="framer-151yu framer-33SOM framer-7ui4vy framer-v-18ihko2" data-border="true" data-framer-name="Tablet/ Mobile" style="--border-bottom-width:1px;--border-color:var(--token-b2b2cec5-8316-4f9c-8fd9-5fdfc3c24032, rgba(255, 255, 255, 0.1));--border-left-width:1px;--border-right-width:1px;--border-style:solid;--border-top-width:1px;backdrop-filter:none;background-color:var(--token-f5646347-2529-487d-8af1-d99f05c5451c, rgb(10, 10, 10));border-bottom-left-radius:32px;border-bottom-right-radius:32px;border-top-left-radius:32px;border-top-right-radius:32px;-webkit-backdrop-filter:none;max-width:100%;width:100%" tabindex="-1">
+                            <div class="framer-beie2w" data-framer-name="Nav Wrapper">
+                                <div class="framer-1hstkbv" data-framer-name="Wrapper">
+                                    <div class="framer-skoexp">
+                                        <div class="framer-1b1o4zc" data-framer-name="logo">
+                                            <div style="position:absolute;border-radius:inherit;top:0;right:0;bottom:0;left:0" data-framer-background-image-wrapper="true">
+                                                <img decoding="async" width="316" height="100" src="https://framerusercontent.com/images/duRtoIIUg5pJHSrEAoXb5RLVCc.svg" alt style="display:block;width:100%;height:100%;border-radius:inherit;object-position:left center;object-fit:cover">
+                                            </div>
+                                        </div>
+                                        <div class="framer-8zhj5c" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none" data-framer-component-type="RichTextContainer">
+                                            <h5 class="framer-text framer-styles-preset-1ajziol" data-styles-preset="WkrX6JBfV">
+                                                <span data-text-fill="true" style="background-image:linear-gradient(0deg, rgb(0, 0, 0) -36%, rgb(232, 232, 232) 100%)" class="framer-text">Hemanth</span>
+                                            </h5>
+                                        </div>
+                                    </div>
+                                    <div class="framer-1kjgda5-container" data-framer-name="Mobile Menu Icon" name="Mobile Menu Icon">
+                                        <div name="Mobile Menu Icon" class="framer-l8LZC framer-12isa6r framer-v-12isa6r" data-framer-name="Default" data-highlight="true" tabindex="0">
+                                            <div class="framer-1hishfo-container">
+                                                <div class="framer-hEL9t framer-u2tgai framer-v-u2tgai" data-framer-name="Hamburger" data-highlight="true" tabindex="0">
+                                                    <div class="framer-1w07jwh" style="background-color:var(--token-7a7ce709-7970-4e23-97d8-1ae0355d02f0, rgb(255, 255, 255));border-bottom-left-radius:1px;border-bottom-right-radius:1px;border-top-left-radius:1px;border-top-right-radius:1px;transform:none"></div>
+                                                    <div class="framer-1ucutao" style="background-color:var(--token-7a7ce709-7970-4e23-97d8-1ae0355d02f0, rgb(255, 255, 255));border-bottom-left-radius:1px;border-bottom-right-radius:1px;border-top-left-radius:1px;border-top-right-radius:1px;transform:none"></div>
+                                                </div>
+                                            </div>
+                                            <div class="framer-1dwfo1m" data-framer-name="Background" style="background-color:var(--token-f5646347-2529-487d-8af1-d99f05c5451c, rgb(10, 10, 10));border-bottom-left-radius:8px;border-bottom-right-radius:8px;border-top-left-radius:8px;border-top-right-radius:8px;opacity:0"></div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="framer-14grg2k" data-framer-name="Right Links">
+                                    <nav class="framer-65b4ht" data-framer-name="nav links">
+                                        <!--$-->
+                                        <div class="framer-d513k-container">
+                                            <!--$-->
+                                            <a class="framer-MsQXt framer-ZaPG2 framer-1h5x971 framer-v-1h5x971 framer-1mkmxms" data-framer-name="Large" data-highlight="true" href="./#projects" tabindex="0">
+                                                <div class="framer-ixwgze" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;transform:none" data-framer-component-type="RichTextContainer">
+                                                    <p class="framer-text framer-styles-preset-wu4ebp" data-styles-preset="H1YXoF4HR">Projects</p>
+                                                </div>
+                                            </a>
+                                            <!--/$-->
+                                        </div>
+                                        <!--/$-->
+                                        <!--$-->
+                                        <div class="framer-1hho832-container">
+                                            <!--$-->
+                                            <a class="framer-MsQXt framer-ZaPG2 framer-1h5x971 framer-v-1h5x971 framer-1mkmxms" data-framer-name="Large" data-highlight="true" href="./#testimonials" tabindex="0">
+                                                <div class="framer-ixwgze" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;transform:none" data-framer-component-type="RichTextContainer">
+                                                    <p class="framer-text framer-styles-preset-wu4ebp" data-styles-preset="H1YXoF4HR">About Me</p>
+                                                </div>
+                                            </a>
+                                            <!--/$-->
+                                        </div>
+                                        <!--/$-->
+                                        <!--$-->
+                                        <div class="framer-1npidy0-container">
+                                            <!--$-->
+                                            <a class="framer-MsQXt framer-ZaPG2 framer-1h5x971 framer-v-1h5x971 framer-1mkmxms" data-framer-name="Large" data-highlight="true" href="./#services" tabindex="0">
+                                                <div class="framer-ixwgze" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;transform:none" data-framer-component-type="RichTextContainer">
+                                                    <p class="framer-text framer-styles-preset-wu4ebp" data-styles-preset="H1YXoF4HR">Services</p>
+                                                </div>
+                                            </a>
+                                            <!--/$-->
+                                        </div>
+                                        <!--/$-->
+                                        <div class="framer-t5vekd-container">
+                                            <!--$-->
+                                            <a class="framer-MsQXt framer-ZaPG2 framer-1h5x971 framer-v-1h5x971 framer-1mkmxms" data-framer-name="Large" data-highlight="true" href="https://hemanthram2197@gmail.com" target="_blank" rel="noopener" tabindex="0">
+                                                <div class="framer-ixwgze" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;transform:none" data-framer-component-type="RichTextContainer">
+                                                    <p class="framer-text framer-styles-preset-wu4ebp" data-styles-preset="H1YXoF4HR">Contact</p>
+                                                </div>
+                                            </a>
+                                            <!--/$-->
+                                        </div>
+                                    </nav>
+                                </div>
+                            </div>
+                        </nav>
+                    </div>
+                </div>
+                <div class="ssr-variant hidden-173olyx hidden-ynmlr3">
+                    <div class="framer-11n6lfm-container" data-framer-layout-hint-center-x="true">
+                        <nav class="framer-151yu framer-33SOM framer-7ui4vy framer-v-18ihko2" data-border="true" data-framer-name="Tablet/ Mobile" style="--border-bottom-width:1px;--border-color:var(--token-b2b2cec5-8316-4f9c-8fd9-5fdfc3c24032, rgba(255, 255, 255, 0.1));--border-left-width:1px;--border-right-width:1px;--border-style:solid;--border-top-width:1px;backdrop-filter:none;background-color:var(--token-f5646347-2529-487d-8af1-d99f05c5451c, rgb(10, 10, 10));border-bottom-left-radius:32px;border-bottom-right-radius:32px;border-top-left-radius:32px;border-top-right-radius:32px;-webkit-backdrop-filter:none;max-width:100%;width:100%" tabindex="-1">
+                            <div class="framer-beie2w" data-framer-name="Nav Wrapper">
+                                <div class="framer-1hstkbv" data-framer-name="Wrapper">
+                                    <div class="framer-skoexp">
+                                        <div class="framer-1b1o4zc" data-framer-name="logo">
+                                            <div style="position:absolute;border-radius:inherit;top:0;right:0;bottom:0;left:0" data-framer-background-image-wrapper="true">
+                                                <img decoding="async" width="316" height="100" src="https://framerusercontent.com/images/duRtoIIUg5pJHSrEAoXb5RLVCc.svg" alt style="display:block;width:100%;height:100%;border-radius:inherit;object-position:left center;object-fit:cover">
+                                            </div>
+                                        </div>
+                                        <div class="framer-8zhj5c" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none" data-framer-component-type="RichTextContainer">
+                                            <h5 class="framer-text framer-styles-preset-1ajziol" data-styles-preset="WkrX6JBfV">
+                                                <span data-text-fill="true" style="background-image:linear-gradient(0deg, rgb(0, 0, 0) -36%, rgb(232, 232, 232) 100%)" class="framer-text">Hemanth</span>
+                                            </h5>
+                                        </div>
+                                    </div>
+                                    <div class="framer-1kjgda5-container" data-framer-name="Mobile Menu Icon" name="Mobile Menu Icon">
+                                        <div name="Mobile Menu Icon" class="framer-l8LZC framer-12isa6r framer-v-12isa6r" data-framer-name="Default" data-highlight="true" tabindex="0">
+                                            <div class="framer-1hishfo-container">
+                                                <div class="framer-hEL9t framer-u2tgai framer-v-u2tgai" data-framer-name="Hamburger" data-highlight="true" tabindex="0">
+                                                    <div class="framer-1w07jwh" style="background-color:var(--token-7a7ce709-7970-4e23-97d8-1ae0355d02f0, rgb(255, 255, 255));border-bottom-left-radius:1px;border-bottom-right-radius:1px;border-top-left-radius:1px;border-top-right-radius:1px;transform:none"></div>
+                                                    <div class="framer-1ucutao" style="background-color:var(--token-7a7ce709-7970-4e23-97d8-1ae0355d02f0, rgb(255, 255, 255));border-bottom-left-radius:1px;border-bottom-right-radius:1px;border-top-left-radius:1px;border-top-right-radius:1px;transform:none"></div>
+                                                </div>
+                                            </div>
+                                            <div class="framer-1dwfo1m" data-framer-name="Background" style="background-color:var(--token-f5646347-2529-487d-8af1-d99f05c5451c, rgb(10, 10, 10));border-bottom-left-radius:8px;border-bottom-right-radius:8px;border-top-left-radius:8px;border-top-right-radius:8px;opacity:0"></div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="framer-14grg2k" data-framer-name="Right Links">
+                                    <nav class="framer-65b4ht" data-framer-name="nav links">
+                                        <!--$-->
+                                        <div class="framer-d513k-container">
+                                            <!--$-->
+                                            <a class="framer-MsQXt framer-ZaPG2 framer-1h5x971 framer-v-1h5x971 framer-1mkmxms" data-framer-name="Large" data-highlight="true" href="./#projects" tabindex="0">
+                                                <div class="framer-ixwgze" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;transform:none" data-framer-component-type="RichTextContainer">
+                                                    <p class="framer-text framer-styles-preset-wu4ebp" data-styles-preset="H1YXoF4HR">Projects</p>
+                                                </div>
+                                            </a>
+                                            <!--/$-->
+                                        </div>
+                                        <!--/$-->
+                                        <!--$-->
+                                        <div class="framer-1hho832-container">
+                                            <!--$-->
+                                            <a class="framer-MsQXt framer-ZaPG2 framer-1h5x971 framer-v-1h5x971 framer-1mkmxms" data-framer-name="Large" data-highlight="true" href="./#testimonials" tabindex="0">
+                                                <div class="framer-ixwgze" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;transform:none" data-framer-component-type="RichTextContainer">
+                                                    <p class="framer-text framer-styles-preset-wu4ebp" data-styles-preset="H1YXoF4HR">About Me</p>
+                                                </div>
+                                            </a>
+                                            <!--/$-->
+                                        </div>
+                                        <!--/$-->
+                                        <!--$-->
+                                        <div class="framer-1npidy0-container">
+                                            <!--$-->
+                                            <a class="framer-MsQXt framer-ZaPG2 framer-1h5x971 framer-v-1h5x971 framer-1mkmxms" data-framer-name="Large" data-highlight="true" href="./#services" tabindex="0">
+                                                <div class="framer-ixwgze" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;transform:none" data-framer-component-type="RichTextContainer">
+                                                    <p class="framer-text framer-styles-preset-wu4ebp" data-styles-preset="H1YXoF4HR">Services</p>
+                                                </div>
+                                            </a>
+                                            <!--/$-->
+                                        </div>
+                                        <!--/$-->
+                                        <div class="framer-t5vekd-container">
+                                            <!--$-->
+                                            <a class="framer-MsQXt framer-ZaPG2 framer-1h5x971 framer-v-1h5x971 framer-1mkmxms" data-framer-name="Large" data-highlight="true" href="https://hemanthram2197@gmail.com" target="_blank" rel="noopener" tabindex="0">
+                                                <div class="framer-ixwgze" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;transform:none" data-framer-component-type="RichTextContainer">
+                                                    <p class="framer-text framer-styles-preset-wu4ebp" data-styles-preset="H1YXoF4HR">Contact</p>
+                                                </div>
+                                            </a>
+                                            <!--/$-->
+                                        </div>
+                                    </nav>
+                                </div>
+                            </div>
+                        </nav>
+                    </div>
+                </div>
+                <style data-framer-html-style>
+                    html body {
+                        background: rgb(0, 0, 0);
+                    }
+                </style>
+                <div data-framer-root class="framer-gzpkS framer-GNz7j framer-ZaPG2 framer-nTqkl framer-72rtr7" style="min-height:100vh;width:auto;display:contents">
+                    <section class="framer-19jf7yw hidden-oryvlp" data-framer-name="Hero" id="hero-section">
+                        <div class="framer-proezj" data-framer-name="Container">
+                            <div class="framer-16gmzkm" data-framer-name="Top">
+                                <div class="framer-15rs65j-container" data-framer-appear-id="15rs65j" style="opacity:0.001;will-change:transform;transform:none">
+                                    <div class="framer-PuKlG framer-coXks framer-15sqof0 framer-v-15sqof0" data-framer-name="Primary" style="background-color:var(--token-cba3b9c8-9e49-437e-aca1-1e69db3088dc, rgb(17, 17, 17));border-bottom-left-radius:20px;border-bottom-right-radius:20px;border-top-left-radius:20px;border-top-right-radius:20px;box-shadow:16px 24px 20px 8px rgba(0, 0, 0, 0.4), inset 0px 2px 0px 0px rgba(184, 180, 180, 0.08)">
+                                        <div class="framer-1qkvdbg" data-framer-name="icon shape" style="background-color:var(--token-7a7ce709-7970-4e23-97d8-1ae0355d02f0, rgb(255, 255, 255));border-bottom-left-radius:10px;border-bottom-right-radius:10px;border-top-left-radius:10px;border-top-right-radius:10px">
+                                            <div class="framer-1v60oqk" data-framer-name="circle" style="background-color:var(--token-cba3b9c8-9e49-437e-aca1-1e69db3088dc, rgb(17, 17, 17));border-bottom-left-radius:10px;border-bottom-right-radius:10px;border-top-left-radius:10px;border-top-right-radius:10px">
+                                                <div class="framer-asjeaj" data-framer-name="dot" style="background-color:var(--token-7a7ce709-7970-4e23-97d8-1ae0355d02f0, rgb(255, 255, 255));border-bottom-left-radius:10px;border-bottom-right-radius:10px;border-top-left-radius:10px;border-top-right-radius:10px"></div>
+                                            </div>
+                                        </div>
+                                        <div class="framer-fkhzu7" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;transform:none" data-framer-component-type="RichTextContainer">
+                                            <p class="framer-text framer-styles-preset-vp3sdo" data-styles-preset="WQG2SsoyY">UI/UX &amp;Product Designer</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="framer-1qmwjf3" data-framer-name="Heading &amp; paragraph">
+                                    <div class="framer-brju1u" data-framer-name="Heading">
+                                        <div class="ssr-variant hidden-1oifrzv">
+                                            <div class="framer-13qy7mu" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;transform:none" data-framer-component-type="RichTextContainer">
+                                                <h1 class="framer-text framer-styles-preset-1bhedml" data-styles-preset="kTYyR5xHj">
+                                                    <span style="display:inline-block;opacity:0.001;transform:translateX(0px) translateY(10px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)">Hemanth</span>
+                                                    <span style="display:inline-block;opacity:0.001;transform:translateX(0px) translateY(10px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)">Ram</span>
+                                                    <span style="display:inline-block;opacity:0.001;transform:translateX(0px) translateY(10px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)"></span>
+                                                </h1>
+                                            </div>
+                                        </div>
+                                        <div class="ssr-variant hidden-oryvlp hidden-72rtr7">
+                                            <svg class="framer-13qy7mu" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;transform:none" data-framer-component-type="RichTextContainer" viewBox="0 0 496 95">
+                                                <foreignObject width="100%" height="100%" class="framer-fit-text" transform="scale(1)" style="overflow:visible;transform-origin:center center">
+                                                    <h1 class="framer-text framer-styles-preset-1bhedml" data-styles-preset="kTYyR5xHj">Hemanth Ram </h1>
+                                                </foreignObject>
+                                            </svg>
+                                        </div>
+                                        <!--$-->
+                                        <div class="framer-eonpnc-container">
+                                            <!--$-->
+                                            <a class="framer-EBDBp framer-coXks framer-4r3422 framer-v-4r3422 framer-10qazvn" data-framer-name="Primary" href="./#testimonials">
+                                                <div class="framer-1um4r9g" data-framer-name="Icon" style="background-color:var(--token-f5646347-2529-487d-8af1-d99f05c5451c, rgb(10, 10, 10));border-bottom-left-radius:1000px;border-bottom-right-radius:1000px;border-top-left-radius:1000px;border-top-right-radius:1000px;box-shadow:inset 0px 2px 0px 0px rgba(184, 180, 180, 0.14);transform:rotate(-35deg)">
+                                                    <div class="framer-1r4hh7m-container">
+                                                        <!--$-->
+                                                        <div style="display:contents"></div>
+                                                        <!--/$-->
+                                                    </div>
+                                                    <div class="framer-13a7y3v-container">
+                                                        <!--$-->
+                                                        <div style="display:contents"></div>
+                                                        <!--/$-->
+                                                    </div>
+                                                </div>
+                                            </a>
+                                            <!--/$-->
+                                        </div>
+                                        <!--/$-->
+                                    </div>
+                                    <div class="framer-1fxib7w" data-framer-name="paragraph">
+                                        <div class="framer-1f0e319" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;transform:none" data-framer-component-type="RichTextContainer">
+                                            <p class="framer-text framer-styles-preset-wu4ebp" data-styles-preset="H1YXoF4HR">
+                                                <span style="display:inline-block;opacity:0.001;transform:translateX(0px) translateY(10px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)">I’m</span>
+                                                <span style="display:inline-block;opacity:0.001;transform:translateX(0px) translateY(10px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)">a</span>
+                                                <span style="display:inline-block;opacity:0.001;transform:translateX(0px) translateY(10px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)">versatile</span>
+                                                <span style="display:inline-block;opacity:0.001;transform:translateX(0px) translateY(10px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)">designer</span>
+                                                <span style="display:inline-block;opacity:0.001;transform:translateX(0px) translateY(10px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)">specializing</span>
+                                                <span style="display:inline-block;opacity:0.001;transform:translateX(0px) translateY(10px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)"></span>
+                                                <span style="display:inline-block;opacity:0.001;transform:translateX(0px) translateY(10px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)">in</span>
+                                                <span style="display:inline-block;opacity:0.001;transform:translateX(0px) translateY(10px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)">web,</span>
+                                                <span style="display:inline-block;opacity:0.001;transform:translateX(0px) translateY(10px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)">and</span>
+                                                <span style="display:inline-block;opacity:0.001;transform:translateX(0px) translateY(10px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)">product</span>
+                                                <span style="display:inline-block;opacity:0.001;transform:translateX(0px) translateY(10px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)">design</span>
+                                                <span style="display:inline-block;opacity:0.001;transform:translateX(0px) translateY(10px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)">to</span>
+                                                <span style="display:inline-block;opacity:0.001;transform:translateX(0px) translateY(10px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)">help</span>
+                                                <span style="display:inline-block;opacity:0.001;transform:translateX(0px) translateY(10px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)">grow</span>
+                                                <span style="display:inline-block;opacity:0.001;transform:translateX(0px) translateY(10px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)">your</span>
+                                                <span style="display:inline-block;opacity:0.001;transform:translateX(0px) translateY(10px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)">business.</span>
+                                                <span style="display:inline-block;opacity:0.001;transform:translateX(0px) translateY(10px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)">Let’s</span>
+                                                <span style="display:inline-block;opacity:0.001;transform:translateX(0px) translateY(10px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)">build</span>
+                                                <span style="display:inline-block;opacity:0.001;transform:translateX(0px) translateY(10px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)">something</span>
+                                                <span style="display:inline-block;opacity:0.001;transform:translateX(0px) translateY(10px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)">great!</span>
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="framer-32h4k8" data-framer-name="Buttons">
+                                    <div class="framer-h1h6ez-container" data-framer-appear-id="h1h6ez" tabindex="0" style="opacity:0.001;will-change:transform;transform:translateY(20px)">
+                                        <!--$-->
+                                        <a class="framer-lBbnu framer-ZaPG2 framer-1utbjg4 framer-v-1utbjg4 framer-g5elx6" data-framer-name="Main Blue Button (L)" data-reset="button" style="background:linear-gradient(180deg, var(--token-16f2e642-57af-452f-984c-64067596f797, rgb(120, 120, 120)) /* {&quot;name&quot;:&quot;light grey&quot;} */ -382%, var(--token-f5646347-2529-487d-8af1-d99f05c5451c, rgb(10, 10, 10)) /* {&quot;name&quot;:&quot;Background&quot;} */ 100%);border-bottom-left-radius:100px;border-bottom-right-radius:100px;border-top-left-radius:100px;border-top-right-radius:100px;opacity:1" href="https://drive.google.com/file/d/1Pe63rNGWELYonMkD2dD3nX2KuyohHtiB/view?usp=sharing" rel="noopener" tabindex="0">
+                                            <div class="framer-1pppene" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--extracted-r6o4lv:var(--token-7a7ce709-7970-4e23-97d8-1ae0355d02f0, rgb(255, 255, 255));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none" data-framer-component-type="RichTextContainer">
+                                                <p class="framer-text framer-styles-preset-wu4ebp" data-styles-preset="H1YXoF4HR" style="--framer-text-color:var(--extracted-r6o4lv, var(--token-7a7ce709-7970-4e23-97d8-1ae0355d02f0, rgb(255, 255, 255)))">Download Resume</p>
+                                            </div>
+                                        </a>
+                                        <!--/$-->
+                                    </div>
+                                    <div class="framer-142rx2f-container" data-framer-appear-id="142rx2f" tabindex="0" style="opacity:0.001;will-change:transform;transform:translateY(20px)">
+                                        <!--$-->
+                                        <a class="framer-AxuV6 framer-XQoOA framer-arjx3g framer-v-arjx3g framer-1pta8r4" data-framer-name="Secondary Button (L)" data-reset="button" style="background:linear-gradient(180deg, var(--token-7a7ce709-7970-4e23-97d8-1ae0355d02f0, rgb(255, 255, 255)) /* {&quot;name&quot;:&quot;white | 100&quot;} */ 0%, var(--token-16f2e642-57af-452f-984c-64067596f797, rgb(120, 120, 120)) /* {&quot;name&quot;:&quot;light grey&quot;} */ 140%);border-bottom-left-radius:100px;border-bottom-right-radius:100px;border-top-left-radius:100px;border-top-right-radius:100px;box-shadow:none;opacity:1" href="https://hemanthram2197@gmail.com" rel="noopener" tabindex="0">
+                                            <div class="framer-i7bqb4" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--extracted-r6o4lv:var(--token-f5646347-2529-487d-8af1-d99f05c5451c, rgb(10, 10, 10));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none" data-framer-component-type="RichTextContainer">
+                                                <p class="framer-text framer-styles-preset-1uqxdd2" data-styles-preset="uCnC2_tAh" style="--framer-text-color:var(--extracted-r6o4lv, var(--token-f5646347-2529-487d-8af1-d99f05c5451c, rgb(10, 10, 10)))">Contact Now</p>
+                                            </div>
+                                        </a>
+                                        <!--/$-->
+                                    </div>
+                                </div>
+                                <div class="framer-mx672x hidden-1oifrzv" data-framer-name="comment" style="will-change:transform;opacity:1;transform:none">
+                                    <div class="framer-rlksl5-container" style="transform:rotate(-14deg)">
+                                        <div class="framer-mQinw framer-coXks framer-1t4lcce framer-v-1t4lcce" data-framer-name="Primary" style="background-color:var(--token-cba3b9c8-9e49-437e-aca1-1e69db3088dc, rgb(17, 17, 17));border-bottom-left-radius:12px;border-bottom-right-radius:12px;border-top-left-radius:12px;border-top-right-radius:12px;box-shadow:inset 0px 2px 0px 0px rgba(184, 180, 180, 0.08);width:100%">
+                                            <div class="framer-kh99w4" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none" data-framer-component-type="RichTextContainer">
+                                                <p class="framer-text framer-styles-preset-vp3sdo" data-styles-preset="WQG2SsoyY">" Shaping user experiences that inspire, engage, and deliver results "</p>
+                                            </div>
+                                            <div class="framer-aynstu" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;opacity:0.5;transform:none" data-framer-component-type="RichTextContainer">
+                                                <p class="framer-text framer-styles-preset-vp3sdo" data-styles-preset="WQG2SsoyY" style="--framer-text-alignment:right"></p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="framer-1v5cgu0-container" style="transform:rotate(96deg)">
+                                        <div class="framer-bpCAi framer-45196i framer-v-45196i" data-framer-name="Primary" style="height:100%;width:100%">
+                                            <div class="framer-1fct4kh-container">
+                                                <!--$-->
+                                                <div style="display:contents"></div>
+                                                <!--/$-->
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="framer-1shfjc1 hidden-1oifrzv" data-framer-name="comment" style="will-change:transform;opacity:1;transform:none">
+                                    <div class="framer-1bypo68-container">
+                                        <div class="framer-bpCAi framer-45196i framer-v-45196i" data-framer-name="Primary" style="height:100%;width:100%">
+                                            <div class="framer-1fct4kh-container">
+                                                <!--$-->
+                                                <div style="display:contents"></div>
+                                                <!--/$-->
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="framer-520j3r-container" style="transform:rotate(6deg)">
+                                        <div class="framer-mQinw framer-coXks framer-1t4lcce framer-v-1t4lcce" data-framer-name="Primary" style="background-color:var(--token-cba3b9c8-9e49-437e-aca1-1e69db3088dc, rgb(17, 17, 17));border-bottom-left-radius:12px;border-bottom-right-radius:12px;border-top-left-radius:12px;border-top-right-radius:12px;box-shadow:inset 0px 2px 0px 0px rgba(184, 180, 180, 0.08);width:100%">
+                                            <div class="framer-kh99w4" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none" data-framer-component-type="RichTextContainer">
+                                                <p class="framer-text framer-styles-preset-vp3sdo" data-styles-preset="WQG2SsoyY">" Where strategy meets creativity — product design that drives impact"</p>
+                                            </div>
+                                            <div class="framer-aynstu" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;opacity:0.5;transform:none" data-framer-component-type="RichTextContainer">
+                                                <p class="framer-text framer-styles-preset-vp3sdo" data-styles-preset="WQG2SsoyY" style="--framer-text-alignment:right"></p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!--$-->
+                            <a class="framer-1tgr5dl framer-lux5qc" data-framer-name="arrow icon" href="./#projects" style="will-change:transform;opacity:1;transform:none">
+                                <div class="framer-z125dv-container" style="transform:rotate(360deg)">
+                                    <!--$-->
+                                    <div style="display:contents"></div>
+                                    <!--/$-->
+                                </div>
+                            </a>
+                            <!--/$-->
+                            <div class="framer-18jh2m7-container">
+                                <!--$-->
+                                <video src="https://videos.pexels.com/video-files/9694443/9694443-hd_1920_1080_25fps.mp4" loop preload="none" muted playsinline style="cursor:auto;width:100%;height:100%;border-radius:0px;display:block;object-fit:cover;background-color:rgba(0, 0, 0, 0);object-position:50% 50%"></video>
+                                <!--/$-->
+                            </div>
+                        </div>
+                        <div class="framer-jurclp" data-framer-name="Shooting Stars">
+                            <div class="framer-1xb91t7-container" style="will-change:transform;opacity:1;transform:rotate(22.6deg)">
+                                <div class="framer-QVjJF framer-1ansaoc framer-v-1ansaoc" data-framer-name="Primarry" style="background:linear-gradient(270deg, hsla(0, 0%, 100%, 0.6) 0%, hsla(0, 0%, 100%, 0) 100%);border-bottom-left-radius:2px;border-bottom-right-radius:2px;border-top-left-radius:2px;border-top-right-radius:2px;height:100%;width:100%">
+                                    <div class="framer-rczvud" data-framer-name="shimmer" style="background-color:rgba(255, 255, 255, 0.2);border-bottom-left-radius:1px;border-bottom-right-radius:1px;border-top-left-radius:1px;border-top-right-radius:1px;box-shadow:0px 0px 6px 1px rgba(255, 255, 255, 0.6)"></div>
+                                </div>
+                            </div>
+                            <div class="framer-1i0w92m-container" style="will-change:transform;opacity:1;transform:rotate(22.6deg)">
+                                <div class="framer-QVjJF framer-1ansaoc framer-v-1ansaoc" data-framer-name="Primarry" style="background:linear-gradient(270deg, hsla(0, 0%, 100%, 0.6) 0%, hsla(0, 0%, 100%, 0) 100%);border-bottom-left-radius:2px;border-bottom-right-radius:2px;border-top-left-radius:2px;border-top-right-radius:2px;height:100%;width:100%">
+                                    <div class="framer-rczvud" data-framer-name="shimmer" style="background-color:rgba(255, 255, 255, 0.2);border-bottom-left-radius:1px;border-bottom-right-radius:1px;border-top-left-radius:1px;border-top-right-radius:1px;box-shadow:0px 0px 6px 1px rgba(255, 255, 255, 0.6)"></div>
+                                </div>
+                            </div>
+                            <div class="framer-1jn488y-container" style="will-change:transform;opacity:1;transform:rotate(22.6deg)">
+                                <div class="framer-QVjJF framer-1ansaoc framer-v-1ansaoc" data-framer-name="Primarry" style="background:linear-gradient(270deg, hsla(0, 0%, 100%, 0.6) 0%, hsla(0, 0%, 100%, 0) 100%);border-bottom-left-radius:2px;border-bottom-right-radius:2px;border-top-left-radius:2px;border-top-right-radius:2px;height:100%;width:100%">
+                                    <div class="framer-rczvud" data-framer-name="shimmer" style="background-color:rgba(255, 255, 255, 0.2);border-bottom-left-radius:1px;border-bottom-right-radius:1px;border-top-left-radius:1px;border-top-right-radius:1px;box-shadow:0px 0px 6px 1px rgba(255, 255, 255, 0.6)"></div>
+                                </div>
+                            </div>
+                            <div class="framer-1xc8lci-container" style="will-change:transform;opacity:1;transform:rotate(22.6deg)">
+                                <div class="framer-QVjJF framer-1ansaoc framer-v-1ansaoc" data-framer-name="Primarry" style="background:linear-gradient(270deg, hsla(0, 0%, 100%, 0.6) 0%, hsla(0, 0%, 100%, 0) 100%);border-bottom-left-radius:2px;border-bottom-right-radius:2px;border-top-left-radius:2px;border-top-right-radius:2px;height:100%;width:100%">
+                                    <div class="framer-rczvud" data-framer-name="shimmer" style="background-color:rgba(255, 255, 255, 0.2);border-bottom-left-radius:1px;border-bottom-right-radius:1px;border-top-left-radius:1px;border-top-right-radius:1px;box-shadow:0px 0px 6px 1px rgba(255, 255, 255, 0.6)"></div>
+                                </div>
+                            </div>
+                            <div class="framer-1dye2xh-container" style="will-change:transform;opacity:1;transform:rotate(22.6deg)">
+                                <div class="framer-QVjJF framer-1ansaoc framer-v-1ansaoc" data-framer-name="Primarry" style="background:linear-gradient(270deg, hsla(0, 0%, 100%, 0.6) 0%, hsla(0, 0%, 100%, 0) 100%);border-bottom-left-radius:2px;border-bottom-right-radius:2px;border-top-left-radius:2px;border-top-right-radius:2px;height:100%;width:100%">
+                                    <div class="framer-rczvud" data-framer-name="shimmer" style="background-color:rgba(255, 255, 255, 0.2);border-bottom-left-radius:1px;border-bottom-right-radius:1px;border-top-left-radius:1px;border-top-right-radius:1px;box-shadow:0px 0px 6px 1px rgba(255, 255, 255, 0.6)"></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="framer-6b2916" data-framer-name="light rays" style="transform:rotate(-58deg)">
+                            <div class="framer-1nv2mco" data-framer-name="Ray" style="will-change:transform;opacity:0.42;transform:none;transform-origin:100% 0% 0"></div>
+                            <div class="framer-1ql46mk" data-framer-name="Ray" style="will-change:transform;opacity:1;transform:rotate(25deg);transform-origin:100% 0% 0"></div>
+                            <div class="framer-k80625" data-framer-name="Ray" style="will-change:transform;opacity:1;transform:rotate(11deg);transform-origin:100% 0% 0"></div>
+                            <div class="framer-1relhvq" data-framer-name="Ray" style="transform:rotate(-12deg);transform-origin:100% 0% 0"></div>
+                            <div class="framer-1ypobzq" data-framer-name="Ray" style="transform:rotate(-24deg);transform-origin:100% 0% 0"></div>
+                            <div class="framer-17ncbfs" data-framer-name="Ray" style="will-change:transform;opacity:1;transform:rotate(-18deg);transform-origin:100% 0% 0"></div>
+                            <div class="framer-wzf5ut" data-framer-name="Ray" style="will-change:transform;opacity:1;transform:rotate(-5deg);transform-origin:100% 0% 0"></div>
+                            <div class="framer-1mk5u7h" data-framer-name="Ray" style="transform:rotate(-3deg);transform-origin:100% 0% 0"></div>
+                            <div class="framer-1fc61ai" data-framer-name="Ray" style="transform:rotate(18deg);transform-origin:100% 0% 0"></div>
+                            <div class="framer-14xak74" data-framer-name="Ray" style="transform:rotate(6deg);transform-origin:100% 0% 0"></div>
+                            <div class="framer-73mzne" data-framer-name="Light Source" style="origin-x:1px;origin-y:0"></div>
+                            <div class="framer-1h2dhe7" data-framer-name="Light Source" style="origin-x:1px;origin-y:0"></div>
+                            <div class="framer-76hv8g" data-framer-name="Light Source" style="origin-x:1px;origin-y:0"></div>
+                        </div>
+                        <div class="framer-1ojx368" data-framer-name="overlay"></div>
+                    </section>
+                    <section class="framer-drtkyo" data-framer-name="Projects" id="projects">
+                        <div class="framer-srssws" data-framer-name="container">
+                            <div class="framer-1p1s71v" data-framer-name="Top container">
+                                <div class="framer-ffgqj2" data-framer-name="Content">
+                                    <div class="ssr-variant hidden-oryvlp">
+                                        <div class="framer-8edj8b-container" data-framer-appear-id="8edj8b" style="opacity:0.001;will-change:transform;transform:none">
+                                            <div class="framer-PuKlG framer-coXks framer-15sqof0 framer-v-15sqof0" data-framer-name="Primary" style="background-color:var(--token-cba3b9c8-9e49-437e-aca1-1e69db3088dc, rgb(17, 17, 17));border-bottom-left-radius:20px;border-bottom-right-radius:20px;border-top-left-radius:20px;border-top-right-radius:20px;box-shadow:16px 24px 20px 8px rgba(0, 0, 0, 0.4), inset 0px 2px 0px 0px rgba(184, 180, 180, 0.08)">
+                                                <div class="framer-1qkvdbg" data-framer-name="icon shape" style="background-color:var(--token-7a7ce709-7970-4e23-97d8-1ae0355d02f0, rgb(255, 255, 255));border-bottom-left-radius:10px;border-bottom-right-radius:10px;border-top-left-radius:10px;border-top-right-radius:10px">
+                                                    <div class="framer-1v60oqk" data-framer-name="circle" style="background-color:var(--token-cba3b9c8-9e49-437e-aca1-1e69db3088dc, rgb(17, 17, 17));border-bottom-left-radius:10px;border-bottom-right-radius:10px;border-top-left-radius:10px;border-top-right-radius:10px">
+                                                        <div class="framer-asjeaj" data-framer-name="dot" style="background-color:var(--token-7a7ce709-7970-4e23-97d8-1ae0355d02f0, rgb(255, 255, 255));border-bottom-left-radius:10px;border-bottom-right-radius:10px;border-top-left-radius:10px;border-top-right-radius:10px"></div>
+                                                    </div>
+                                                </div>
+                                                <div class="framer-fkhzu7" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;transform:none" data-framer-component-type="RichTextContainer">
+                                                    <p class="framer-text framer-styles-preset-vp3sdo" data-styles-preset="WQG2SsoyY">Portfolio</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="ssr-variant hidden-1oifrzv hidden-72rtr7">
+                                        <div class="framer-8edj8b-container" data-framer-appear-id="8edj8b" style="opacity:0.001;will-change:transform;transform:none">
+                                            <div class="framer-PuKlG framer-coXks framer-15sqof0 framer-v-15sqof0" data-framer-name="Primary" style="background-color:var(--token-cba3b9c8-9e49-437e-aca1-1e69db3088dc, rgb(17, 17, 17));border-bottom-left-radius:20px;border-bottom-right-radius:20px;border-top-left-radius:20px;border-top-right-radius:20px;box-shadow:16px 24px 20px 8px rgba(0, 0, 0, 0.4), inset 0px 2px 0px 0px rgba(184, 180, 180, 0.08)">
+                                                <div class="framer-1qkvdbg" data-framer-name="icon shape" style="background-color:var(--token-7a7ce709-7970-4e23-97d8-1ae0355d02f0, rgb(255, 255, 255));border-bottom-left-radius:10px;border-bottom-right-radius:10px;border-top-left-radius:10px;border-top-right-radius:10px">
+                                                    <div class="framer-1v60oqk" data-framer-name="circle" style="background-color:var(--token-cba3b9c8-9e49-437e-aca1-1e69db3088dc, rgb(17, 17, 17));border-bottom-left-radius:10px;border-bottom-right-radius:10px;border-top-left-radius:10px;border-top-right-radius:10px">
+                                                        <div class="framer-asjeaj" data-framer-name="dot" style="background-color:var(--token-7a7ce709-7970-4e23-97d8-1ae0355d02f0, rgb(255, 255, 255));border-bottom-left-radius:10px;border-bottom-right-radius:10px;border-top-left-radius:10px;border-top-right-radius:10px"></div>
+                                                    </div>
+                                                </div>
+                                                <div class="framer-fkhzu7" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;transform:none" data-framer-component-type="RichTextContainer">
+                                                    <p class="framer-text framer-styles-preset-vp3sdo" data-styles-preset="WQG2SsoyY">Portfolio</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="framer-1wnbt6e" data-framer-name="Heading &amp; paragraph">
+                                        <div class="framer-kddpza" data-framer-name="Heading">
+                                            <div class="framer-1qg4at5" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;transform:none" data-framer-component-type="RichTextContainer">
+                                                <h2 class="framer-text framer-styles-preset-f2amck" data-styles-preset="CBdr2gxTW" style="--framer-text-alignment:left">
+                                                    <span style="display:inline-block;opacity:0.001;transform:translateX(0px) translateY(10px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)">My</span>
+                                                    <span style="display:inline-block;opacity:0.001;transform:translateX(0px) translateY(10px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)">Projects</span>
+                                                </h2>
+                                            </div>
+                                        </div>
+                                        <div class="framer-14i1brs" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;transform:none" data-framer-component-type="RichTextContainer">
+                                            <p class="framer-text framer-styles-preset-wu4ebp" data-styles-preset="H1YXoF4HR" style="--framer-text-alignment:left">
+                                                <span style="display:inline-block;opacity:0.001;transform:translateX(0px) translateY(10px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)">Showcase</span>
+                                                <span style="display:inline-block;opacity:0.001;transform:translateX(0px) translateY(10px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)">of</span>
+                                                <span style="display:inline-block;opacity:0.001;transform:translateX(0px) translateY(10px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)">some</span>
+                                                <span style="display:inline-block;opacity:0.001;transform:translateX(0px) translateY(10px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)">of</span>
+                                                <span style="display:inline-block;opacity:0.001;transform:translateX(0px) translateY(10px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)">my</span>
+                                                <span style="display:inline-block;opacity:0.001;transform:translateX(0px) translateY(10px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)">recent</span>
+                                                <span style="display:inline-block;opacity:0.001;transform:translateX(0px) translateY(10px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)">sleek</span>
+                                                <span style="display:inline-block;opacity:0.001;transform:translateX(0px) translateY(10px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)">work</span>
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="framer-trfzxg hidden-oryvlp" data-framer-name="Buttons">
+                                    <div class="framer-1ga9jn2-container" data-framer-appear-id="1ga9jn2" tabindex="0" style="opacity:0.001;will-change:transform;transform:translateY(20px)">
+                                        <!--$-->
+                                        <a class="framer-lBbnu framer-ZaPG2 framer-1utbjg4 framer-v-1utbjg4 framer-g5elx6" data-framer-name="Main Blue Button (L)" data-reset="button" style="background:linear-gradient(180deg, var(--token-16f2e642-57af-452f-984c-64067596f797, rgb(120, 120, 120)) /* {&quot;name&quot;:&quot;light grey&quot;} */ -382%, var(--token-f5646347-2529-487d-8af1-d99f05c5451c, rgb(10, 10, 10)) /* {&quot;name&quot;:&quot;Background&quot;} */ 100%);border-bottom-left-radius:100px;border-bottom-right-radius:100px;border-top-left-radius:100px;border-top-right-radius:100px;opacity:1" tabindex="0">
+                                            <div class="framer-1pppene" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--extracted-r6o4lv:var(--token-7a7ce709-7970-4e23-97d8-1ae0355d02f0, rgb(255, 255, 255));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none" data-framer-component-type="RichTextContainer">
+                                                <p class="framer-text framer-styles-preset-wu4ebp" data-styles-preset="H1YXoF4HR" style="--framer-text-color:var(--extracted-r6o4lv, var(--token-7a7ce709-7970-4e23-97d8-1ae0355d02f0, rgb(255, 255, 255)))">Behance</p>
+                                            </div>
+                                        </a>
+                                        <!--/$-->
+                                    </div>
+                                    <div class="framer-y5cmjp-container">
+                                        <!--$-->
+                                        <a class="framer-EBDBp framer-coXks framer-4r3422 framer-v-4r3422 framer-10qazvn" data-framer-name="Primary">
+                                            <div class="framer-1um4r9g" data-framer-name="Icon" style="background-color:var(--token-f5646347-2529-487d-8af1-d99f05c5451c, rgb(10, 10, 10));border-bottom-left-radius:1000px;border-bottom-right-radius:1000px;border-top-left-radius:1000px;border-top-right-radius:1000px;box-shadow:inset 0px 2px 0px 0px rgba(184, 180, 180, 0.14);transform:rotate(-35deg)">
+                                                <div class="framer-1r4hh7m-container">
+                                                    <!--$-->
+                                                    <div style="display:contents"></div>
+                                                    <!--/$-->
+                                                </div>
+                                                <div class="framer-13a7y3v-container">
+                                                    <!--$-->
+                                                    <div style="display:contents"></div>
+                                                    <!--/$-->
+                                                </div>
+                                            </div>
+                                        </a>
+                                        <!--/$-->
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="ssr-variant hidden-oryvlp">
+                                <div class="framer-lkoyi4-container hidden-72rtr7 hidden-1oifrzv" data-framer-appear-id="lkoyi4" tabindex="0" style="opacity:0.001;will-change:transform;transform:translateY(20px)">
+                                    <!--$-->
+                                    <a class="framer-lBbnu framer-ZaPG2 framer-1utbjg4 framer-v-1utbjg4 framer-g5elx6" data-framer-name="Main Blue Button (L)" data-reset="button" style="background:linear-gradient(180deg, var(--token-16f2e642-57af-452f-984c-64067596f797, rgb(120, 120, 120)) /* {&quot;name&quot;:&quot;light grey&quot;} */ -382%, var(--token-f5646347-2529-487d-8af1-d99f05c5451c, rgb(10, 10, 10)) /* {&quot;name&quot;:&quot;Background&quot;} */ 100%);border-bottom-left-radius:100px;border-bottom-right-radius:100px;border-top-left-radius:100px;border-top-right-radius:100px;max-width:100%;width:100%;opacity:1" tabindex="0">
+                                        <div class="framer-1pppene" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--extracted-r6o4lv:var(--token-7a7ce709-7970-4e23-97d8-1ae0355d02f0, rgb(255, 255, 255));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none" data-framer-component-type="RichTextContainer">
+                                            <p class="framer-text framer-styles-preset-wu4ebp" data-styles-preset="H1YXoF4HR" style="--framer-text-color:var(--extracted-r6o4lv, var(--token-7a7ce709-7970-4e23-97d8-1ae0355d02f0, rgb(255, 255, 255)))">View more in Behance</p>
+                                        </div>
+                                    </a>
+                                    <!--/$-->
+                                </div>
+                            </div>
+                            <div class="ssr-variant hidden-1oifrzv hidden-72rtr7">
+                                <div class="framer-lkoyi4-container hidden-72rtr7 hidden-1oifrzv" data-framer-appear-id="lkoyi4" tabindex="0" style="opacity:0.001;will-change:transform;transform:translateY(20px)">
+                                    <!--$-->
+                                    <a class="framer-lBbnu framer-ZaPG2 framer-1utbjg4 framer-v-1utbjg4 framer-g5elx6" data-framer-name="Main Blue Button (L)" data-reset="button" style="background:linear-gradient(180deg, var(--token-16f2e642-57af-452f-984c-64067596f797, rgb(120, 120, 120)) /* {&quot;name&quot;:&quot;light grey&quot;} */ -382%, var(--token-f5646347-2529-487d-8af1-d99f05c5451c, rgb(10, 10, 10)) /* {&quot;name&quot;:&quot;Background&quot;} */ 100%);border-bottom-left-radius:100px;border-bottom-right-radius:100px;border-top-left-radius:100px;border-top-right-radius:100px;max-width:100%;width:100%;opacity:1" tabindex="0">
+                                        <div class="framer-1pppene" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--extracted-r6o4lv:var(--token-7a7ce709-7970-4e23-97d8-1ae0355d02f0, rgb(255, 255, 255));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none" data-framer-component-type="RichTextContainer">
+                                            <p class="framer-text framer-styles-preset-wu4ebp" data-styles-preset="H1YXoF4HR" style="--framer-text-color:var(--extracted-r6o4lv, var(--token-7a7ce709-7970-4e23-97d8-1ae0355d02f0, rgb(255, 255, 255)))">View more in Behance</p>
+                                        </div>
+                                    </a>
+                                    <!--/$-->
+                                </div>
+                            </div>
+                            <div class="framer-mxzdeu" data-framer-name="projects">
+                                <div class="framer-vgw53" data-framer-name="left">
+                                    <div class="framer-pnj16u" data-framer-name="project">
+                                        <!--$-->
+                                        <div class="ssr-variant hidden-1oifrzv hidden-oryvlp">
+                                            <div class="framer-e7qe3j-container" data-framer-cursor="19059zk" style="will-change:transform;opacity:0;transform:translateX(-50px)">
+                                                <!--$-->
+                                                <a class="framer-MLXmq framer-1skrgfi framer-v-kspx97 framer-9kazhr" data-framer-name="bento variant" style="background-color:var(--token-cba3b9c8-9e49-437e-aca1-1e69db3088dc, rgb(17, 17, 17));border-bottom-left-radius:20px;border-bottom-right-radius:20px;border-top-left-radius:20px;border-top-right-radius:20px;box-shadow:16px 24px 20px 8px rgba(0, 0, 0, 0.4), inset 0px 2px 0px 0px rgba(184, 180, 180, 0.08);height:100%;width:100%;will-change:transform;opacity:0;transform:translateX(-50px)" href="https://www.behance.net/gallery/193943385/A-360" rel="noopener">
+                                                    <div class="framer-103apa5" data-framer-name="Image container" style="border-bottom-left-radius:8px;border-bottom-right-radius:8px;border-top-left-radius:8px;border-top-right-radius:8px">
+                                                        <div class="framer-nnkl5n" style="box-shadow:20px 30px 20px 8px rgba(0, 0, 0, 0.4);transform:none">
+                                                            <div style="position:absolute;border-radius:inherit;top:0;right:0;bottom:0;left:0" data-framer-background-image-wrapper="true">
+                                                                <img decoding="async" width="18612" height="10240" sizes="(min-width: 1300px) max(max((min(min(100vw - 80px, 1100px), 1400px) - 16px) / 2, 1px) - 40px, 1px), (min-width: 750px) and (max-width: 1299px) max(max(min(min(100vw - 80px, 1100px), 1400px), 1px) - 40px, 1px)" srcset="https://framerusercontent.com/images/HTugpF4w5cIhCptqm843cbctNnU.svg?scale-down-to=512 512w,https://framerusercontent.com/images/HTugpF4w5cIhCptqm843cbctNnU.svg?scale-down-to=1024 1024w,https://framerusercontent.com/images/HTugpF4w5cIhCptqm843cbctNnU.svg?scale-down-to=2048 2048w,https://framerusercontent.com/images/HTugpF4w5cIhCptqm843cbctNnU.svg?scale-down-to=4096 4096w,https://framerusercontent.com/images/HTugpF4w5cIhCptqm843cbctNnU.svg 18612w" src="https://framerusercontent.com/images/HTugpF4w5cIhCptqm843cbctNnU.svg" alt style="display:block;width:100%;height:100%;border-radius:inherit;object-position:left center;object-fit:cover" data-framer-original-sizes="max(max((min(min(100vw - 80px, 1100px), 1400px) - 16px) / 2, 1px) - 40px, 1px)">
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="framer-17osbco" data-framer-name="Icon" style="background-color:var(--token-f5646347-2529-487d-8af1-d99f05c5451c, rgb(10, 10, 10));border-bottom-left-radius:100px;border-bottom-right-radius:100px;border-top-left-radius:100px;border-top-right-radius:100px;transform:rotate(-35deg)">
+                                                        <div class="framer-nzchhw-container">
+                                                            <!--$-->
+                                                            <div style="display:contents"></div>
+                                                            <!--/$-->
+                                                        </div>
+                                                        <div class="framer-1v0atpl-container">
+                                                            <!--$-->
+                                                            <div style="display:contents"></div>
+                                                            <!--/$-->
+                                                        </div>
+                                                    </div>
+                                                </a>
+                                                <!--/$-->
+                                            </div>
+                                        </div>
+                                        <div class="ssr-variant hidden-oryvlp hidden-72rtr7">
+                                            <div class="framer-e7qe3j-container" data-framer-cursor="19059zk" style="will-change:transform;opacity:0;transform:translateX(-50px)">
+                                                <!--$-->
+                                                <a class="framer-MLXmq framer-1skrgfi framer-v-kspx97 framer-9kazhr" data-framer-name="bento variant" style="background-color:var(--token-cba3b9c8-9e49-437e-aca1-1e69db3088dc, rgb(17, 17, 17));border-bottom-left-radius:20px;border-bottom-right-radius:20px;border-top-left-radius:20px;border-top-right-radius:20px;box-shadow:16px 24px 20px 8px rgba(0, 0, 0, 0.4), inset 0px 2px 0px 0px rgba(184, 180, 180, 0.08);height:100%;width:100%;will-change:transform;opacity:0;transform:translateX(-50px)" href="https://www.behance.net/gallery/193943385/A-360" rel="noopener">
+                                                    <div class="framer-103apa5" data-framer-name="Image container" style="border-bottom-left-radius:8px;border-bottom-right-radius:8px;border-top-left-radius:8px;border-top-right-radius:8px">
+                                                        <div class="framer-nnkl5n" style="box-shadow:20px 30px 20px 8px rgba(0, 0, 0, 0.4);transform:none">
+                                                            <div style="position:absolute;border-radius:inherit;top:0;right:0;bottom:0;left:0" data-framer-background-image-wrapper="true">
+                                                                <img decoding="async" width="18612" height="10240" sizes="(min-width: 1300px) max(max((min(min(100vw - 80px, 1100px), 1400px) - 16px) / 2, 1px) - 40px, 1px), (min-width: 750px) and (max-width: 1299px) max(max(min(min(100vw - 80px, 1100px), 1400px), 1px) - 40px, 1px)" srcset="https://framerusercontent.com/images/HTugpF4w5cIhCptqm843cbctNnU.svg?scale-down-to=512 512w,https://framerusercontent.com/images/HTugpF4w5cIhCptqm843cbctNnU.svg?scale-down-to=1024 1024w,https://framerusercontent.com/images/HTugpF4w5cIhCptqm843cbctNnU.svg?scale-down-to=2048 2048w,https://framerusercontent.com/images/HTugpF4w5cIhCptqm843cbctNnU.svg?scale-down-to=4096 4096w,https://framerusercontent.com/images/HTugpF4w5cIhCptqm843cbctNnU.svg 18612w" src="https://framerusercontent.com/images/HTugpF4w5cIhCptqm843cbctNnU.svg" alt style="display:block;width:100%;height:100%;border-radius:inherit;object-position:left center;object-fit:cover" data-framer-original-sizes="max(max(min(min(100vw - 80px, 1100px), 1400px), 1px) - 40px, 1px)">
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="framer-17osbco" data-framer-name="Icon" style="background-color:var(--token-f5646347-2529-487d-8af1-d99f05c5451c, rgb(10, 10, 10));border-bottom-left-radius:100px;border-bottom-right-radius:100px;border-top-left-radius:100px;border-top-right-radius:100px;transform:rotate(-35deg)">
+                                                        <div class="framer-nzchhw-container">
+                                                            <!--$-->
+                                                            <div style="display:contents"></div>
+                                                            <!--/$-->
+                                                        </div>
+                                                        <div class="framer-1v0atpl-container">
+                                                            <!--$-->
+                                                            <div style="display:contents"></div>
+                                                            <!--/$-->
+                                                        </div>
+                                                    </div>
+                                                </a>
+                                                <!--/$-->
+                                            </div>
+                                        </div>
+                                        <div class="ssr-variant hidden-1oifrzv hidden-72rtr7">
+                                            <div class="framer-e7qe3j-container" data-framer-cursor="19059zk" style="will-change:transform;opacity:0;transform:translateX(-50px)">
+                                                <!--$-->
+                                                <a class="framer-MLXmq framer-1skrgfi framer-v-1skrgfi framer-9kazhr" data-framer-name="Primary" style="background-color:var(--token-cba3b9c8-9e49-437e-aca1-1e69db3088dc, rgb(17, 17, 17));border-bottom-left-radius:20px;border-bottom-right-radius:20px;border-top-left-radius:20px;border-top-right-radius:20px;box-shadow:16px 24px 20px 8px rgba(0, 0, 0, 0.4), inset 0px 2px 0px 0px rgba(184, 180, 180, 0.08);width:100%;will-change:transform;opacity:0;transform:translateX(-50px)" href="https://www.behance.net/gallery/193943385/A-360" rel="noopener">
+                                                    <div class="framer-103apa5" data-framer-name="Image container" style="border-bottom-left-radius:8px;border-bottom-right-radius:8px;border-top-left-radius:8px;border-top-right-radius:8px">
+                                                        <div class="framer-nnkl5n" style="box-shadow:20px 30px 20px 8px rgba(0, 0, 0, 0.4);transform:none">
+                                                            <div style="position:absolute;border-radius:inherit;top:0;right:0;bottom:0;left:0" data-framer-background-image-wrapper="true">
+                                                                <img decoding="async" loading="lazy" width="1920" height="1080" sizes="(max-width: 749px) max(max(min(min(100vw - 36px, 1100px), 1400px), 1px) - 40px, 1px)" srcset="https://framerusercontent.com/images/j9O8SDAPsKjparxASImezFR0jYY.jpg?scale-down-to=512 512w,https://framerusercontent.com/images/j9O8SDAPsKjparxASImezFR0jYY.jpg?scale-down-to=1024 1024w,https://framerusercontent.com/images/j9O8SDAPsKjparxASImezFR0jYY.jpg 1920w" src="https://framerusercontent.com/images/j9O8SDAPsKjparxASImezFR0jYY.jpg" alt style="display:block;width:100%;height:100%;border-radius:inherit;object-position:center;object-fit:cover" data-framer-original-sizes="max(max(min(min(100vw - 36px, 1100px), 1400px), 1px) - 40px, 1px)">
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="framer-17osbco" data-framer-name="Icon" style="background-color:var(--token-f5646347-2529-487d-8af1-d99f05c5451c, rgb(10, 10, 10));border-bottom-left-radius:100px;border-bottom-right-radius:100px;border-top-left-radius:100px;border-top-right-radius:100px;transform:rotate(-35deg)">
+                                                        <div class="framer-nzchhw-container">
+                                                            <!--$-->
+                                                            <div style="display:contents"></div>
+                                                            <!--/$-->
+                                                        </div>
+                                                        <div class="framer-1v0atpl-container">
+                                                            <!--$-->
+                                                            <div style="display:contents"></div>
+                                                            <!--/$-->
+                                                        </div>
+                                                    </div>
+                                                </a>
+                                                <!--/$-->
+                                            </div>
+                                        </div>
+                                        <!--/$-->
+                                    </div>
+                                    <div class="framer-178gb50" data-framer-name="project">
+                                        <!--$-->
+                                        <!--$-->
+                                        <div class="ssr-variant hidden-oryvlp">
+                                            <div class="framer-ml21aj-container hidden-72rtr7 hidden-1oifrzv" data-framer-cursor="19059zk" style="will-change:transform;opacity:0;transform:translateX(-50px)">
+                                                <!--$-->
+                                                <a class="framer-MLXmq framer-1skrgfi framer-v-1skrgfi framer-9kazhr" data-framer-name="Primary" style="background-color:var(--token-cba3b9c8-9e49-437e-aca1-1e69db3088dc, rgb(17, 17, 17));border-bottom-left-radius:20px;border-bottom-right-radius:20px;border-top-left-radius:20px;border-top-right-radius:20px;box-shadow:16px 24px 20px 8px rgba(0, 0, 0, 0.4), inset 0px 2px 0px 0px rgba(184, 180, 180, 0.08);width:100%;will-change:transform;opacity:0;transform:translateX(-50px)" href="./projects/polo">
+                                                    <div class="framer-103apa5" data-framer-name="Image container" style="border-bottom-left-radius:8px;border-bottom-right-radius:8px;border-top-left-radius:8px;border-top-right-radius:8px">
+                                                        <div class="framer-nnkl5n" style="box-shadow:20px 30px 20px 8px rgba(0, 0, 0, 0.4);transform:none">
+                                                            <div style="position:absolute;border-radius:inherit;top:0;right:0;bottom:0;left:0" data-framer-background-image-wrapper="true">
+                                                                <img decoding="async" width="314" height="221" sizes="max(100vw - 40px, 1px)" src="https://framerusercontent.com/images/cKJFV4ClziCuhCUXrpEexdM4.svg" alt="thumbnail Image" style="display:block;width:100%;height:100%;border-radius:inherit;object-position:center;object-fit:cover">
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="framer-17osbco" data-framer-name="Icon" style="background-color:var(--token-f5646347-2529-487d-8af1-d99f05c5451c, rgb(10, 10, 10));border-bottom-left-radius:100px;border-bottom-right-radius:100px;border-top-left-radius:100px;border-top-right-radius:100px;transform:rotate(-35deg)">
+                                                        <div class="framer-nzchhw-container">
+                                                            <!--$-->
+                                                            <div style="display:contents"></div>
+                                                            <!--/$-->
+                                                        </div>
+                                                        <div class="framer-1v0atpl-container">
+                                                            <!--$-->
+                                                            <div style="display:contents"></div>
+                                                            <!--/$-->
+                                                        </div>
+                                                    </div>
+                                                </a>
+                                                <!--/$-->
+                                            </div>
+                                        </div>
+                                        <div class="ssr-variant hidden-1oifrzv hidden-72rtr7">
+                                            <div class="framer-ml21aj-container hidden-72rtr7 hidden-1oifrzv" data-framer-cursor="19059zk" style="will-change:transform;opacity:0;transform:translateX(-50px)">
+                                                <!--$-->
+                                                <a class="framer-MLXmq framer-1skrgfi framer-v-1skrgfi framer-9kazhr" data-framer-name="Primary" style="background-color:var(--token-cba3b9c8-9e49-437e-aca1-1e69db3088dc, rgb(17, 17, 17));border-bottom-left-radius:20px;border-bottom-right-radius:20px;border-top-left-radius:20px;border-top-right-radius:20px;box-shadow:16px 24px 20px 8px rgba(0, 0, 0, 0.4), inset 0px 2px 0px 0px rgba(184, 180, 180, 0.08);width:100%;will-change:transform;opacity:0;transform:translateX(-50px)" href="./projects/polo">
+                                                    <div class="framer-103apa5" data-framer-name="Image container" style="border-bottom-left-radius:8px;border-bottom-right-radius:8px;border-top-left-radius:8px;border-top-right-radius:8px">
+                                                        <div class="framer-nnkl5n" style="box-shadow:20px 30px 20px 8px rgba(0, 0, 0, 0.4);transform:none">
+                                                            <div style="position:absolute;border-radius:inherit;top:0;right:0;bottom:0;left:0" data-framer-background-image-wrapper="true">
+                                                                <img decoding="async" loading="lazy" width="314" height="221" sizes="max(max(min(min(100vw - 36px, 1100px), 1400px), 1px) - 40px, 1px)" src="https://framerusercontent.com/images/cKJFV4ClziCuhCUXrpEexdM4.svg" alt="thumbnail Image" style="display:block;width:100%;height:100%;border-radius:inherit;object-position:center;object-fit:cover">
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="framer-17osbco" data-framer-name="Icon" style="background-color:var(--token-f5646347-2529-487d-8af1-d99f05c5451c, rgb(10, 10, 10));border-bottom-left-radius:100px;border-bottom-right-radius:100px;border-top-left-radius:100px;border-top-right-radius:100px;transform:rotate(-35deg)">
+                                                        <div class="framer-nzchhw-container">
+                                                            <!--$-->
+                                                            <div style="display:contents"></div>
+                                                            <!--/$-->
+                                                        </div>
+                                                        <div class="framer-1v0atpl-container">
+                                                            <!--$-->
+                                                            <div style="display:contents"></div>
+                                                            <!--/$-->
+                                                        </div>
+                                                    </div>
+                                                </a>
+                                                <!--/$-->
+                                            </div>
+                                        </div>
+                                        <!--/$-->
+                                        <div class="ssr-variant hidden-oryvlp">
+                                            <div class="framer-xfvic-container hidden-72rtr7 hidden-1oifrzv" data-framer-cursor="19059zk" style="will-change:transform;opacity:0;transform:translateX(-50px)">
+                                                <!--$-->
+                                                <a class="framer-MLXmq framer-1skrgfi framer-v-1skrgfi framer-9kazhr" data-framer-name="Primary" style="background-color:var(--token-cba3b9c8-9e49-437e-aca1-1e69db3088dc, rgb(17, 17, 17));border-bottom-left-radius:20px;border-bottom-right-radius:20px;border-top-left-radius:20px;border-top-right-radius:20px;box-shadow:16px 24px 20px 8px rgba(0, 0, 0, 0.4), inset 0px 2px 0px 0px rgba(184, 180, 180, 0.08);width:100%;will-change:transform;opacity:0;transform:translateX(-50px)" href="https://www.behance.net/gallery/120524917/Dhobi" rel="noopener">
+                                                    <div class="framer-103apa5" data-framer-name="Image container" style="border-bottom-left-radius:8px;border-bottom-right-radius:8px;border-top-left-radius:8px;border-top-right-radius:8px">
+                                                        <div class="framer-nnkl5n" style="box-shadow:20px 30px 20px 8px rgba(0, 0, 0, 0.4);transform:none">
+                                                            <div style="position:absolute;border-radius:inherit;top:0;right:0;bottom:0;left:0" data-framer-background-image-wrapper="true">
+                                                                <img decoding="async" width="314" height="221" sizes="max(100vw - 40px, 1px)" src="https://framerusercontent.com/images/tREXhqwTwlXSHsHYsYReUF6gFQ.svg" alt style="display:block;width:100%;height:100%;border-radius:inherit;object-position:center;object-fit:cover">
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="framer-17osbco" data-framer-name="Icon" style="background-color:var(--token-f5646347-2529-487d-8af1-d99f05c5451c, rgb(10, 10, 10));border-bottom-left-radius:100px;border-bottom-right-radius:100px;border-top-left-radius:100px;border-top-right-radius:100px;transform:rotate(-35deg)">
+                                                        <div class="framer-nzchhw-container">
+                                                            <!--$-->
+                                                            <div style="display:contents"></div>
+                                                            <!--/$-->
+                                                        </div>
+                                                        <div class="framer-1v0atpl-container">
+                                                            <!--$-->
+                                                            <div style="display:contents"></div>
+                                                            <!--/$-->
+                                                        </div>
+                                                    </div>
+                                                </a>
+                                                <!--/$-->
+                                            </div>
+                                        </div>
+                                        <div class="ssr-variant hidden-1oifrzv hidden-72rtr7">
+                                            <div class="framer-xfvic-container hidden-72rtr7 hidden-1oifrzv" data-framer-cursor="19059zk" style="will-change:transform;opacity:0;transform:translateX(-50px)">
+                                                <!--$-->
+                                                <a class="framer-MLXmq framer-1skrgfi framer-v-1skrgfi framer-9kazhr" data-framer-name="Primary" style="background-color:var(--token-cba3b9c8-9e49-437e-aca1-1e69db3088dc, rgb(17, 17, 17));border-bottom-left-radius:20px;border-bottom-right-radius:20px;border-top-left-radius:20px;border-top-right-radius:20px;box-shadow:16px 24px 20px 8px rgba(0, 0, 0, 0.4), inset 0px 2px 0px 0px rgba(184, 180, 180, 0.08);width:100%;will-change:transform;opacity:0;transform:translateX(-50px)" href="https://www.behance.net/gallery/120524917/Dhobi" rel="noopener">
+                                                    <div class="framer-103apa5" data-framer-name="Image container" style="border-bottom-left-radius:8px;border-bottom-right-radius:8px;border-top-left-radius:8px;border-top-right-radius:8px">
+                                                        <div class="framer-nnkl5n" style="box-shadow:20px 30px 20px 8px rgba(0, 0, 0, 0.4);transform:none">
+                                                            <div style="position:absolute;border-radius:inherit;top:0;right:0;bottom:0;left:0" data-framer-background-image-wrapper="true">
+                                                                <img decoding="async" loading="lazy" width="314" height="221" sizes="max(max(min(min(100vw - 36px, 1100px), 1400px), 1px) - 40px, 1px)" src="https://framerusercontent.com/images/tREXhqwTwlXSHsHYsYReUF6gFQ.svg" alt style="display:block;width:100%;height:100%;border-radius:inherit;object-position:center;object-fit:cover">
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="framer-17osbco" data-framer-name="Icon" style="background-color:var(--token-f5646347-2529-487d-8af1-d99f05c5451c, rgb(10, 10, 10));border-bottom-left-radius:100px;border-bottom-right-radius:100px;border-top-left-radius:100px;border-top-right-radius:100px;transform:rotate(-35deg)">
+                                                        <div class="framer-nzchhw-container">
+                                                            <!--$-->
+                                                            <div style="display:contents"></div>
+                                                            <!--/$-->
+                                                        </div>
+                                                        <div class="framer-1v0atpl-container">
+                                                            <!--$-->
+                                                            <div style="display:contents"></div>
+                                                            <!--/$-->
+                                                        </div>
+                                                    </div>
+                                                </a>
+                                                <!--/$-->
+                                            </div>
+                                        </div>
+                                        <div class="ssr-variant hidden-1oifrzv hidden-oryvlp">
+                                            <div class="framer-100u3bk-container" data-framer-cursor="19059zk" style="will-change:transform;opacity:0;transform:translateX(-50px)">
+                                                <!--$-->
+                                                <a class="framer-MLXmq framer-1skrgfi framer-v-kspx97 framer-9kazhr" data-framer-name="bento variant" style="background-color:var(--token-cba3b9c8-9e49-437e-aca1-1e69db3088dc, rgb(17, 17, 17));border-bottom-left-radius:20px;border-bottom-right-radius:20px;border-top-left-radius:20px;border-top-right-radius:20px;box-shadow:16px 24px 20px 8px rgba(0, 0, 0, 0.4), inset 0px 2px 0px 0px rgba(184, 180, 180, 0.08);height:100%;width:100%;will-change:transform;opacity:0;transform:translateX(-50px)" href="https://www.behance.net/gallery/180506725/Dine-Ease" rel="noopener">
+                                                    <div class="framer-103apa5" data-framer-name="Image container" style="border-bottom-left-radius:8px;border-bottom-right-radius:8px;border-top-left-radius:8px;border-top-right-radius:8px">
+                                                        <div class="framer-nnkl5n" style="box-shadow:20px 30px 20px 8px rgba(0, 0, 0, 0.4);transform:none">
+                                                            <div style="position:absolute;border-radius:inherit;top:0;right:0;bottom:0;left:0" data-framer-background-image-wrapper="true">
+                                                                <img decoding="async" width="542" height="274" sizes="(min-width: 1300px) max(max((min(min(100vw - 80px, 1100px), 1400px) - 16px) / 2, 1px) - 40px, 1px), (min-width: 750px) and (max-width: 1299px) max(max(min(min(100vw - 80px, 1100px), 1400px), 1px) - 40px, 1px), (max-width: 749px) max(max(min(min(100vw - 36px, 1100px), 1400px), 1px) - 40px, 1px)" srcset="https://framerusercontent.com/images/XEE8Pui668Ynkn9381E7mHIS4.svg?scale-down-to=512 512w,https://framerusercontent.com/images/XEE8Pui668Ynkn9381E7mHIS4.svg 542w" src="https://framerusercontent.com/images/XEE8Pui668Ynkn9381E7mHIS4.svg" alt style="display:block;width:100%;height:100%;border-radius:inherit;object-position:left center;object-fit:cover" data-framer-original-sizes="max(max((min(min(100vw - 80px, 1100px), 1400px) - 16px) / 2, 1px) - 40px, 1px)">
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="framer-17osbco" data-framer-name="Icon" style="background-color:var(--token-f5646347-2529-487d-8af1-d99f05c5451c, rgb(10, 10, 10));border-bottom-left-radius:100px;border-bottom-right-radius:100px;border-top-left-radius:100px;border-top-right-radius:100px;transform:rotate(-35deg)">
+                                                        <div class="framer-nzchhw-container">
+                                                            <!--$-->
+                                                            <div style="display:contents"></div>
+                                                            <!--/$-->
+                                                        </div>
+                                                        <div class="framer-1v0atpl-container">
+                                                            <!--$-->
+                                                            <div style="display:contents"></div>
+                                                            <!--/$-->
+                                                        </div>
+                                                    </div>
+                                                </a>
+                                                <!--/$-->
+                                            </div>
+                                        </div>
+                                        <div class="ssr-variant hidden-oryvlp hidden-72rtr7">
+                                            <div class="framer-100u3bk-container" data-framer-cursor="19059zk" style="will-change:transform;opacity:0;transform:translateX(-50px)">
+                                                <!--$-->
+                                                <a class="framer-MLXmq framer-1skrgfi framer-v-kspx97 framer-9kazhr" data-framer-name="bento variant" style="background-color:var(--token-cba3b9c8-9e49-437e-aca1-1e69db3088dc, rgb(17, 17, 17));border-bottom-left-radius:20px;border-bottom-right-radius:20px;border-top-left-radius:20px;border-top-right-radius:20px;box-shadow:16px 24px 20px 8px rgba(0, 0, 0, 0.4), inset 0px 2px 0px 0px rgba(184, 180, 180, 0.08);height:100%;width:100%;will-change:transform;opacity:0;transform:translateX(-50px)" href="https://www.behance.net/gallery/180506725/Dine-Ease" rel="noopener">
+                                                    <div class="framer-103apa5" data-framer-name="Image container" style="border-bottom-left-radius:8px;border-bottom-right-radius:8px;border-top-left-radius:8px;border-top-right-radius:8px">
+                                                        <div class="framer-nnkl5n" style="box-shadow:20px 30px 20px 8px rgba(0, 0, 0, 0.4);transform:none">
+                                                            <div style="position:absolute;border-radius:inherit;top:0;right:0;bottom:0;left:0" data-framer-background-image-wrapper="true">
+                                                                <img decoding="async" width="542" height="274" sizes="(min-width: 1300px) max(max((min(min(100vw - 80px, 1100px), 1400px) - 16px) / 2, 1px) - 40px, 1px), (min-width: 750px) and (max-width: 1299px) max(max(min(min(100vw - 80px, 1100px), 1400px), 1px) - 40px, 1px), (max-width: 749px) max(max(min(min(100vw - 36px, 1100px), 1400px), 1px) - 40px, 1px)" srcset="https://framerusercontent.com/images/XEE8Pui668Ynkn9381E7mHIS4.svg?scale-down-to=512 512w,https://framerusercontent.com/images/XEE8Pui668Ynkn9381E7mHIS4.svg 542w" src="https://framerusercontent.com/images/XEE8Pui668Ynkn9381E7mHIS4.svg" alt style="display:block;width:100%;height:100%;border-radius:inherit;object-position:left center;object-fit:cover" data-framer-original-sizes="max(max(min(min(100vw - 80px, 1100px), 1400px), 1px) - 40px, 1px)">
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="framer-17osbco" data-framer-name="Icon" style="background-color:var(--token-f5646347-2529-487d-8af1-d99f05c5451c, rgb(10, 10, 10));border-bottom-left-radius:100px;border-bottom-right-radius:100px;border-top-left-radius:100px;border-top-right-radius:100px;transform:rotate(-35deg)">
+                                                        <div class="framer-nzchhw-container">
+                                                            <!--$-->
+                                                            <div style="display:contents"></div>
+                                                            <!--/$-->
+                                                        </div>
+                                                        <div class="framer-1v0atpl-container">
+                                                            <!--$-->
+                                                            <div style="display:contents"></div>
+                                                            <!--/$-->
+                                                        </div>
+                                                    </div>
+                                                </a>
+                                                <!--/$-->
+                                            </div>
+                                        </div>
+                                        <div class="ssr-variant hidden-1oifrzv hidden-72rtr7">
+                                            <div class="framer-100u3bk-container" data-framer-cursor="19059zk" style="will-change:transform;opacity:0;transform:translateX(-50px)">
+                                                <!--$-->
+                                                <a class="framer-MLXmq framer-1skrgfi framer-v-1skrgfi framer-9kazhr" data-framer-name="Primary" style="background-color:var(--token-cba3b9c8-9e49-437e-aca1-1e69db3088dc, rgb(17, 17, 17));border-bottom-left-radius:20px;border-bottom-right-radius:20px;border-top-left-radius:20px;border-top-right-radius:20px;box-shadow:16px 24px 20px 8px rgba(0, 0, 0, 0.4), inset 0px 2px 0px 0px rgba(184, 180, 180, 0.08);width:100%;will-change:transform;opacity:0;transform:translateX(-50px)" href="https://www.behance.net/gallery/180506725/Dine-Ease" rel="noopener">
+                                                    <div class="framer-103apa5" data-framer-name="Image container" style="border-bottom-left-radius:8px;border-bottom-right-radius:8px;border-top-left-radius:8px;border-top-right-radius:8px">
+                                                        <div class="framer-nnkl5n" style="box-shadow:20px 30px 20px 8px rgba(0, 0, 0, 0.4);transform:none">
+                                                            <div style="position:absolute;border-radius:inherit;top:0;right:0;bottom:0;left:0" data-framer-background-image-wrapper="true">
+                                                                <img decoding="async" loading="lazy" width="542" height="274" sizes="(min-width: 1300px) max(max((min(min(100vw - 80px, 1100px), 1400px) - 16px) / 2, 1px) - 40px, 1px), (min-width: 750px) and (max-width: 1299px) max(max(min(min(100vw - 80px, 1100px), 1400px), 1px) - 40px, 1px), (max-width: 749px) max(max(min(min(100vw - 36px, 1100px), 1400px), 1px) - 40px, 1px)" srcset="https://framerusercontent.com/images/XEE8Pui668Ynkn9381E7mHIS4.svg?scale-down-to=512 512w,https://framerusercontent.com/images/XEE8Pui668Ynkn9381E7mHIS4.svg 542w" src="https://framerusercontent.com/images/XEE8Pui668Ynkn9381E7mHIS4.svg" alt style="display:block;width:100%;height:100%;border-radius:inherit;object-position:center;object-fit:cover" data-framer-original-sizes="max(max(min(min(100vw - 36px, 1100px), 1400px), 1px) - 40px, 1px)">
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="framer-17osbco" data-framer-name="Icon" style="background-color:var(--token-f5646347-2529-487d-8af1-d99f05c5451c, rgb(10, 10, 10));border-bottom-left-radius:100px;border-bottom-right-radius:100px;border-top-left-radius:100px;border-top-right-radius:100px;transform:rotate(-35deg)">
+                                                        <div class="framer-nzchhw-container">
+                                                            <!--$-->
+                                                            <div style="display:contents"></div>
+                                                            <!--/$-->
+                                                        </div>
+                                                        <div class="framer-1v0atpl-container">
+                                                            <!--$-->
+                                                            <div style="display:contents"></div>
+                                                            <!--/$-->
+                                                        </div>
+                                                    </div>
+                                                </a>
+                                                <!--/$-->
+                                            </div>
+                                        </div>
+                                        <!--/$-->
+                                    </div>
+                                </div>
+                                <div class="framer-1ufxy84 hidden-1oifrzv hidden-oryvlp" data-framer-name="right">
+                                    <div class="framer-1opts02" data-framer-name="project">
+                                        <!--$-->
+                                        <div class="framer-pzci2z-container" data-framer-cursor="19059zk" style="will-change:transform;opacity:0;transform:translateX(-50px)">
+                                            <!--$-->
+                                            <a class="framer-MLXmq framer-1skrgfi framer-v-kspx97 framer-9kazhr" data-framer-name="bento variant" style="background-color:var(--token-cba3b9c8-9e49-437e-aca1-1e69db3088dc, rgb(17, 17, 17));border-bottom-left-radius:20px;border-bottom-right-radius:20px;border-top-left-radius:20px;border-top-right-radius:20px;box-shadow:16px 24px 20px 8px rgba(0, 0, 0, 0.4), inset 0px 2px 0px 0px rgba(184, 180, 180, 0.08);height:100%;width:100%;will-change:transform;opacity:0;transform:translateX(-50px)" href="https://www.behance.net/gallery/193767925/OPAL-ORACLE-PERMITTING-LICENSING" rel="noopener">
+                                                <div class="framer-103apa5" data-framer-name="Image container" style="border-bottom-left-radius:8px;border-bottom-right-radius:8px;border-top-left-radius:8px;border-top-right-radius:8px">
+                                                    <div class="framer-nnkl5n" style="box-shadow:20px 30px 20px 8px rgba(0, 0, 0, 0.4);transform:none">
+                                                        <div style="position:absolute;border-radius:inherit;top:0;right:0;bottom:0;left:0" data-framer-background-image-wrapper="true">
+                                                            <img decoding="async" width="542" height="275" sizes="max(max((min(min(100vw - 80px, 1100px), 1400px) - 16px) / 2, 1px) - 40px, 1px)" src="https://framerusercontent.com/images/UGZRuEzbwxo2a2WU6mwaUpjrRJA.svg" alt="thumbnail Image" style="display:block;width:100%;height:100%;border-radius:inherit;object-position:left center;object-fit:cover">
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="framer-17osbco" data-framer-name="Icon" style="background-color:var(--token-f5646347-2529-487d-8af1-d99f05c5451c, rgb(10, 10, 10));border-bottom-left-radius:100px;border-bottom-right-radius:100px;border-top-left-radius:100px;border-top-right-radius:100px;transform:rotate(-35deg)">
+                                                    <div class="framer-nzchhw-container">
+                                                        <!--$-->
+                                                        <div style="display:contents"></div>
+                                                        <!--/$-->
+                                                    </div>
+                                                    <div class="framer-1v0atpl-container">
+                                                        <!--$-->
+                                                        <div style="display:contents"></div>
+                                                        <!--/$-->
+                                                    </div>
+                                                </div>
+                                            </a>
+                                            <!--/$-->
+                                        </div>
+                                        <!--/$-->
+                                    </div>
+                                    <div class="framer-vxy8d6" data-framer-name="project">
+                                        <!--$-->
+                                        <div class="framer-c69de8-container" data-framer-cursor="19059zk" style="will-change:transform;opacity:0;transform:translateX(-50px)">
+                                            <!--$-->
+                                            <a class="framer-MLXmq framer-1skrgfi framer-v-kspx97 framer-9kazhr" data-framer-name="bento variant" style="background-color:var(--token-cba3b9c8-9e49-437e-aca1-1e69db3088dc, rgb(17, 17, 17));border-bottom-left-radius:20px;border-bottom-right-radius:20px;border-top-left-radius:20px;border-top-right-radius:20px;box-shadow:16px 24px 20px 8px rgba(0, 0, 0, 0.4), inset 0px 2px 0px 0px rgba(184, 180, 180, 0.08);height:100%;width:100%;will-change:transform;opacity:0;transform:translateX(-50px)" href="https://www.behance.net/gallery/120524917/Dhobi" rel="noopener">
+                                                <div class="framer-103apa5" data-framer-name="Image container" style="border-bottom-left-radius:8px;border-bottom-right-radius:8px;border-top-left-radius:8px;border-top-right-radius:8px">
+                                                    <div class="framer-nnkl5n" style="box-shadow:20px 30px 20px 8px rgba(0, 0, 0, 0.4);transform:none">
+                                                        <div style="position:absolute;border-radius:inherit;top:0;right:0;bottom:0;left:0" data-framer-background-image-wrapper="true">
+                                                            <img decoding="async" width="542" height="548" sizes="(min-width: 1300px) max(max((min(min(100vw - 80px, 1100px), 1400px) - 16px) / 2, 1px) - 40px, 1px), (min-width: 750px) and (max-width: 1299px) max(max((min(min(100vw - 80px, 1100px), 1400px) - 16px) / 2, 1px) - 40px, 1px), (max-width: 749px) max(max((min(min(100vw - 80px, 1100px), 1400px) - 16px) / 2, 1px) - 40px, 1px)" srcset="https://framerusercontent.com/images/BANpaw8l1UQeTRg5dD1eE7vGbs.svg 542w" src="https://framerusercontent.com/images/BANpaw8l1UQeTRg5dD1eE7vGbs.svg" alt style="display:block;width:100%;height:100%;border-radius:inherit;object-position:left center;object-fit:cover" data-framer-original-sizes="max(max((min(min(100vw - 80px, 1100px), 1400px) - 16px) / 2, 1px) - 40px, 1px)">
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="framer-17osbco" data-framer-name="Icon" style="background-color:var(--token-f5646347-2529-487d-8af1-d99f05c5451c, rgb(10, 10, 10));border-bottom-left-radius:100px;border-bottom-right-radius:100px;border-top-left-radius:100px;border-top-right-radius:100px;transform:rotate(-35deg)">
+                                                    <div class="framer-nzchhw-container">
+                                                        <!--$-->
+                                                        <div style="display:contents"></div>
+                                                        <!--/$-->
+                                                    </div>
+                                                    <div class="framer-1v0atpl-container">
+                                                        <!--$-->
+                                                        <div style="display:contents"></div>
+                                                        <!--/$-->
+                                                    </div>
+                                                </div>
+                                            </a>
+                                            <!--/$-->
+                                        </div>
+                                        <!--/$-->
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="framer-e18fk5 hidden-oryvlp" data-framer-name="Top container">
+                                <div class="framer-1tu67e7" data-framer-name="Buttons">
+                                    <div class="framer-wh422y-container" data-framer-appear-id="wh422y" tabindex="0" style="opacity:0.001;will-change:transform;transform:translateY(20px)">
+                                        <!--$-->
+                                        <a class="framer-lBbnu framer-ZaPG2 framer-1utbjg4 framer-v-1utbjg4 framer-g5elx6" data-framer-name="Main Blue Button (L)" data-reset="button" style="background:linear-gradient(180deg, var(--token-16f2e642-57af-452f-984c-64067596f797, rgb(120, 120, 120)) /* {&quot;name&quot;:&quot;light grey&quot;} */ -382%, var(--token-f5646347-2529-487d-8af1-d99f05c5451c, rgb(10, 10, 10)) /* {&quot;name&quot;:&quot;Background&quot;} */ 100%);border-bottom-left-radius:100px;border-bottom-right-radius:100px;border-top-left-radius:100px;border-top-right-radius:100px;opacity:1" href="https://www.behance.net/hmthm" rel="noopener" tabindex="0">
+                                            <div class="framer-1pppene" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--extracted-r6o4lv:var(--token-7a7ce709-7970-4e23-97d8-1ae0355d02f0, rgb(255, 255, 255));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none" data-framer-component-type="RichTextContainer">
+                                                <p class="framer-text framer-styles-preset-wu4ebp" data-styles-preset="H1YXoF4HR" style="--framer-text-color:var(--extracted-r6o4lv, var(--token-7a7ce709-7970-4e23-97d8-1ae0355d02f0, rgb(255, 255, 255)))">View more in Behance</p>
+                                            </div>
+                                        </a>
+                                        <!--/$-->
+                                    </div>
+                                    <div class="framer-2wwajj-container">
+                                        <!--$-->
+                                        <a class="framer-EBDBp framer-coXks framer-4r3422 framer-v-4r3422 framer-10qazvn" data-framer-name="Primary" href="https://www.behance.net/hmthm" target="_blank" rel="noopener">
+                                            <div class="framer-1um4r9g" data-framer-name="Icon" style="background-color:var(--token-f5646347-2529-487d-8af1-d99f05c5451c, rgb(10, 10, 10));border-bottom-left-radius:1000px;border-bottom-right-radius:1000px;border-top-left-radius:1000px;border-top-right-radius:1000px;box-shadow:inset 0px 2px 0px 0px rgba(184, 180, 180, 0.14);transform:rotate(-35deg)">
+                                                <div class="framer-1r4hh7m-container">
+                                                    <!--$-->
+                                                    <div style="display:contents"></div>
+                                                    <!--/$-->
+                                                </div>
+                                                <div class="framer-13a7y3v-container">
+                                                    <!--$-->
+                                                    <div style="display:contents"></div>
+                                                    <!--/$-->
+                                                </div>
+                                            </div>
+                                        </a>
+                                        <!--/$-->
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="framer-a7wxup" data-border="true" data-framer-name="Border"></div>
+                    </section>
+                    <section class="framer-11xnb6b" data-framer-name="Testimonials" id="testimonials">
+                        <div class="framer-13va1sf" data-framer-name="container">
+                            <div class="framer-1tl4vph" data-framer-name="Left content">
+                                <div class="framer-idoty6" data-framer-name="Heading &amp; badge">
+                                    <div class="ssr-variant hidden-oryvlp">
+                                        <div class="framer-7muodc-container hidden-72rtr7 hidden-1oifrzv" data-framer-appear-id="7muodc" style="opacity:0.001;will-change:transform;transform:none">
+                                            <div class="framer-PuKlG framer-coXks framer-15sqof0 framer-v-15sqof0" data-framer-name="Primary" style="background-color:var(--token-cba3b9c8-9e49-437e-aca1-1e69db3088dc, rgb(17, 17, 17));border-bottom-left-radius:20px;border-bottom-right-radius:20px;border-top-left-radius:20px;border-top-right-radius:20px;box-shadow:16px 24px 20px 8px rgba(0, 0, 0, 0.4), inset 0px 2px 0px 0px rgba(184, 180, 180, 0.08)">
+                                                <div class="framer-1qkvdbg" data-framer-name="icon shape" style="background-color:var(--token-7a7ce709-7970-4e23-97d8-1ae0355d02f0, rgb(255, 255, 255));border-bottom-left-radius:10px;border-bottom-right-radius:10px;border-top-left-radius:10px;border-top-right-radius:10px">
+                                                    <div class="framer-1v60oqk" data-framer-name="circle" style="background-color:var(--token-cba3b9c8-9e49-437e-aca1-1e69db3088dc, rgb(17, 17, 17));border-bottom-left-radius:10px;border-bottom-right-radius:10px;border-top-left-radius:10px;border-top-right-radius:10px">
+                                                        <div class="framer-asjeaj" data-framer-name="dot" style="background-color:var(--token-7a7ce709-7970-4e23-97d8-1ae0355d02f0, rgb(255, 255, 255));border-bottom-left-radius:10px;border-bottom-right-radius:10px;border-top-left-radius:10px;border-top-right-radius:10px"></div>
+                                                    </div>
+                                                </div>
+                                                <div class="framer-fkhzu7" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;transform:none" data-framer-component-type="RichTextContainer">
+                                                    <p class="framer-text framer-styles-preset-vp3sdo" data-styles-preset="WQG2SsoyY">UI/UX &amp;Graphic Designer</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="ssr-variant hidden-1oifrzv hidden-72rtr7">
+                                        <div class="framer-7muodc-container hidden-72rtr7 hidden-1oifrzv" data-framer-appear-id="7muodc" style="opacity:0.001;will-change:transform;transform:none">
+                                            <div class="framer-PuKlG framer-coXks framer-15sqof0 framer-v-15sqof0" data-framer-name="Primary" style="background-color:var(--token-cba3b9c8-9e49-437e-aca1-1e69db3088dc, rgb(17, 17, 17));border-bottom-left-radius:20px;border-bottom-right-radius:20px;border-top-left-radius:20px;border-top-right-radius:20px;box-shadow:16px 24px 20px 8px rgba(0, 0, 0, 0.4), inset 0px 2px 0px 0px rgba(184, 180, 180, 0.08)">
+                                                <div class="framer-1qkvdbg" data-framer-name="icon shape" style="background-color:var(--token-7a7ce709-7970-4e23-97d8-1ae0355d02f0, rgb(255, 255, 255));border-bottom-left-radius:10px;border-bottom-right-radius:10px;border-top-left-radius:10px;border-top-right-radius:10px">
+                                                    <div class="framer-1v60oqk" data-framer-name="circle" style="background-color:var(--token-cba3b9c8-9e49-437e-aca1-1e69db3088dc, rgb(17, 17, 17));border-bottom-left-radius:10px;border-bottom-right-radius:10px;border-top-left-radius:10px;border-top-right-radius:10px">
+                                                        <div class="framer-asjeaj" data-framer-name="dot" style="background-color:var(--token-7a7ce709-7970-4e23-97d8-1ae0355d02f0, rgb(255, 255, 255));border-bottom-left-radius:10px;border-bottom-right-radius:10px;border-top-left-radius:10px;border-top-right-radius:10px"></div>
+                                                    </div>
+                                                </div>
+                                                <div class="framer-fkhzu7" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;transform:none" data-framer-component-type="RichTextContainer">
+                                                    <p class="framer-text framer-styles-preset-vp3sdo" data-styles-preset="WQG2SsoyY">UI/UX &amp;Graphic Designer</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="framer-dq26nc-container hidden-oryvlp" data-framer-appear-id="dq26nc" style="opacity:0.001;will-change:transform;transform:none">
+                                        <div class="framer-PuKlG framer-coXks framer-15sqof0 framer-v-15sqof0" data-framer-name="Primary" style="background-color:var(--token-cba3b9c8-9e49-437e-aca1-1e69db3088dc, rgb(17, 17, 17));border-bottom-left-radius:20px;border-bottom-right-radius:20px;border-top-left-radius:20px;border-top-right-radius:20px;box-shadow:16px 24px 20px 8px rgba(0, 0, 0, 0.4), inset 0px 2px 0px 0px rgba(184, 180, 180, 0.08)">
+                                            <div class="framer-1qkvdbg" data-framer-name="icon shape" style="background-color:var(--token-7a7ce709-7970-4e23-97d8-1ae0355d02f0, rgb(255, 255, 255));border-bottom-left-radius:10px;border-bottom-right-radius:10px;border-top-left-radius:10px;border-top-right-radius:10px">
+                                                <div class="framer-1v60oqk" data-framer-name="circle" style="background-color:var(--token-cba3b9c8-9e49-437e-aca1-1e69db3088dc, rgb(17, 17, 17));border-bottom-left-radius:10px;border-bottom-right-radius:10px;border-top-left-radius:10px;border-top-right-radius:10px">
+                                                    <div class="framer-asjeaj" data-framer-name="dot" style="background-color:var(--token-7a7ce709-7970-4e23-97d8-1ae0355d02f0, rgb(255, 255, 255));border-bottom-left-radius:10px;border-bottom-right-radius:10px;border-top-left-radius:10px;border-top-right-radius:10px"></div>
+                                                </div>
+                                            </div>
+                                            <div class="framer-fkhzu7" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;transform:none" data-framer-component-type="RichTextContainer">
+                                                <p class="framer-text framer-styles-preset-vp3sdo" data-styles-preset="WQG2SsoyY">About Me</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="framer-llwb4p" data-framer-name="heading &amp; paragraph">
+                                        <div class="ssr-variant hidden-oryvlp">
+                                            <div class="framer-16dayhl" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;transform:none" data-framer-component-type="RichTextContainer">
+                                                <h2 class="framer-text framer-styles-preset-f2amck" data-styles-preset="CBdr2gxTW" style="--framer-text-alignment:left">
+                                                    <span style="display:inline-block;opacity:0.001;transform:translateX(0px) translateY(10px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)">Hemanth</span>
+                                                    <span style="display:inline-block;opacity:0.001;transform:translateX(0px) translateY(10px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)">Ram</span>
+                                                    <span style="display:inline-block;opacity:0.001;transform:translateX(0px) translateY(10px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)">H</span>
+                                                </h2>
+                                            </div>
+                                        </div>
+                                        <div class="ssr-variant hidden-1oifrzv hidden-72rtr7">
+                                            <div class="framer-16dayhl" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;transform:none" data-framer-component-type="RichTextContainer">
+                                                <h2 class="framer-text framer-styles-preset-f2amck" data-styles-preset="CBdr2gxTW" style="--framer-text-alignment:left">
+                                                    <span style="display:inline-block;opacity:0.001;transform:translateX(0px) translateY(10px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)">Hemanth</span>
+                                                    <span style="display:inline-block;opacity:0.001;transform:translateX(0px) translateY(10px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)">Ram</span>
+                                                    <span style="display:inline-block;opacity:0.001;transform:translateX(0px) translateY(10px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)"></span>
+                                                </h2>
+                                            </div>
+                                        </div>
+                                        <div class="framer-l68drn hidden-72rtr7 hidden-1oifrzv" data-framer-name="profile-card">
+                                            <div class="framer-o4uk7" data-framer-name="container">
+                                                <div class="ssr-variant hidden-oryvlp">
+                                                    <div class="framer-1j1qzn8" data-framer-name="Profile-picture">
+                                                        <div style="position:absolute;border-radius:inherit;top:0;right:0;bottom:0;left:0" data-framer-background-image-wrapper="true">
+                                                            <img decoding="async" width="501" height="423" src="https://framerusercontent.com/images/yp4hTlR5fNGGlPMdhDhCkeItHss.svg" alt style="display:block;width:100%;height:100%;border-radius:inherit;object-position:center;object-fit:cover">
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="ssr-variant hidden-1oifrzv hidden-72rtr7">
+                                                    <div class="framer-1j1qzn8" data-framer-name="Profile-picture">
+                                                        <div style="position:absolute;border-radius:inherit;top:0;right:0;bottom:0;left:0" data-framer-background-image-wrapper="true">
+                                                            <img decoding="async" width="501" height="423" src="https://framerusercontent.com/images/yp4hTlR5fNGGlPMdhDhCkeItHss.svg" alt style="display:block;width:100%;height:100%;border-radius:inherit;object-position:center;object-fit:cover">
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="ssr-variant hidden-oryvlp">
+                                            <div class="framer-qvae0h" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;transform:none" data-framer-component-type="RichTextContainer">
+                                                <p class="framer-text framer-styles-preset-wu4ebp" data-styles-preset="H1YXoF4HR" style="--framer-text-alignment:left">
+                                                    <span style="display:inline-block;opacity:0.001;transform:translateX(0px) translateY(10px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)">UI/UX</span>
+                                                    <span style="display:inline-block;opacity:0.001;transform:translateX(0px) translateY(10px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)">&amp;</span>
+                                                    <span style="display:inline-block;opacity:0.001;transform:translateX(0px) translateY(10px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)">Product</span>
+                                                    <span style="display:inline-block;opacity:0.001;transform:translateX(0px) translateY(10px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)">Designer</span>
+                                                    <span style="display:inline-block;opacity:0.001;transform:translateX(0px) translateY(10px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)">Based</span>
+                                                    <span style="display:inline-block;opacity:0.001;transform:translateX(0px) translateY(10px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)">in</span>
+                                                    <span style="display:inline-block;opacity:0.001;transform:translateX(0px) translateY(10px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)">Bengaluru,</span>
+                                                    <span style="display:inline-block;opacity:0.001;transform:translateX(0px) translateY(10px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)">India.</span>
+                                                </p>
+                                            </div>
+                                        </div>
+                                        <div class="ssr-variant hidden-1oifrzv hidden-72rtr7">
+                                            <div class="framer-qvae0h" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;transform:none" data-framer-component-type="RichTextContainer">
+                                                <p class="framer-text framer-styles-preset-wu4ebp" data-styles-preset="H1YXoF4HR" style="--framer-text-alignment:left">
+                                                    <span style="display:inline-block;opacity:0.001;transform:translateX(0px) translateY(10px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)">UI/UX</span>
+                                                    <span style="display:inline-block;opacity:0.001;transform:translateX(0px) translateY(10px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)">Designer</span>
+                                                    <span style="display:inline-block;opacity:0.001;transform:translateX(0px) translateY(10px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)">Based</span>
+                                                    <span style="display:inline-block;opacity:0.001;transform:translateX(0px) translateY(10px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)">in</span>
+                                                    <span style="display:inline-block;opacity:0.001;transform:translateX(0px) translateY(10px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)">Bengaluru,</span>
+                                                    <span style="display:inline-block;opacity:0.001;transform:translateX(0px) translateY(10px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)">India.</span>
+                                                </p>
+                                            </div>
+                                        </div>
+                                        <div class="framer-1dgad2j hidden-oryvlp" data-framer-name="profile-card">
+                                            <div class="framer-86crwl" data-framer-name="container">
+                                                <div class="framer-x4f90z" data-framer-name="Profile-picture">
+                                                    <div style="position:absolute;border-radius:inherit;top:0;right:0;bottom:0;left:0" data-framer-background-image-wrapper="true">
+                                                        <img decoding="async" width="501" height="423" src="https://framerusercontent.com/images/yp4hTlR5fNGGlPMdhDhCkeItHss.svg" alt style="display:block;width:100%;height:100%;border-radius:inherit;object-position:center;object-fit:contain">
+                                                    </div>
+                                                </div>
+                                                <div class="framer-xdrbdu" data-framer-name="container">
+                                                    <div class="framer-i0kw2a" data-framer-name="social media row">
+                                                        <div class="framer-8ahuka-container">
+                                                            <!--$-->
+                                                            <a class="framer-Umspt framer-18fumeu framer-v-18fumeu framer-gmf82w" data-framer-name="primary" style="background-color:var(--token-f5646347-2529-487d-8af1-d99f05c5451c, rgb(10, 10, 10));border-bottom-left-radius:100px;border-bottom-right-radius:100px;border-top-left-radius:100px;border-top-right-radius:100px" href="https://www.behance.net/hmthm" target="_blank" rel="noopener">
+                                                                <div class="framer-701tf3-container">
+                                                                    <div style="display:contents"></div>
+                                                                </div>
+                                                            </a>
+                                                            <!--/$-->
+                                                        </div>
+                                                        <div class="framer-1436kte-container">
+                                                            <!--$-->
+                                                            <a class="framer-Umspt framer-18fumeu framer-v-18fumeu framer-gmf82w" data-framer-name="primary" style="background-color:var(--token-f5646347-2529-487d-8af1-d99f05c5451c, rgb(10, 10, 10));border-bottom-left-radius:100px;border-bottom-right-radius:100px;border-top-left-radius:100px;border-top-right-radius:100px" href="https://x.com/home" target="_blank" rel="noopener">
+                                                                <div class="framer-701tf3-container">
+                                                                    <div style="display:contents"></div>
+                                                                </div>
+                                                            </a>
+                                                            <!--/$-->
+                                                        </div>
+                                                        <div class="framer-1uc1fgv" data-framer-name="separation"></div>
+                                                        <div class="framer-ynxwrr-container">
+                                                            <!--$-->
+                                                            <a class="framer-Umspt framer-18fumeu framer-v-18fumeu framer-gmf82w" data-framer-name="primary" style="background-color:var(--token-f5646347-2529-487d-8af1-d99f05c5451c, rgb(10, 10, 10));border-bottom-left-radius:100px;border-bottom-right-radius:100px;border-top-left-radius:100px;border-top-right-radius:100px" href="https://www.instagram.com/" target="_blank" rel="noopener">
+                                                                <div class="framer-701tf3-container">
+                                                                    <div style="display:contents"></div>
+                                                                </div>
+                                                            </a>
+                                                            <!--/$-->
+                                                        </div>
+                                                        <div class="framer-1umvuf0" data-framer-name="separation"></div>
+                                                    </div>
+                                                    <div class="framer-4q5lul" data-framer-name="Line"></div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="framer-1yva7l2" data-framer-name="stats">
+                                    <div class="ssr-variant hidden-1oifrzv hidden-oryvlp">
+                                        <div class="framer-19860qk-container">
+                                            <div class="framer-NbFtm framer-sRkFW framer-coXks framer-mve1di framer-v-mve1di" data-framer-name="Primary" style="background-color:var(--token-cba3b9c8-9e49-437e-aca1-1e69db3088dc, rgb(17, 17, 17));border-bottom-left-radius:10px;border-bottom-right-radius:10px;border-top-left-radius:10px;border-top-right-radius:10px;box-shadow:16px 24px 20px 8px rgba(0, 0, 0, 0.4), inset 0px 2px 0px 0px rgba(184, 180, 180, 0.08);height:100%;width:100%">
+                                                <div class="framer-hl6owf" data-framer-name="number">
+                                                    <div class="framer-1jb7lob" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none" data-framer-component-type="RichTextContainer">
+                                                        <h3 class="framer-text framer-styles-preset-py4je5" data-styles-preset="ILhC8lJZ4" style="--framer-text-alignment:center">6+</h3>
+                                                    </div>
+                                                </div>
+                                                <div class="framer-3j49ld" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;opacity:0.5;transform:none" data-framer-component-type="RichTextContainer">
+                                                    <p class="framer-text framer-styles-preset-vp3sdo" data-styles-preset="WQG2SsoyY" style="--framer-text-alignment:center">Years of Experience</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="ssr-variant hidden-oryvlp hidden-72rtr7">
+                                        <div class="framer-19860qk-container">
+                                            <div class="framer-NbFtm framer-sRkFW framer-coXks framer-mve1di framer-v-mve1di" data-framer-name="Primary" style="background-color:var(--token-cba3b9c8-9e49-437e-aca1-1e69db3088dc, rgb(17, 17, 17));border-bottom-left-radius:10px;border-bottom-right-radius:10px;border-top-left-radius:10px;border-top-right-radius:10px;box-shadow:16px 24px 20px 8px rgba(0, 0, 0, 0.4), inset 0px 2px 0px 0px rgba(184, 180, 180, 0.08);height:100%;width:100%">
+                                                <div class="framer-hl6owf" data-framer-name="number">
+                                                    <div class="framer-1jb7lob" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none" data-framer-component-type="RichTextContainer">
+                                                        <h3 class="framer-text framer-styles-preset-py4je5" data-styles-preset="ILhC8lJZ4" style="--framer-text-alignment:center">6+</h3>
+                                                    </div>
+                                                </div>
+                                                <div class="framer-3j49ld" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;opacity:0.5;transform:none" data-framer-component-type="RichTextContainer">
+                                                    <p class="framer-text framer-styles-preset-vp3sdo" data-styles-preset="WQG2SsoyY" style="--framer-text-alignment:center">Years of Experience</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="ssr-variant hidden-1oifrzv hidden-72rtr7">
+                                        <div class="framer-19860qk-container">
+                                            <div class="framer-NbFtm framer-sRkFW framer-coXks framer-mve1di framer-v-mve1di" data-framer-name="Primary" style="background-color:var(--token-cba3b9c8-9e49-437e-aca1-1e69db3088dc, rgb(17, 17, 17));border-bottom-left-radius:10px;border-bottom-right-radius:10px;border-top-left-radius:10px;border-top-right-radius:10px;box-shadow:16px 24px 20px 8px rgba(0, 0, 0, 0.4), inset 0px 2px 0px 0px rgba(184, 180, 180, 0.08);height:100%;width:100%">
+                                                <div class="framer-hl6owf" data-framer-name="number">
+                                                    <div class="framer-1jb7lob" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none" data-framer-component-type="RichTextContainer">
+                                                        <h3 class="framer-text framer-styles-preset-py4je5" data-styles-preset="ILhC8lJZ4" style="--framer-text-alignment:center">6+</h3>
+                                                    </div>
+                                                </div>
+                                                <div class="framer-3j49ld" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;opacity:0.5;transform:none" data-framer-component-type="RichTextContainer">
+                                                    <p class="framer-text framer-styles-preset-vp3sdo" data-styles-preset="WQG2SsoyY" style="--framer-text-alignment:center">Years of Exprience</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="ssr-variant hidden-1oifrzv hidden-oryvlp">
+                                        <div class="framer-1k5yg0g-container">
+                                            <div class="framer-NbFtm framer-sRkFW framer-coXks framer-mve1di framer-v-mve1di" data-framer-name="Primary" style="background-color:var(--token-cba3b9c8-9e49-437e-aca1-1e69db3088dc, rgb(17, 17, 17));border-bottom-left-radius:10px;border-bottom-right-radius:10px;border-top-left-radius:10px;border-top-right-radius:10px;box-shadow:16px 24px 20px 8px rgba(0, 0, 0, 0.4), inset 0px 2px 0px 0px rgba(184, 180, 180, 0.08);width:100%">
+                                                <div class="framer-hl6owf" data-framer-name="number">
+                                                    <div class="framer-1jb7lob" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none" data-framer-component-type="RichTextContainer">
+                                                        <h3 class="framer-text framer-styles-preset-py4je5" data-styles-preset="ILhC8lJZ4" style="--framer-text-alignment:center">10+</h3>
+                                                    </div>
+                                                </div>
+                                                <div class="framer-3j49ld" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;opacity:0.5;transform:none" data-framer-component-type="RichTextContainer">
+                                                    <p class="framer-text framer-styles-preset-vp3sdo" data-styles-preset="WQG2SsoyY" style="--framer-text-alignment:center">Projects</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="ssr-variant hidden-oryvlp hidden-72rtr7">
+                                        <div class="framer-1k5yg0g-container">
+                                            <div class="framer-NbFtm framer-sRkFW framer-coXks framer-mve1di framer-v-mve1di" data-framer-name="Primary" style="background-color:var(--token-cba3b9c8-9e49-437e-aca1-1e69db3088dc, rgb(17, 17, 17));border-bottom-left-radius:10px;border-bottom-right-radius:10px;border-top-left-radius:10px;border-top-right-radius:10px;box-shadow:16px 24px 20px 8px rgba(0, 0, 0, 0.4), inset 0px 2px 0px 0px rgba(184, 180, 180, 0.08);width:100%">
+                                                <div class="framer-hl6owf" data-framer-name="number">
+                                                    <div class="framer-1jb7lob" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none" data-framer-component-type="RichTextContainer">
+                                                        <h3 class="framer-text framer-styles-preset-py4je5" data-styles-preset="ILhC8lJZ4" style="--framer-text-alignment:center">10+</h3>
+                                                    </div>
+                                                </div>
+                                                <div class="framer-3j49ld" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;opacity:0.5;transform:none" data-framer-component-type="RichTextContainer">
+                                                    <p class="framer-text framer-styles-preset-vp3sdo" data-styles-preset="WQG2SsoyY" style="--framer-text-alignment:center">Projects</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="ssr-variant hidden-1oifrzv hidden-72rtr7">
+                                        <div class="framer-1k5yg0g-container">
+                                            <div class="framer-NbFtm framer-sRkFW framer-coXks framer-mve1di framer-v-mve1di" data-framer-name="Primary" style="background-color:var(--token-cba3b9c8-9e49-437e-aca1-1e69db3088dc, rgb(17, 17, 17));border-bottom-left-radius:10px;border-bottom-right-radius:10px;border-top-left-radius:10px;border-top-right-radius:10px;box-shadow:16px 24px 20px 8px rgba(0, 0, 0, 0.4), inset 0px 2px 0px 0px rgba(184, 180, 180, 0.08);width:100%">
+                                                <div class="framer-hl6owf" data-framer-name="number">
+                                                    <div class="framer-1jb7lob" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none" data-framer-component-type="RichTextContainer">
+                                                        <h3 class="framer-text framer-styles-preset-py4je5" data-styles-preset="ILhC8lJZ4" style="--framer-text-alignment:center">10+</h3>
+                                                    </div>
+                                                </div>
+                                                <div class="framer-3j49ld" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;opacity:0.5;transform:none" data-framer-component-type="RichTextContainer">
+                                                    <p class="framer-text framer-styles-preset-vp3sdo" data-styles-preset="WQG2SsoyY" style="--framer-text-alignment:center">Projects</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="ssr-variant hidden-1oifrzv hidden-oryvlp">
+                                        <div class="framer-2ojbu1-container">
+                                            <div class="framer-NbFtm framer-sRkFW framer-coXks framer-mve1di framer-v-mve1di" data-framer-name="Primary" style="background-color:var(--token-cba3b9c8-9e49-437e-aca1-1e69db3088dc, rgb(17, 17, 17));border-bottom-left-radius:10px;border-bottom-right-radius:10px;border-top-left-radius:10px;border-top-right-radius:10px;box-shadow:16px 24px 20px 8px rgba(0, 0, 0, 0.4), inset 0px 2px 0px 0px rgba(184, 180, 180, 0.08);width:100%">
+                                                <div class="framer-hl6owf" data-framer-name="number">
+                                                    <div class="framer-1jb7lob" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none" data-framer-component-type="RichTextContainer">
+                                                        <h3 class="framer-text framer-styles-preset-py4je5" data-styles-preset="ILhC8lJZ4" style="--framer-text-alignment:center">5</h3>
+                                                    </div>
+                                                </div>
+                                                <div class="framer-3j49ld" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;opacity:0.5;transform:none" data-framer-component-type="RichTextContainer">
+                                                    <p class="framer-text framer-styles-preset-vp3sdo" data-styles-preset="WQG2SsoyY" style="--framer-text-alignment:center">Awards</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="ssr-variant hidden-oryvlp hidden-72rtr7">
+                                        <div class="framer-2ojbu1-container">
+                                            <div class="framer-NbFtm framer-sRkFW framer-coXks framer-mve1di framer-v-mve1di" data-framer-name="Primary" style="background-color:var(--token-cba3b9c8-9e49-437e-aca1-1e69db3088dc, rgb(17, 17, 17));border-bottom-left-radius:10px;border-bottom-right-radius:10px;border-top-left-radius:10px;border-top-right-radius:10px;box-shadow:16px 24px 20px 8px rgba(0, 0, 0, 0.4), inset 0px 2px 0px 0px rgba(184, 180, 180, 0.08);width:100%">
+                                                <div class="framer-hl6owf" data-framer-name="number">
+                                                    <div class="framer-1jb7lob" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none" data-framer-component-type="RichTextContainer">
+                                                        <h3 class="framer-text framer-styles-preset-py4je5" data-styles-preset="ILhC8lJZ4" style="--framer-text-alignment:center">5</h3>
+                                                    </div>
+                                                </div>
+                                                <div class="framer-3j49ld" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;opacity:0.5;transform:none" data-framer-component-type="RichTextContainer">
+                                                    <p class="framer-text framer-styles-preset-vp3sdo" data-styles-preset="WQG2SsoyY" style="--framer-text-alignment:center">Awards</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="ssr-variant hidden-1oifrzv hidden-72rtr7">
+                                        <div class="framer-2ojbu1-container">
+                                            <div class="framer-NbFtm framer-sRkFW framer-coXks framer-mve1di framer-v-mve1di" data-framer-name="Primary" style="background-color:var(--token-cba3b9c8-9e49-437e-aca1-1e69db3088dc, rgb(17, 17, 17));border-bottom-left-radius:10px;border-bottom-right-radius:10px;border-top-left-radius:10px;border-top-right-radius:10px;box-shadow:16px 24px 20px 8px rgba(0, 0, 0, 0.4), inset 0px 2px 0px 0px rgba(184, 180, 180, 0.08);width:100%">
+                                                <div class="framer-hl6owf" data-framer-name="number">
+                                                    <div class="framer-1jb7lob" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none" data-framer-component-type="RichTextContainer">
+                                                        <h3 class="framer-text framer-styles-preset-py4je5" data-styles-preset="ILhC8lJZ4" style="--framer-text-alignment:center">5</h3>
+                                                    </div>
+                                                </div>
+                                                <div class="framer-3j49ld" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;opacity:0.5;transform:none" data-framer-component-type="RichTextContainer">
+                                                    <p class="framer-text framer-styles-preset-vp3sdo" data-styles-preset="WQG2SsoyY" style="--framer-text-alignment:center">Awards</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="framer-1c7rrqy hidden-oryvlp" data-framer-name="line"></div>
+                                <div class="framer-zkxxl2 hidden-oryvlp" data-framer-name="Buttons">
+                                    <!--$-->
+                                    <div class="framer-i19y5c-container" data-framer-appear-id="i19y5c" tabindex="0" style="opacity:0.001;will-change:transform;transform:translateY(20px)">
+                                        <!--$-->
+                                        <a class="framer-lBbnu framer-ZaPG2 framer-1utbjg4 framer-v-1utbjg4 framer-g5elx6" data-framer-name="Main Blue Button (L)" data-reset="button" style="background:linear-gradient(180deg, var(--token-16f2e642-57af-452f-984c-64067596f797, rgb(120, 120, 120)) /* {&quot;name&quot;:&quot;light grey&quot;} */ -382%, var(--token-f5646347-2529-487d-8af1-d99f05c5451c, rgb(10, 10, 10)) /* {&quot;name&quot;:&quot;Background&quot;} */ 100%);border-bottom-left-radius:100px;border-bottom-right-radius:100px;border-top-left-radius:100px;border-top-right-radius:100px;opacity:1" href="./#projects" tabindex="0">
+                                            <div class="framer-1pppene" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--extracted-r6o4lv:var(--token-7a7ce709-7970-4e23-97d8-1ae0355d02f0, rgb(255, 255, 255));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none" data-framer-component-type="RichTextContainer">
+                                                <p class="framer-text framer-styles-preset-wu4ebp" data-styles-preset="H1YXoF4HR" style="--framer-text-color:var(--extracted-r6o4lv, var(--token-7a7ce709-7970-4e23-97d8-1ae0355d02f0, rgb(255, 255, 255)))">See All Projects</p>
+                                            </div>
+                                        </a>
+                                        <!--/$-->
+                                    </div>
+                                    <!--/$-->
+                                    <div class="framer-6jq0ri-container" data-framer-appear-id="6jq0ri" tabindex="0" style="opacity:0.001;will-change:transform;transform:translateY(20px)">
+                                        <!--$-->
+                                        <a class="framer-AxuV6 framer-XQoOA framer-arjx3g framer-v-arjx3g framer-1pta8r4" data-framer-name="Secondary Button (L)" data-reset="button" style="background:linear-gradient(180deg, var(--token-7a7ce709-7970-4e23-97d8-1ae0355d02f0, rgb(255, 255, 255)) /* {&quot;name&quot;:&quot;white | 100&quot;} */ 0%, var(--token-16f2e642-57af-452f-984c-64067596f797, rgb(120, 120, 120)) /* {&quot;name&quot;:&quot;light grey&quot;} */ 140%);border-bottom-left-radius:100px;border-bottom-right-radius:100px;border-top-left-radius:100px;border-top-right-radius:100px;box-shadow:none;opacity:1" href="https://hemanthram2197@gmail.com " rel="noopener" tabindex="0">
+                                            <div class="framer-i7bqb4" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--extracted-r6o4lv:var(--token-f5646347-2529-487d-8af1-d99f05c5451c, rgb(10, 10, 10));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none" data-framer-component-type="RichTextContainer">
+                                                <p class="framer-text framer-styles-preset-1uqxdd2" data-styles-preset="uCnC2_tAh" style="--framer-text-color:var(--extracted-r6o4lv, var(--token-f5646347-2529-487d-8af1-d99f05c5451c, rgb(10, 10, 10)))">Contact Now</p>
+                                            </div>
+                                        </a>
+                                        <!--/$-->
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="framer-yy6fss" data-framer-name="reviews">
+                                <div class="ssr-variant hidden-1oifrzv hidden-oryvlp">
+                                    <div class="framer-rlvksz-container">
+                                        <div class="framer-kzBl7 framer-UddiK framer-ZaPG2 framer-coXks framer-ofwhdh framer-v-ofwhdh" data-framer-name="Primary" style="background:linear-gradient(121deg, var(--token-16f2e642-57af-452f-984c-64067596f797, rgb(120, 120, 120)) -52%, var(--token-cba3b9c8-9e49-437e-aca1-1e69db3088dc, rgb(17, 17, 17)) 19%, var(--token-f5646347-2529-487d-8af1-d99f05c5451c, rgb(10, 10, 10)) 100%);border-bottom-left-radius:16px;border-bottom-right-radius:16px;border-top-left-radius:16px;border-top-right-radius:16px;box-shadow:inset 0px 2px 0px 0px rgba(184, 180, 180, 0.08);max-width:100%;width:100%">
+                                            <div class="framer-1dka7ig" data-framer-name="profile &amp; text">
+                                                <div class="framer-8q5y6o" data-framer-name="content">
+                                                    <div class="framer-122ls07" style="border-bottom-left-radius:8px;border-bottom-right-radius:8px;border-top-left-radius:8px;border-top-right-radius:8px">
+                                                        <div style="position:absolute;border-radius:inherit;top:0;right:0;bottom:0;left:0" data-framer-background-image-wrapper="true">
+                                                            <img decoding="async" width="76" height="76" sizes="76px" src="https://framerusercontent.com/images/p79cxbNNXngqb3BFU5yUikVmhI.svg" alt style="display:block;width:100%;height:100%;border-radius:inherit;object-position:center;object-fit:cover">
+                                                        </div>
+                                                    </div>
+                                                    <div class="framer-7civ38" data-framer-name="text">
+                                                        <div class="framer-1p6g420" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none" data-framer-component-type="RichTextContainer">
+                                                            <h4 class="framer-text framer-styles-preset-1o2kbzs" data-styles-preset="HglFp_qS2">Honeywell</h4>
+                                                        </div>
+                                                        <div class="framer-1tczcl2" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none" data-framer-component-type="RichTextContainer">
+                                                            <p class="framer-text framer-styles-preset-wu4ebp" data-styles-preset="H1YXoF4HR">User Experience Designer 2</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="framer-x5bmrj" data-framer-name="line" style="background-color:var(--token-b2b2cec5-8316-4f9c-8fd9-5fdfc3c24032, rgba(255, 255, 255, 0.1));border-bottom-left-radius:8px;border-bottom-right-radius:8px;border-top-left-radius:8px;border-top-right-radius:8px;opacity:0.8"></div>
+                                            <div class="framer-xxmpdy" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;opacity:0.7;transform:none" data-framer-component-type="RichTextContainer">
+                                                <p class="framer-text framer-styles-preset-vp3sdo" data-styles-preset="WQG2SsoyY">July 2024 - Current</p>
+                                            </div>
+                                            <div class="framer-1ah3qff" style="border-bottom-left-radius:8px;border-bottom-right-radius:8px;border-top-left-radius:8px;border-top-right-radius:8px;filter:brightness(0.15) blur(40px);-webkit-filter:brightness(0.15) blur(40px);opacity:0.25">
+                                                <div style="position:absolute;border-radius:inherit;top:0;right:0;bottom:0;left:0" data-framer-background-image-wrapper="true">
+                                                    <img decoding="async" width="76" height="76" sizes="max(min(max((min(100vw - 80px, 1100px) - 44px) / 2.2, 1px), 500px), 400px)" src="https://framerusercontent.com/images/p79cxbNNXngqb3BFU5yUikVmhI.svg" alt style="display:block;width:100%;height:100%;border-radius:inherit;object-position:center;object-fit:cover">
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="ssr-variant hidden-oryvlp hidden-72rtr7">
+                                    <div class="framer-rlvksz-container">
+                                        <div class="framer-kzBl7 framer-UddiK framer-ZaPG2 framer-coXks framer-ofwhdh framer-v-ofwhdh" data-framer-name="Primary" style="background:linear-gradient(121deg, var(--token-16f2e642-57af-452f-984c-64067596f797, rgb(120, 120, 120)) -52%, var(--token-cba3b9c8-9e49-437e-aca1-1e69db3088dc, rgb(17, 17, 17)) 19%, var(--token-f5646347-2529-487d-8af1-d99f05c5451c, rgb(10, 10, 10)) 100%);border-bottom-left-radius:16px;border-bottom-right-radius:16px;border-top-left-radius:16px;border-top-right-radius:16px;box-shadow:inset 0px 2px 0px 0px rgba(184, 180, 180, 0.08);max-width:100%;width:100%">
+                                            <div class="framer-1dka7ig" data-framer-name="profile &amp; text">
+                                                <div class="framer-8q5y6o" data-framer-name="content">
+                                                    <div class="framer-122ls07" style="border-bottom-left-radius:8px;border-bottom-right-radius:8px;border-top-left-radius:8px;border-top-right-radius:8px">
+                                                        <div style="position:absolute;border-radius:inherit;top:0;right:0;bottom:0;left:0" data-framer-background-image-wrapper="true">
+                                                            <img decoding="async" width="76" height="76" sizes="76px" src="https://framerusercontent.com/images/p79cxbNNXngqb3BFU5yUikVmhI.svg" alt style="display:block;width:100%;height:100%;border-radius:inherit;object-position:center;object-fit:cover">
+                                                        </div>
+                                                    </div>
+                                                    <div class="framer-7civ38" data-framer-name="text">
+                                                        <div class="framer-1p6g420" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none" data-framer-component-type="RichTextContainer">
+                                                            <h4 class="framer-text framer-styles-preset-1o2kbzs" data-styles-preset="HglFp_qS2">Honeywell</h4>
+                                                        </div>
+                                                        <div class="framer-1tczcl2" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none" data-framer-component-type="RichTextContainer">
+                                                            <p class="framer-text framer-styles-preset-wu4ebp" data-styles-preset="H1YXoF4HR">User Experience Designer 2</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="framer-x5bmrj" data-framer-name="line" style="background-color:var(--token-b2b2cec5-8316-4f9c-8fd9-5fdfc3c24032, rgba(255, 255, 255, 0.1));border-bottom-left-radius:8px;border-bottom-right-radius:8px;border-top-left-radius:8px;border-top-right-radius:8px;opacity:0.8"></div>
+                                            <div class="framer-xxmpdy" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;opacity:0.7;transform:none" data-framer-component-type="RichTextContainer">
+                                                <p class="framer-text framer-styles-preset-vp3sdo" data-styles-preset="WQG2SsoyY">July 2024 - Current</p>
+                                            </div>
+                                            <div class="framer-1ah3qff" style="border-bottom-left-radius:8px;border-bottom-right-radius:8px;border-top-left-radius:8px;border-top-right-radius:8px;filter:brightness(0.15) blur(40px);-webkit-filter:brightness(0.15) blur(40px);opacity:0.25">
+                                                <div style="position:absolute;border-radius:inherit;top:0;right:0;bottom:0;left:0" data-framer-background-image-wrapper="true">
+                                                    <img decoding="async" width="76" height="76" sizes="max(min(min(100vw - 80px, 1100px), 500px), 400px)" src="https://framerusercontent.com/images/p79cxbNNXngqb3BFU5yUikVmhI.svg" alt style="display:block;width:100%;height:100%;border-radius:inherit;object-position:center;object-fit:cover">
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="ssr-variant hidden-1oifrzv hidden-72rtr7">
+                                    <div class="framer-rlvksz-container">
+                                        <div class="framer-kzBl7 framer-UddiK framer-ZaPG2 framer-coXks framer-ofwhdh framer-v-ofwhdh" data-framer-name="Primary" style="background:linear-gradient(121deg, var(--token-16f2e642-57af-452f-984c-64067596f797, rgb(120, 120, 120)) -52%, var(--token-cba3b9c8-9e49-437e-aca1-1e69db3088dc, rgb(17, 17, 17)) 19%, var(--token-f5646347-2529-487d-8af1-d99f05c5451c, rgb(10, 10, 10)) 100%);border-bottom-left-radius:16px;border-bottom-right-radius:16px;border-top-left-radius:16px;border-top-right-radius:16px;box-shadow:inset 0px 2px 0px 0px rgba(184, 180, 180, 0.08);max-width:100%;width:100%">
+                                            <div class="framer-1dka7ig" data-framer-name="profile &amp; text">
+                                                <div class="framer-8q5y6o" data-framer-name="content">
+                                                    <div class="framer-122ls07" style="border-bottom-left-radius:8px;border-bottom-right-radius:8px;border-top-left-radius:8px;border-top-right-radius:8px">
+                                                        <div style="position:absolute;border-radius:inherit;top:0;right:0;bottom:0;left:0" data-framer-background-image-wrapper="true">
+                                                            <img decoding="async" loading="lazy" width="76" height="76" sizes="76px" src="https://framerusercontent.com/images/p79cxbNNXngqb3BFU5yUikVmhI.svg" alt style="display:block;width:100%;height:100%;border-radius:inherit;object-position:center;object-fit:cover">
+                                                        </div>
+                                                    </div>
+                                                    <div class="framer-7civ38" data-framer-name="text">
+                                                        <div class="framer-1p6g420" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none" data-framer-component-type="RichTextContainer">
+                                                            <h4 class="framer-text framer-styles-preset-1o2kbzs" data-styles-preset="HglFp_qS2">Honeywell</h4>
+                                                        </div>
+                                                        <div class="framer-1tczcl2" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none" data-framer-component-type="RichTextContainer">
+                                                            <p class="framer-text framer-styles-preset-wu4ebp" data-styles-preset="H1YXoF4HR">User Experience Designer 2</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="framer-x5bmrj" data-framer-name="line" style="background-color:var(--token-b2b2cec5-8316-4f9c-8fd9-5fdfc3c24032, rgba(255, 255, 255, 0.1));border-bottom-left-radius:8px;border-bottom-right-radius:8px;border-top-left-radius:8px;border-top-right-radius:8px;opacity:0.8"></div>
+                                            <div class="framer-xxmpdy" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;opacity:0.7;transform:none" data-framer-component-type="RichTextContainer">
+                                                <p class="framer-text framer-styles-preset-vp3sdo" data-styles-preset="WQG2SsoyY">July 2024 - Current</p>
+                                            </div>
+                                            <div class="framer-1ah3qff" style="border-bottom-left-radius:8px;border-bottom-right-radius:8px;border-top-left-radius:8px;border-top-right-radius:8px;filter:brightness(0.15) blur(40px);-webkit-filter:brightness(0.15) blur(40px);opacity:0.25">
+                                                <div style="position:absolute;border-radius:inherit;top:0;right:0;bottom:0;left:0" data-framer-background-image-wrapper="true">
+                                                    <img decoding="async" loading="lazy" width="76" height="76" sizes="314px" src="https://framerusercontent.com/images/p79cxbNNXngqb3BFU5yUikVmhI.svg" alt style="display:block;width:100%;height:100%;border-radius:inherit;object-position:center;object-fit:cover">
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="ssr-variant hidden-1oifrzv hidden-oryvlp">
+                                    <div class="framer-1rbkz8h-container">
+                                        <div class="framer-kzBl7 framer-UddiK framer-ZaPG2 framer-coXks framer-ofwhdh framer-v-ofwhdh" data-framer-name="Primary" style="background:linear-gradient(121deg, var(--token-16f2e642-57af-452f-984c-64067596f797, rgb(120, 120, 120)) -52%, var(--token-cba3b9c8-9e49-437e-aca1-1e69db3088dc, rgb(17, 17, 17)) 19%, var(--token-f5646347-2529-487d-8af1-d99f05c5451c, rgb(10, 10, 10)) 100%);border-bottom-left-radius:16px;border-bottom-right-radius:16px;border-top-left-radius:16px;border-top-right-radius:16px;box-shadow:inset 0px 2px 0px 0px rgba(184, 180, 180, 0.08);max-width:100%;width:100%">
+                                            <div class="framer-1dka7ig" data-framer-name="profile &amp; text">
+                                                <div class="framer-8q5y6o" data-framer-name="content">
+                                                    <div class="framer-122ls07" style="border-bottom-left-radius:8px;border-bottom-right-radius:8px;border-top-left-radius:8px;border-top-right-radius:8px">
+                                                        <div style="position:absolute;border-radius:inherit;top:0;right:0;bottom:0;left:0" data-framer-background-image-wrapper="true">
+                                                            <img decoding="async" width="76" height="76" sizes="76px" src="https://framerusercontent.com/images/2PsURZwXu5svTColmibvkRbBftY.svg" alt style="display:block;width:100%;height:100%;border-radius:inherit;object-position:center;object-fit:cover">
+                                                        </div>
+                                                    </div>
+                                                    <div class="framer-7civ38" data-framer-name="text">
+                                                        <div class="framer-1p6g420" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none" data-framer-component-type="RichTextContainer">
+                                                            <h4 class="framer-text framer-styles-preset-1o2kbzs" data-styles-preset="HglFp_qS2">Wells Fargo</h4>
+                                                        </div>
+                                                        <div class="framer-1tczcl2" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none" data-framer-component-type="RichTextContainer">
+                                                            <p class="framer-text framer-styles-preset-wu4ebp" data-styles-preset="H1YXoF4HR">Senior Product Designer</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="framer-x5bmrj" data-framer-name="line" style="background-color:var(--token-b2b2cec5-8316-4f9c-8fd9-5fdfc3c24032, rgba(255, 255, 255, 0.1));border-bottom-left-radius:8px;border-bottom-right-radius:8px;border-top-left-radius:8px;border-top-right-radius:8px;opacity:0.8"></div>
+                                            <div class="framer-xxmpdy" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;opacity:0.7;transform:none" data-framer-component-type="RichTextContainer">
+                                                <p class="framer-text framer-styles-preset-vp3sdo" data-styles-preset="WQG2SsoyY">Nov 2023 - June 2024</p>
+                                            </div>
+                                            <div class="framer-1ah3qff" style="border-bottom-left-radius:8px;border-bottom-right-radius:8px;border-top-left-radius:8px;border-top-right-radius:8px;filter:brightness(0.15) blur(40px);-webkit-filter:brightness(0.15) blur(40px);opacity:0.25">
+                                                <div style="position:absolute;border-radius:inherit;top:0;right:0;bottom:0;left:0" data-framer-background-image-wrapper="true">
+                                                    <img decoding="async" width="76" height="76" sizes="max(min(max((min(100vw - 80px, 1100px) - 44px) / 2.2, 1px), 500px), 400px)" src="https://framerusercontent.com/images/2PsURZwXu5svTColmibvkRbBftY.svg" alt style="display:block;width:100%;height:100%;border-radius:inherit;object-position:center;object-fit:cover">
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="ssr-variant hidden-oryvlp hidden-72rtr7">
+                                    <div class="framer-1rbkz8h-container">
+                                        <div class="framer-kzBl7 framer-UddiK framer-ZaPG2 framer-coXks framer-ofwhdh framer-v-ofwhdh" data-framer-name="Primary" style="background:linear-gradient(121deg, var(--token-16f2e642-57af-452f-984c-64067596f797, rgb(120, 120, 120)) -52%, var(--token-cba3b9c8-9e49-437e-aca1-1e69db3088dc, rgb(17, 17, 17)) 19%, var(--token-f5646347-2529-487d-8af1-d99f05c5451c, rgb(10, 10, 10)) 100%);border-bottom-left-radius:16px;border-bottom-right-radius:16px;border-top-left-radius:16px;border-top-right-radius:16px;box-shadow:inset 0px 2px 0px 0px rgba(184, 180, 180, 0.08);max-width:100%;width:100%">
+                                            <div class="framer-1dka7ig" data-framer-name="profile &amp; text">
+                                                <div class="framer-8q5y6o" data-framer-name="content">
+                                                    <div class="framer-122ls07" style="border-bottom-left-radius:8px;border-bottom-right-radius:8px;border-top-left-radius:8px;border-top-right-radius:8px">
+                                                        <div style="position:absolute;border-radius:inherit;top:0;right:0;bottom:0;left:0" data-framer-background-image-wrapper="true">
+                                                            <img decoding="async" width="76" height="76" sizes="76px" src="https://framerusercontent.com/images/2PsURZwXu5svTColmibvkRbBftY.svg" alt style="display:block;width:100%;height:100%;border-radius:inherit;object-position:center;object-fit:cover">
+                                                        </div>
+                                                    </div>
+                                                    <div class="framer-7civ38" data-framer-name="text">
+                                                        <div class="framer-1p6g420" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none" data-framer-component-type="RichTextContainer">
+                                                            <h4 class="framer-text framer-styles-preset-1o2kbzs" data-styles-preset="HglFp_qS2">Wells Fargo</h4>
+                                                        </div>
+                                                        <div class="framer-1tczcl2" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none" data-framer-component-type="RichTextContainer">
+                                                            <p class="framer-text framer-styles-preset-wu4ebp" data-styles-preset="H1YXoF4HR">Senior Product Designer</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="framer-x5bmrj" data-framer-name="line" style="background-color:var(--token-b2b2cec5-8316-4f9c-8fd9-5fdfc3c24032, rgba(255, 255, 255, 0.1));border-bottom-left-radius:8px;border-bottom-right-radius:8px;border-top-left-radius:8px;border-top-right-radius:8px;opacity:0.8"></div>
+                                            <div class="framer-xxmpdy" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;opacity:0.7;transform:none" data-framer-component-type="RichTextContainer">
+                                                <p class="framer-text framer-styles-preset-vp3sdo" data-styles-preset="WQG2SsoyY">Nov 2023 - June 2024</p>
+                                            </div>
+                                            <div class="framer-1ah3qff" style="border-bottom-left-radius:8px;border-bottom-right-radius:8px;border-top-left-radius:8px;border-top-right-radius:8px;filter:brightness(0.15) blur(40px);-webkit-filter:brightness(0.15) blur(40px);opacity:0.25">
+                                                <div style="position:absolute;border-radius:inherit;top:0;right:0;bottom:0;left:0" data-framer-background-image-wrapper="true">
+                                                    <img decoding="async" width="76" height="76" sizes="max(min(min(100vw - 80px, 1100px), 500px), 400px)" src="https://framerusercontent.com/images/2PsURZwXu5svTColmibvkRbBftY.svg" alt style="display:block;width:100%;height:100%;border-radius:inherit;object-position:center;object-fit:cover">
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="ssr-variant hidden-1oifrzv hidden-72rtr7">
+                                    <div class="framer-1rbkz8h-container">
+                                        <div class="framer-kzBl7 framer-UddiK framer-ZaPG2 framer-coXks framer-ofwhdh framer-v-ofwhdh" data-framer-name="Primary" style="background:linear-gradient(121deg, var(--token-16f2e642-57af-452f-984c-64067596f797, rgb(120, 120, 120)) -52%, var(--token-cba3b9c8-9e49-437e-aca1-1e69db3088dc, rgb(17, 17, 17)) 19%, var(--token-f5646347-2529-487d-8af1-d99f05c5451c, rgb(10, 10, 10)) 100%);border-bottom-left-radius:16px;border-bottom-right-radius:16px;border-top-left-radius:16px;border-top-right-radius:16px;box-shadow:inset 0px 2px 0px 0px rgba(184, 180, 180, 0.08);max-width:100%;width:100%">
+                                            <div class="framer-1dka7ig" data-framer-name="profile &amp; text">
+                                                <div class="framer-8q5y6o" data-framer-name="content">
+                                                    <div class="framer-122ls07" style="border-bottom-left-radius:8px;border-bottom-right-radius:8px;border-top-left-radius:8px;border-top-right-radius:8px">
+                                                        <div style="position:absolute;border-radius:inherit;top:0;right:0;bottom:0;left:0" data-framer-background-image-wrapper="true">
+                                                            <img decoding="async" loading="lazy" width="76" height="76" sizes="76px" src="https://framerusercontent.com/images/2PsURZwXu5svTColmibvkRbBftY.svg" alt style="display:block;width:100%;height:100%;border-radius:inherit;object-position:center;object-fit:cover">
+                                                        </div>
+                                                    </div>
+                                                    <div class="framer-7civ38" data-framer-name="text">
+                                                        <div class="framer-1p6g420" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none" data-framer-component-type="RichTextContainer">
+                                                            <h4 class="framer-text framer-styles-preset-1o2kbzs" data-styles-preset="HglFp_qS2">Wells Fargo</h4>
+                                                        </div>
+                                                        <div class="framer-1tczcl2" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none" data-framer-component-type="RichTextContainer">
+                                                            <p class="framer-text framer-styles-preset-wu4ebp" data-styles-preset="H1YXoF4HR">Senior Product Designer</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="framer-x5bmrj" data-framer-name="line" style="background-color:var(--token-b2b2cec5-8316-4f9c-8fd9-5fdfc3c24032, rgba(255, 255, 255, 0.1));border-bottom-left-radius:8px;border-bottom-right-radius:8px;border-top-left-radius:8px;border-top-right-radius:8px;opacity:0.8"></div>
+                                            <div class="framer-xxmpdy" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;opacity:0.7;transform:none" data-framer-component-type="RichTextContainer">
+                                                <p class="framer-text framer-styles-preset-vp3sdo" data-styles-preset="WQG2SsoyY">Nov 2023 - June 2024</p>
+                                            </div>
+                                            <div class="framer-1ah3qff" style="border-bottom-left-radius:8px;border-bottom-right-radius:8px;border-top-left-radius:8px;border-top-right-radius:8px;filter:brightness(0.15) blur(40px);-webkit-filter:brightness(0.15) blur(40px);opacity:0.25">
+                                                <div style="position:absolute;border-radius:inherit;top:0;right:0;bottom:0;left:0" data-framer-background-image-wrapper="true">
+                                                    <img decoding="async" loading="lazy" width="76" height="76" sizes="314px" src="https://framerusercontent.com/images/2PsURZwXu5svTColmibvkRbBftY.svg" alt style="display:block;width:100%;height:100%;border-radius:inherit;object-position:center;object-fit:cover">
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="ssr-variant hidden-1oifrzv hidden-oryvlp">
+                                    <div class="framer-11vpxof-container">
+                                        <div class="framer-kzBl7 framer-UddiK framer-ZaPG2 framer-coXks framer-ofwhdh framer-v-ofwhdh" data-framer-name="Primary" style="background:linear-gradient(121deg, var(--token-16f2e642-57af-452f-984c-64067596f797, rgb(120, 120, 120)) -52%, var(--token-cba3b9c8-9e49-437e-aca1-1e69db3088dc, rgb(17, 17, 17)) 19%, var(--token-f5646347-2529-487d-8af1-d99f05c5451c, rgb(10, 10, 10)) 100%);border-bottom-left-radius:16px;border-bottom-right-radius:16px;border-top-left-radius:16px;border-top-right-radius:16px;box-shadow:inset 0px 2px 0px 0px rgba(184, 180, 180, 0.08);max-width:100%;width:100%">
+                                            <div class="framer-1dka7ig" data-framer-name="profile &amp; text">
+                                                <div class="framer-8q5y6o" data-framer-name="content">
+                                                    <div class="framer-122ls07" style="border-bottom-left-radius:8px;border-bottom-right-radius:8px;border-top-left-radius:8px;border-top-right-radius:8px">
+                                                        <div style="position:absolute;border-radius:inherit;top:0;right:0;bottom:0;left:0" data-framer-background-image-wrapper="true">
+                                                            <img decoding="async" width="76" height="76" sizes="76px" src="https://framerusercontent.com/images/d2r5fT1OaQ4HZaohpr98RDEiM.svg" alt style="display:block;width:100%;height:100%;border-radius:inherit;object-position:center;object-fit:cover">
+                                                        </div>
+                                                    </div>
+                                                    <div class="framer-7civ38" data-framer-name="text">
+                                                        <div class="framer-1p6g420" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none" data-framer-component-type="RichTextContainer">
+                                                            <h4 class="framer-text framer-styles-preset-1o2kbzs" data-styles-preset="HglFp_qS2">Oracle India Pvt Ltd</h4>
+                                                        </div>
+                                                        <div class="framer-1tczcl2" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none" data-framer-component-type="RichTextContainer">
+                                                            <p class="framer-text framer-styles-preset-wu4ebp" data-styles-preset="H1YXoF4HR">Product Designer</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="framer-x5bmrj" data-framer-name="line" style="background-color:var(--token-b2b2cec5-8316-4f9c-8fd9-5fdfc3c24032, rgba(255, 255, 255, 0.1));border-bottom-left-radius:8px;border-bottom-right-radius:8px;border-top-left-radius:8px;border-top-right-radius:8px;opacity:0.8"></div>
+                                            <div class="framer-xxmpdy" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;opacity:0.7;transform:none" data-framer-component-type="RichTextContainer">
+                                                <p class="framer-text framer-styles-preset-vp3sdo" data-styles-preset="WQG2SsoyY">Oct 2021 - Nov 2023</p>
+                                            </div>
+                                            <div class="framer-1ah3qff" style="border-bottom-left-radius:8px;border-bottom-right-radius:8px;border-top-left-radius:8px;border-top-right-radius:8px;filter:brightness(0.15) blur(40px);-webkit-filter:brightness(0.15) blur(40px);opacity:0.25">
+                                                <div style="position:absolute;border-radius:inherit;top:0;right:0;bottom:0;left:0" data-framer-background-image-wrapper="true">
+                                                    <img decoding="async" width="76" height="76" sizes="max(min(max((min(100vw - 80px, 1100px) - 44px) / 2.2, 1px), 500px), 400px)" src="https://framerusercontent.com/images/d2r5fT1OaQ4HZaohpr98RDEiM.svg" alt style="display:block;width:100%;height:100%;border-radius:inherit;object-position:center;object-fit:cover">
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="ssr-variant hidden-oryvlp hidden-72rtr7">
+                                    <div class="framer-11vpxof-container">
+                                        <div class="framer-kzBl7 framer-UddiK framer-ZaPG2 framer-coXks framer-ofwhdh framer-v-ofwhdh" data-framer-name="Primary" style="background:linear-gradient(121deg, var(--token-16f2e642-57af-452f-984c-64067596f797, rgb(120, 120, 120)) -52%, var(--token-cba3b9c8-9e49-437e-aca1-1e69db3088dc, rgb(17, 17, 17)) 19%, var(--token-f5646347-2529-487d-8af1-d99f05c5451c, rgb(10, 10, 10)) 100%);border-bottom-left-radius:16px;border-bottom-right-radius:16px;border-top-left-radius:16px;border-top-right-radius:16px;box-shadow:inset 0px 2px 0px 0px rgba(184, 180, 180, 0.08);max-width:100%;width:100%">
+                                            <div class="framer-1dka7ig" data-framer-name="profile &amp; text">
+                                                <div class="framer-8q5y6o" data-framer-name="content">
+                                                    <div class="framer-122ls07" style="border-bottom-left-radius:8px;border-bottom-right-radius:8px;border-top-left-radius:8px;border-top-right-radius:8px">
+                                                        <div style="position:absolute;border-radius:inherit;top:0;right:0;bottom:0;left:0" data-framer-background-image-wrapper="true">
+                                                            <img decoding="async" width="76" height="76" sizes="76px" src="https://framerusercontent.com/images/d2r5fT1OaQ4HZaohpr98RDEiM.svg" alt style="display:block;width:100%;height:100%;border-radius:inherit;object-position:center;object-fit:cover">
+                                                        </div>
+                                                    </div>
+                                                    <div class="framer-7civ38" data-framer-name="text">
+                                                        <div class="framer-1p6g420" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none" data-framer-component-type="RichTextContainer">
+                                                            <h4 class="framer-text framer-styles-preset-1o2kbzs" data-styles-preset="HglFp_qS2">Oracle India Pvt Ltd</h4>
+                                                        </div>
+                                                        <div class="framer-1tczcl2" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none" data-framer-component-type="RichTextContainer">
+                                                            <p class="framer-text framer-styles-preset-wu4ebp" data-styles-preset="H1YXoF4HR">Product Designer</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="framer-x5bmrj" data-framer-name="line" style="background-color:var(--token-b2b2cec5-8316-4f9c-8fd9-5fdfc3c24032, rgba(255, 255, 255, 0.1));border-bottom-left-radius:8px;border-bottom-right-radius:8px;border-top-left-radius:8px;border-top-right-radius:8px;opacity:0.8"></div>
+                                            <div class="framer-xxmpdy" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;opacity:0.7;transform:none" data-framer-component-type="RichTextContainer">
+                                                <p class="framer-text framer-styles-preset-vp3sdo" data-styles-preset="WQG2SsoyY">Oct 2021 - Nov 2023</p>
+                                            </div>
+                                            <div class="framer-1ah3qff" style="border-bottom-left-radius:8px;border-bottom-right-radius:8px;border-top-left-radius:8px;border-top-right-radius:8px;filter:brightness(0.15) blur(40px);-webkit-filter:brightness(0.15) blur(40px);opacity:0.25">
+                                                <div style="position:absolute;border-radius:inherit;top:0;right:0;bottom:0;left:0" data-framer-background-image-wrapper="true">
+                                                    <img decoding="async" width="76" height="76" sizes="max(min(min(100vw - 80px, 1100px), 500px), 400px)" src="https://framerusercontent.com/images/d2r5fT1OaQ4HZaohpr98RDEiM.svg" alt style="display:block;width:100%;height:100%;border-radius:inherit;object-position:center;object-fit:cover">
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="ssr-variant hidden-1oifrzv hidden-72rtr7">
+                                    <div class="framer-11vpxof-container">
+                                        <div class="framer-kzBl7 framer-UddiK framer-ZaPG2 framer-coXks framer-ofwhdh framer-v-ofwhdh" data-framer-name="Primary" style="background:linear-gradient(121deg, var(--token-16f2e642-57af-452f-984c-64067596f797, rgb(120, 120, 120)) -52%, var(--token-cba3b9c8-9e49-437e-aca1-1e69db3088dc, rgb(17, 17, 17)) 19%, var(--token-f5646347-2529-487d-8af1-d99f05c5451c, rgb(10, 10, 10)) 100%);border-bottom-left-radius:16px;border-bottom-right-radius:16px;border-top-left-radius:16px;border-top-right-radius:16px;box-shadow:inset 0px 2px 0px 0px rgba(184, 180, 180, 0.08);max-width:100%;width:100%">
+                                            <div class="framer-1dka7ig" data-framer-name="profile &amp; text">
+                                                <div class="framer-8q5y6o" data-framer-name="content">
+                                                    <div class="framer-122ls07" style="border-bottom-left-radius:8px;border-bottom-right-radius:8px;border-top-left-radius:8px;border-top-right-radius:8px">
+                                                        <div style="position:absolute;border-radius:inherit;top:0;right:0;bottom:0;left:0" data-framer-background-image-wrapper="true">
+                                                            <img decoding="async" loading="lazy" width="76" height="76" sizes="76px" src="https://framerusercontent.com/images/d2r5fT1OaQ4HZaohpr98RDEiM.svg" alt style="display:block;width:100%;height:100%;border-radius:inherit;object-position:center;object-fit:cover">
+                                                        </div>
+                                                    </div>
+                                                    <div class="framer-7civ38" data-framer-name="text">
+                                                        <div class="framer-1p6g420" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none" data-framer-component-type="RichTextContainer">
+                                                            <h4 class="framer-text framer-styles-preset-1o2kbzs" data-styles-preset="HglFp_qS2">Oracle India Pvt Ltd</h4>
+                                                        </div>
+                                                        <div class="framer-1tczcl2" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none" data-framer-component-type="RichTextContainer">
+                                                            <p class="framer-text framer-styles-preset-wu4ebp" data-styles-preset="H1YXoF4HR">Product Designer</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="framer-x5bmrj" data-framer-name="line" style="background-color:var(--token-b2b2cec5-8316-4f9c-8fd9-5fdfc3c24032, rgba(255, 255, 255, 0.1));border-bottom-left-radius:8px;border-bottom-right-radius:8px;border-top-left-radius:8px;border-top-right-radius:8px;opacity:0.8"></div>
+                                            <div class="framer-xxmpdy" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;opacity:0.7;transform:none" data-framer-component-type="RichTextContainer">
+                                                <p class="framer-text framer-styles-preset-vp3sdo" data-styles-preset="WQG2SsoyY">Oct 2021 - Nov 2023</p>
+                                            </div>
+                                            <div class="framer-1ah3qff" style="border-bottom-left-radius:8px;border-bottom-right-radius:8px;border-top-left-radius:8px;border-top-right-radius:8px;filter:brightness(0.15) blur(40px);-webkit-filter:brightness(0.15) blur(40px);opacity:0.25">
+                                                <div style="position:absolute;border-radius:inherit;top:0;right:0;bottom:0;left:0" data-framer-background-image-wrapper="true">
+                                                    <img decoding="async" loading="lazy" width="76" height="76" sizes="314px" src="https://framerusercontent.com/images/d2r5fT1OaQ4HZaohpr98RDEiM.svg" alt style="display:block;width:100%;height:100%;border-radius:inherit;object-position:center;object-fit:cover">
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="ssr-variant hidden-1oifrzv hidden-oryvlp">
+                                    <div class="framer-b8vw02-container">
+                                        <div class="framer-kzBl7 framer-UddiK framer-ZaPG2 framer-coXks framer-ofwhdh framer-v-ofwhdh" data-framer-name="Primary" style="background:linear-gradient(121deg, var(--token-16f2e642-57af-452f-984c-64067596f797, rgb(120, 120, 120)) -52%, var(--token-cba3b9c8-9e49-437e-aca1-1e69db3088dc, rgb(17, 17, 17)) 19%, var(--token-f5646347-2529-487d-8af1-d99f05c5451c, rgb(10, 10, 10)) 100%);border-bottom-left-radius:16px;border-bottom-right-radius:16px;border-top-left-radius:16px;border-top-right-radius:16px;box-shadow:inset 0px 2px 0px 0px rgba(184, 180, 180, 0.08);max-width:100%;width:100%">
+                                            <div class="framer-1dka7ig" data-framer-name="profile &amp; text">
+                                                <div class="framer-8q5y6o" data-framer-name="content">
+                                                    <div class="framer-122ls07" style="border-bottom-left-radius:8px;border-bottom-right-radius:8px;border-top-left-radius:8px;border-top-right-radius:8px">
+                                                        <div style="position:absolute;border-radius:inherit;top:0;right:0;bottom:0;left:0" data-framer-background-image-wrapper="true">
+                                                            <img decoding="async" width="76" height="76" sizes="76px" src="https://framerusercontent.com/images/XXNq8AvK0KIybekOcrIEUN6ETw.svg" alt style="display:block;width:100%;height:100%;border-radius:inherit;object-position:center;object-fit:cover">
+                                                        </div>
+                                                    </div>
+                                                    <div class="framer-7civ38" data-framer-name="text">
+                                                        <div class="framer-1p6g420" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none" data-framer-component-type="RichTextContainer">
+                                                            <h4 class="framer-text framer-styles-preset-1o2kbzs" data-styles-preset="HglFp_qS2">Tata Consultancy Services</h4>
+                                                        </div>
+                                                        <div class="framer-1tczcl2" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none" data-framer-component-type="RichTextContainer">
+                                                            <p class="framer-text framer-styles-preset-wu4ebp" data-styles-preset="H1YXoF4HR">User Experience Designer</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="framer-x5bmrj" data-framer-name="line" style="background-color:var(--token-b2b2cec5-8316-4f9c-8fd9-5fdfc3c24032, rgba(255, 255, 255, 0.1));border-bottom-left-radius:8px;border-bottom-right-radius:8px;border-top-left-radius:8px;border-top-right-radius:8px;opacity:0.8"></div>
+                                            <div class="framer-xxmpdy" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;opacity:0.7;transform:none" data-framer-component-type="RichTextContainer">
+                                                <p class="framer-text framer-styles-preset-vp3sdo" data-styles-preset="WQG2SsoyY">Jun 2019 - Sep 2021</p>
+                                            </div>
+                                            <div class="framer-1ah3qff" style="border-bottom-left-radius:8px;border-bottom-right-radius:8px;border-top-left-radius:8px;border-top-right-radius:8px;filter:brightness(0.15) blur(40px);-webkit-filter:brightness(0.15) blur(40px);opacity:0.25">
+                                                <div style="position:absolute;border-radius:inherit;top:0;right:0;bottom:0;left:0" data-framer-background-image-wrapper="true">
+                                                    <img decoding="async" width="76" height="76" sizes="max(min(max((min(100vw - 80px, 1100px) - 44px) / 2.2, 1px), 500px), 400px)" src="https://framerusercontent.com/images/XXNq8AvK0KIybekOcrIEUN6ETw.svg" alt style="display:block;width:100%;height:100%;border-radius:inherit;object-position:center;object-fit:cover">
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="ssr-variant hidden-oryvlp hidden-72rtr7">
+                                    <div class="framer-b8vw02-container">
+                                        <div class="framer-kzBl7 framer-UddiK framer-ZaPG2 framer-coXks framer-ofwhdh framer-v-ofwhdh" data-framer-name="Primary" style="background:linear-gradient(121deg, var(--token-16f2e642-57af-452f-984c-64067596f797, rgb(120, 120, 120)) -52%, var(--token-cba3b9c8-9e49-437e-aca1-1e69db3088dc, rgb(17, 17, 17)) 19%, var(--token-f5646347-2529-487d-8af1-d99f05c5451c, rgb(10, 10, 10)) 100%);border-bottom-left-radius:16px;border-bottom-right-radius:16px;border-top-left-radius:16px;border-top-right-radius:16px;box-shadow:inset 0px 2px 0px 0px rgba(184, 180, 180, 0.08);max-width:100%;width:100%">
+                                            <div class="framer-1dka7ig" data-framer-name="profile &amp; text">
+                                                <div class="framer-8q5y6o" data-framer-name="content">
+                                                    <div class="framer-122ls07" style="border-bottom-left-radius:8px;border-bottom-right-radius:8px;border-top-left-radius:8px;border-top-right-radius:8px">
+                                                        <div style="position:absolute;border-radius:inherit;top:0;right:0;bottom:0;left:0" data-framer-background-image-wrapper="true">
+                                                            <img decoding="async" width="76" height="76" sizes="76px" src="https://framerusercontent.com/images/XXNq8AvK0KIybekOcrIEUN6ETw.svg" alt style="display:block;width:100%;height:100%;border-radius:inherit;object-position:center;object-fit:cover">
+                                                        </div>
+                                                    </div>
+                                                    <div class="framer-7civ38" data-framer-name="text">
+                                                        <div class="framer-1p6g420" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none" data-framer-component-type="RichTextContainer">
+                                                            <h4 class="framer-text framer-styles-preset-1o2kbzs" data-styles-preset="HglFp_qS2">Tata Consultancy Services</h4>
+                                                        </div>
+                                                        <div class="framer-1tczcl2" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none" data-framer-component-type="RichTextContainer">
+                                                            <p class="framer-text framer-styles-preset-wu4ebp" data-styles-preset="H1YXoF4HR">User Experience Designer</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="framer-x5bmrj" data-framer-name="line" style="background-color:var(--token-b2b2cec5-8316-4f9c-8fd9-5fdfc3c24032, rgba(255, 255, 255, 0.1));border-bottom-left-radius:8px;border-bottom-right-radius:8px;border-top-left-radius:8px;border-top-right-radius:8px;opacity:0.8"></div>
+                                            <div class="framer-xxmpdy" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;opacity:0.7;transform:none" data-framer-component-type="RichTextContainer">
+                                                <p class="framer-text framer-styles-preset-vp3sdo" data-styles-preset="WQG2SsoyY">Jun 2019 - Sep 2021</p>
+                                            </div>
+                                            <div class="framer-1ah3qff" style="border-bottom-left-radius:8px;border-bottom-right-radius:8px;border-top-left-radius:8px;border-top-right-radius:8px;filter:brightness(0.15) blur(40px);-webkit-filter:brightness(0.15) blur(40px);opacity:0.25">
+                                                <div style="position:absolute;border-radius:inherit;top:0;right:0;bottom:0;left:0" data-framer-background-image-wrapper="true">
+                                                    <img decoding="async" width="76" height="76" sizes="max(min(min(100vw - 80px, 1100px), 500px), 400px)" src="https://framerusercontent.com/images/XXNq8AvK0KIybekOcrIEUN6ETw.svg" alt style="display:block;width:100%;height:100%;border-radius:inherit;object-position:center;object-fit:cover">
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="ssr-variant hidden-1oifrzv hidden-72rtr7">
+                                    <div class="framer-b8vw02-container">
+                                        <div class="framer-kzBl7 framer-UddiK framer-ZaPG2 framer-coXks framer-ofwhdh framer-v-ofwhdh" data-framer-name="Primary" style="background:linear-gradient(121deg, var(--token-16f2e642-57af-452f-984c-64067596f797, rgb(120, 120, 120)) -52%, var(--token-cba3b9c8-9e49-437e-aca1-1e69db3088dc, rgb(17, 17, 17)) 19%, var(--token-f5646347-2529-487d-8af1-d99f05c5451c, rgb(10, 10, 10)) 100%);border-bottom-left-radius:16px;border-bottom-right-radius:16px;border-top-left-radius:16px;border-top-right-radius:16px;box-shadow:inset 0px 2px 0px 0px rgba(184, 180, 180, 0.08);max-width:100%;width:100%">
+                                            <div class="framer-1dka7ig" data-framer-name="profile &amp; text">
+                                                <div class="framer-8q5y6o" data-framer-name="content">
+                                                    <div class="framer-122ls07" style="border-bottom-left-radius:8px;border-bottom-right-radius:8px;border-top-left-radius:8px;border-top-right-radius:8px">
+                                                        <div style="position:absolute;border-radius:inherit;top:0;right:0;bottom:0;left:0" data-framer-background-image-wrapper="true">
+                                                            <img decoding="async" loading="lazy" width="76" height="76" sizes="76px" src="https://framerusercontent.com/images/XXNq8AvK0KIybekOcrIEUN6ETw.svg" alt style="display:block;width:100%;height:100%;border-radius:inherit;object-position:center;object-fit:cover">
+                                                        </div>
+                                                    </div>
+                                                    <div class="framer-7civ38" data-framer-name="text">
+                                                        <div class="framer-1p6g420" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none" data-framer-component-type="RichTextContainer">
+                                                            <h4 class="framer-text framer-styles-preset-1o2kbzs" data-styles-preset="HglFp_qS2">Tata Consultancy Services</h4>
+                                                        </div>
+                                                        <div class="framer-1tczcl2" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none" data-framer-component-type="RichTextContainer">
+                                                            <p class="framer-text framer-styles-preset-wu4ebp" data-styles-preset="H1YXoF4HR">User Experience Designer</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="framer-x5bmrj" data-framer-name="line" style="background-color:var(--token-b2b2cec5-8316-4f9c-8fd9-5fdfc3c24032, rgba(255, 255, 255, 0.1));border-bottom-left-radius:8px;border-bottom-right-radius:8px;border-top-left-radius:8px;border-top-right-radius:8px;opacity:0.8"></div>
+                                            <div class="framer-xxmpdy" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;opacity:0.7;transform:none" data-framer-component-type="RichTextContainer">
+                                                <p class="framer-text framer-styles-preset-vp3sdo" data-styles-preset="WQG2SsoyY">Jun 2019 - Sep 2021</p>
+                                            </div>
+                                            <div class="framer-1ah3qff" style="border-bottom-left-radius:8px;border-bottom-right-radius:8px;border-top-left-radius:8px;border-top-right-radius:8px;filter:brightness(0.15) blur(40px);-webkit-filter:brightness(0.15) blur(40px);opacity:0.25">
+                                                <div style="position:absolute;border-radius:inherit;top:0;right:0;bottom:0;left:0" data-framer-background-image-wrapper="true">
+                                                    <img decoding="async" loading="lazy" width="76" height="76" sizes="314px" src="https://framerusercontent.com/images/XXNq8AvK0KIybekOcrIEUN6ETw.svg" alt style="display:block;width:100%;height:100%;border-radius:inherit;object-position:center;object-fit:cover">
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="framer-5dnyfk" data-border="true" data-framer-name="Border"></div>
+                    </section>
+                    <section class="framer-nuwyn1" data-framer-name="Services" id="services">
+                        <div class="framer-13amxry" data-framer-name="container">
+                            <div class="framer-grh76z" data-framer-name="Top container">
+                                <div class="framer-b1as8u" data-framer-name="Heading &amp; badge">
+                                    <div class="ssr-variant hidden-oryvlp">
+                                        <div class="framer-qfl6p0-container" data-framer-appear-id="qfl6p0" style="opacity:0.001;will-change:transform;transform:none">
+                                            <div class="framer-PuKlG framer-coXks framer-15sqof0 framer-v-15sqof0" data-framer-name="Primary" style="background-color:var(--token-cba3b9c8-9e49-437e-aca1-1e69db3088dc, rgb(17, 17, 17));border-bottom-left-radius:20px;border-bottom-right-radius:20px;border-top-left-radius:20px;border-top-right-radius:20px;box-shadow:16px 24px 20px 8px rgba(0, 0, 0, 0.4), inset 0px 2px 0px 0px rgba(184, 180, 180, 0.08)">
+                                                <div class="framer-1qkvdbg" data-framer-name="icon shape" style="background-color:var(--token-7a7ce709-7970-4e23-97d8-1ae0355d02f0, rgb(255, 255, 255));border-bottom-left-radius:10px;border-bottom-right-radius:10px;border-top-left-radius:10px;border-top-right-radius:10px">
+                                                    <div class="framer-1v60oqk" data-framer-name="circle" style="background-color:var(--token-cba3b9c8-9e49-437e-aca1-1e69db3088dc, rgb(17, 17, 17));border-bottom-left-radius:10px;border-bottom-right-radius:10px;border-top-left-radius:10px;border-top-right-radius:10px">
+                                                        <div class="framer-asjeaj" data-framer-name="dot" style="background-color:var(--token-7a7ce709-7970-4e23-97d8-1ae0355d02f0, rgb(255, 255, 255));border-bottom-left-radius:10px;border-bottom-right-radius:10px;border-top-left-radius:10px;border-top-right-radius:10px"></div>
+                                                    </div>
+                                                </div>
+                                                <div class="framer-fkhzu7" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;transform:none" data-framer-component-type="RichTextContainer">
+                                                    <p class="framer-text framer-styles-preset-vp3sdo" data-styles-preset="WQG2SsoyY">Design services</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="ssr-variant hidden-1oifrzv hidden-72rtr7">
+                                        <div class="framer-qfl6p0-container" data-framer-appear-id="qfl6p0" style="opacity:0.001;will-change:transform;transform:none">
+                                            <div class="framer-PuKlG framer-coXks framer-15sqof0 framer-v-15sqof0" data-framer-name="Primary" style="background-color:var(--token-cba3b9c8-9e49-437e-aca1-1e69db3088dc, rgb(17, 17, 17));border-bottom-left-radius:20px;border-bottom-right-radius:20px;border-top-left-radius:20px;border-top-right-radius:20px;box-shadow:16px 24px 20px 8px rgba(0, 0, 0, 0.4), inset 0px 2px 0px 0px rgba(184, 180, 180, 0.08)">
+                                                <div class="framer-1qkvdbg" data-framer-name="icon shape" style="background-color:var(--token-7a7ce709-7970-4e23-97d8-1ae0355d02f0, rgb(255, 255, 255));border-bottom-left-radius:10px;border-bottom-right-radius:10px;border-top-left-radius:10px;border-top-right-radius:10px">
+                                                    <div class="framer-1v60oqk" data-framer-name="circle" style="background-color:var(--token-cba3b9c8-9e49-437e-aca1-1e69db3088dc, rgb(17, 17, 17));border-bottom-left-radius:10px;border-bottom-right-radius:10px;border-top-left-radius:10px;border-top-right-radius:10px">
+                                                        <div class="framer-asjeaj" data-framer-name="dot" style="background-color:var(--token-7a7ce709-7970-4e23-97d8-1ae0355d02f0, rgb(255, 255, 255));border-bottom-left-radius:10px;border-bottom-right-radius:10px;border-top-left-radius:10px;border-top-right-radius:10px"></div>
+                                                    </div>
+                                                </div>
+                                                <div class="framer-fkhzu7" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;transform:none" data-framer-component-type="RichTextContainer">
+                                                    <p class="framer-text framer-styles-preset-vp3sdo" data-styles-preset="WQG2SsoyY">Design services</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="framer-oc6su1" data-framer-name="heading">
+                                        <div class="framer-1nii7z6" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;transform:none" data-framer-component-type="RichTextContainer">
+                                            <h2 class="framer-text framer-styles-preset-f2amck" data-styles-preset="CBdr2gxTW" style="--framer-text-alignment:left">
+                                                <span style="display:inline-block;opacity:0.001;transform:translateX(0px) translateY(10px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)">Area</span>
+                                                <span style="display:inline-block;opacity:0.001;transform:translateX(0px) translateY(10px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)">of</span>
+                                                <span style="display:inline-block;opacity:0.001;transform:translateX(0px) translateY(10px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)"></span>
+                                                <span style="--framer-text-color:var(--token-27dab558-c2be-4da2-b3df-e0c399d3b44b, rgba(255, 255, 255, 0.6))" class="framer-text">
+                                                    <span style="display:inline-block;opacity:0.001;transform:translateX(0px) translateY(10px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)">Specialization</span>
+                                                </span>
+                                            </h2>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="framer-1buc26x" data-framer-name="Services Bento ">
+                                <div class="framer-11xt6x8" data-framer-name="Left Cards">
+                                    <div class="ssr-variant hidden-1oifrzv hidden-oryvlp">
+                                        <div class="framer-58k2kg-container">
+                                            <div class="framer-LgHU8 framer-33SOM framer-coXks framer-16e0psl framer-v-16e0psl" data-framer-name="Primary" style="background-color:var(--token-cba3b9c8-9e49-437e-aca1-1e69db3088dc, rgb(17, 17, 17));border-bottom-left-radius:20px;border-bottom-right-radius:20px;border-top-left-radius:20px;border-top-right-radius:20px;box-shadow:16px 24px 20px 8px rgba(0, 0, 0, 0.4), inset 0px 2px 0px 0px rgba(184, 180, 180, 0.08);width:100%;will-change:transform;opacity:0;transform:translateX(-50px)">
+                                                <div class="framer-uc9z24" data-framer-name="Content">
+                                                    <div class="framer-e5onc" data-framer-name="Heading &amp; Icon">
+                                                        <div class="framer-h8fwvn-container">
+                                                            <!--$-->
+                                                            <div style="display:contents"></div>
+                                                            <!--/$-->
+                                                        </div>
+                                                        <div class="framer-134dngq" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none" data-framer-component-type="RichTextContainer">
+                                                            <h5 class="framer-text framer-styles-preset-1ajziol" data-styles-preset="WkrX6JBfV">Web &amp;App Design</h5>
+                                                        </div>
+                                                    </div>
+                                                    <div class="framer-1gl58m0" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;opacity:0.7;transform:none" data-framer-component-type="RichTextContainer">
+                                                        <p class="framer-text framer-styles-preset-vp3sdo" data-styles-preset="WQG2SsoyY">Designing breathtaking, user-centric websites that boost engagement, conversions, and growth, perfectly aligned with your brand</p>
+                                                    </div>
+                                                </div>
+                                                <div class="framer-2xcnz2" style="border-bottom-left-radius:7px;border-bottom-right-radius:7px;border-top-left-radius:7px;border-top-right-radius:7px;box-shadow:20px 30px 20px 8px rgba(0, 0, 0, 0.4)">
+                                                    <div style="position:absolute;border-radius:inherit;top:0;right:0;bottom:0;left:0" data-framer-background-image-wrapper="true">
+                                                        <img decoding="async" width="2400" height="1260" sizes="calc(max((min(100vw - 80px, 1100px) - 20px) / 2, 1px) - 60px)" src="https://framerusercontent.com/images/IwwlXF60xjgLFBH3Sj6kzl9eXs.png?scale-down-to=2048" alt style="display:block;width:100%;height:100%;border-radius:inherit;object-position:center;object-fit:cover">
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="ssr-variant hidden-oryvlp hidden-72rtr7">
+                                        <div class="framer-58k2kg-container">
+                                            <div class="framer-LgHU8 framer-33SOM framer-coXks framer-16e0psl framer-v-16e0psl" data-framer-name="Primary" style="background-color:var(--token-cba3b9c8-9e49-437e-aca1-1e69db3088dc, rgb(17, 17, 17));border-bottom-left-radius:20px;border-bottom-right-radius:20px;border-top-left-radius:20px;border-top-right-radius:20px;box-shadow:16px 24px 20px 8px rgba(0, 0, 0, 0.4), inset 0px 2px 0px 0px rgba(184, 180, 180, 0.08);width:100%;will-change:transform;opacity:0;transform:translateX(-50px)">
+                                                <div class="framer-uc9z24" data-framer-name="Content">
+                                                    <div class="framer-e5onc" data-framer-name="Heading &amp; Icon">
+                                                        <div class="framer-h8fwvn-container">
+                                                            <!--$-->
+                                                            <div style="display:contents"></div>
+                                                            <!--/$-->
+                                                        </div>
+                                                        <div class="framer-134dngq" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none" data-framer-component-type="RichTextContainer">
+                                                            <h5 class="framer-text framer-styles-preset-1ajziol" data-styles-preset="WkrX6JBfV">Web &amp;App Design</h5>
+                                                        </div>
+                                                    </div>
+                                                    <div class="framer-1gl58m0" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;opacity:0.7;transform:none" data-framer-component-type="RichTextContainer">
+                                                        <p class="framer-text framer-styles-preset-vp3sdo" data-styles-preset="WQG2SsoyY">Designing breathtaking, user-centric websites that boost engagement, conversions, and growth, perfectly aligned with your brand</p>
+                                                    </div>
+                                                </div>
+                                                <div class="framer-2xcnz2" style="border-bottom-left-radius:7px;border-bottom-right-radius:7px;border-top-left-radius:7px;border-top-right-radius:7px;box-shadow:20px 30px 20px 8px rgba(0, 0, 0, 0.4)">
+                                                    <div style="position:absolute;border-radius:inherit;top:0;right:0;bottom:0;left:0" data-framer-background-image-wrapper="true">
+                                                        <img decoding="async" width="2400" height="1260" sizes="calc(calc(min(100vw - 80px, 1100px) * 0.9) - 60px)" src="https://framerusercontent.com/images/IwwlXF60xjgLFBH3Sj6kzl9eXs.png?scale-down-to=2048" alt style="display:block;width:100%;height:100%;border-radius:inherit;object-position:center;object-fit:cover">
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="ssr-variant hidden-1oifrzv hidden-72rtr7">
+                                        <div class="framer-58k2kg-container">
+                                            <div class="framer-LgHU8 framer-33SOM framer-coXks framer-16e0psl framer-v-16e0psl" data-framer-name="Primary" style="background-color:var(--token-cba3b9c8-9e49-437e-aca1-1e69db3088dc, rgb(17, 17, 17));border-bottom-left-radius:20px;border-bottom-right-radius:20px;border-top-left-radius:20px;border-top-right-radius:20px;box-shadow:16px 24px 20px 8px rgba(0, 0, 0, 0.4), inset 0px 2px 0px 0px rgba(184, 180, 180, 0.08);width:100%;will-change:transform;opacity:0;transform:translateX(-50px)">
+                                                <div class="framer-uc9z24" data-framer-name="Content">
+                                                    <div class="framer-e5onc" data-framer-name="Heading &amp; Icon">
+                                                        <div class="framer-h8fwvn-container">
+                                                            <!--$-->
+                                                            <div style="display:contents"></div>
+                                                            <!--/$-->
+                                                        </div>
+                                                        <div class="framer-134dngq" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none" data-framer-component-type="RichTextContainer">
+                                                            <h5 class="framer-text framer-styles-preset-1ajziol" data-styles-preset="WkrX6JBfV">Web &amp;App Design</h5>
+                                                        </div>
+                                                    </div>
+                                                    <div class="framer-1gl58m0" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;opacity:0.7;transform:none" data-framer-component-type="RichTextContainer">
+                                                        <p class="framer-text framer-styles-preset-vp3sdo" data-styles-preset="WQG2SsoyY">Designing breathtaking, user-centric websites that boost engagement, conversions, and growth, perfectly aligned with your brand</p>
+                                                    </div>
+                                                </div>
+                                                <div class="framer-2xcnz2" style="border-bottom-left-radius:7px;border-bottom-right-radius:7px;border-top-left-radius:7px;border-top-right-radius:7px;box-shadow:20px 30px 20px 8px rgba(0, 0, 0, 0.4)">
+                                                    <div style="position:absolute;border-radius:inherit;top:0;right:0;bottom:0;left:0" data-framer-background-image-wrapper="true">
+                                                        <img decoding="async" loading="lazy" width="2400" height="1260" sizes="calc(min(100vw - 36px, 1100px) - 60px)" src="https://framerusercontent.com/images/IwwlXF60xjgLFBH3Sj6kzl9eXs.png?scale-down-to=2048" alt style="display:block;width:100%;height:100%;border-radius:inherit;object-position:center;object-fit:cover">
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="ssr-variant hidden-1oifrzv hidden-oryvlp">
+                                        <div class="framer-1hjqn64-container">
+                                            <div class="framer-LgHU8 framer-33SOM framer-coXks framer-16e0psl framer-v-16e0psl" data-framer-name="Primary" style="background-color:var(--token-cba3b9c8-9e49-437e-aca1-1e69db3088dc, rgb(17, 17, 17));border-bottom-left-radius:20px;border-bottom-right-radius:20px;border-top-left-radius:20px;border-top-right-radius:20px;box-shadow:16px 24px 20px 8px rgba(0, 0, 0, 0.4), inset 0px 2px 0px 0px rgba(184, 180, 180, 0.08);width:100%;will-change:transform;opacity:0;transform:translateX(-50px)">
+                                                <div class="framer-uc9z24" data-framer-name="Content">
+                                                    <div class="framer-e5onc" data-framer-name="Heading &amp; Icon">
+                                                        <div class="framer-h8fwvn-container">
+                                                            <!--$-->
+                                                            <div style="display:contents"></div>
+                                                            <!--/$-->
+                                                        </div>
+                                                        <div class="framer-134dngq" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none" data-framer-component-type="RichTextContainer">
+                                                            <h5 class="framer-text framer-styles-preset-1ajziol" data-styles-preset="WkrX6JBfV">Icon Design</h5>
+                                                        </div>
+                                                    </div>
+                                                    <div class="framer-1gl58m0" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;opacity:0.7;transform:none" data-framer-component-type="RichTextContainer">
+                                                        <p class="framer-text framer-styles-preset-vp3sdo" data-styles-preset="WQG2SsoyY">Crafts visually engaging, modern icons that enhance user experience across apps, websites, and digital products.</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="ssr-variant hidden-oryvlp hidden-72rtr7">
+                                        <div class="framer-1hjqn64-container">
+                                            <div class="framer-LgHU8 framer-33SOM framer-coXks framer-16e0psl framer-v-16e0psl" data-framer-name="Primary" style="background-color:var(--token-cba3b9c8-9e49-437e-aca1-1e69db3088dc, rgb(17, 17, 17));border-bottom-left-radius:20px;border-bottom-right-radius:20px;border-top-left-radius:20px;border-top-right-radius:20px;box-shadow:16px 24px 20px 8px rgba(0, 0, 0, 0.4), inset 0px 2px 0px 0px rgba(184, 180, 180, 0.08);width:100%;will-change:transform;opacity:0;transform:translateX(-50px)">
+                                                <div class="framer-uc9z24" data-framer-name="Content">
+                                                    <div class="framer-e5onc" data-framer-name="Heading &amp; Icon">
+                                                        <div class="framer-h8fwvn-container">
+                                                            <!--$-->
+                                                            <div style="display:contents"></div>
+                                                            <!--/$-->
+                                                        </div>
+                                                        <div class="framer-134dngq" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none" data-framer-component-type="RichTextContainer">
+                                                            <h5 class="framer-text framer-styles-preset-1ajziol" data-styles-preset="WkrX6JBfV">Icon Design</h5>
+                                                        </div>
+                                                    </div>
+                                                    <div class="framer-1gl58m0" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;opacity:0.7;transform:none" data-framer-component-type="RichTextContainer">
+                                                        <p class="framer-text framer-styles-preset-vp3sdo" data-styles-preset="WQG2SsoyY">Crafts visually engaging, modern icons that enhance user experience across apps, websites, and digital products.</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="ssr-variant hidden-1oifrzv hidden-72rtr7">
+                                        <div class="framer-1hjqn64-container">
+                                            <div class="framer-LgHU8 framer-33SOM framer-coXks framer-16e0psl framer-v-16e0psl" data-framer-name="Primary" style="background-color:var(--token-cba3b9c8-9e49-437e-aca1-1e69db3088dc, rgb(17, 17, 17));border-bottom-left-radius:20px;border-bottom-right-radius:20px;border-top-left-radius:20px;border-top-right-radius:20px;box-shadow:16px 24px 20px 8px rgba(0, 0, 0, 0.4), inset 0px 2px 0px 0px rgba(184, 180, 180, 0.08);width:100%;will-change:transform;opacity:0;transform:translateX(-50px)">
+                                                <div class="framer-uc9z24" data-framer-name="Content">
+                                                    <div class="framer-e5onc" data-framer-name="Heading &amp; Icon">
+                                                        <div class="framer-h8fwvn-container">
+                                                            <!--$-->
+                                                            <div style="display:contents"></div>
+                                                            <!--/$-->
+                                                        </div>
+                                                        <div class="framer-134dngq" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none" data-framer-component-type="RichTextContainer">
+                                                            <h5 class="framer-text framer-styles-preset-1ajziol" data-styles-preset="WkrX6JBfV">Icon Design</h5>
+                                                        </div>
+                                                    </div>
+                                                    <div class="framer-1gl58m0" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;opacity:0.7;transform:none" data-framer-component-type="RichTextContainer">
+                                                        <p class="framer-text framer-styles-preset-vp3sdo" data-styles-preset="WQG2SsoyY">Crafts visually engaging, modern icons that enhance user experience across apps, websites, and digital products.</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="framer-1gyjv5t" data-framer-name="Right Cards">
+                                    <div class="ssr-variant hidden-1oifrzv hidden-oryvlp">
+                                        <div class="framer-1epi35x-container">
+                                            <div class="framer-LgHU8 framer-33SOM framer-coXks framer-16e0psl framer-v-16e0psl" data-framer-name="Primary" style="background-color:var(--token-cba3b9c8-9e49-437e-aca1-1e69db3088dc, rgb(17, 17, 17));border-bottom-left-radius:20px;border-bottom-right-radius:20px;border-top-left-radius:20px;border-top-right-radius:20px;box-shadow:16px 24px 20px 8px rgba(0, 0, 0, 0.4), inset 0px 2px 0px 0px rgba(184, 180, 180, 0.08);width:100%;will-change:transform;opacity:0;transform:translateX(-50px)">
+                                                <div class="framer-uc9z24" data-framer-name="Content">
+                                                    <div class="framer-e5onc" data-framer-name="Heading &amp; Icon">
+                                                        <div class="framer-h8fwvn-container">
+                                                            <!--$-->
+                                                            <div style="display:contents"></div>
+                                                            <!--/$-->
+                                                        </div>
+                                                        <div class="framer-134dngq" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none" data-framer-component-type="RichTextContainer">
+                                                            <h5 class="framer-text framer-styles-preset-1ajziol" data-styles-preset="WkrX6JBfV">Logo Design</h5>
+                                                        </div>
+                                                    </div>
+                                                    <div class="framer-1gl58m0" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;opacity:0.7;transform:none" data-framer-component-type="RichTextContainer">
+                                                        <p class="framer-text framer-styles-preset-vp3sdo" data-styles-preset="WQG2SsoyY">Crafting distinctive, scalable, and impactful logos that embody your brand’s identity and vision</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="ssr-variant hidden-oryvlp hidden-72rtr7">
+                                        <div class="framer-1epi35x-container">
+                                            <div class="framer-LgHU8 framer-33SOM framer-coXks framer-16e0psl framer-v-16e0psl" data-framer-name="Primary" style="background-color:var(--token-cba3b9c8-9e49-437e-aca1-1e69db3088dc, rgb(17, 17, 17));border-bottom-left-radius:20px;border-bottom-right-radius:20px;border-top-left-radius:20px;border-top-right-radius:20px;box-shadow:16px 24px 20px 8px rgba(0, 0, 0, 0.4), inset 0px 2px 0px 0px rgba(184, 180, 180, 0.08);width:100%;will-change:transform;opacity:0;transform:translateX(-50px)">
+                                                <div class="framer-uc9z24" data-framer-name="Content">
+                                                    <div class="framer-e5onc" data-framer-name="Heading &amp; Icon">
+                                                        <div class="framer-h8fwvn-container">
+                                                            <!--$-->
+                                                            <div style="display:contents"></div>
+                                                            <!--/$-->
+                                                        </div>
+                                                        <div class="framer-134dngq" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none" data-framer-component-type="RichTextContainer">
+                                                            <h5 class="framer-text framer-styles-preset-1ajziol" data-styles-preset="WkrX6JBfV">Logo Design</h5>
+                                                        </div>
+                                                    </div>
+                                                    <div class="framer-1gl58m0" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;opacity:0.7;transform:none" data-framer-component-type="RichTextContainer">
+                                                        <p class="framer-text framer-styles-preset-vp3sdo" data-styles-preset="WQG2SsoyY">Crafting distinctive, scalable, and impactful logos that embody your brand’s identity and vision</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="ssr-variant hidden-1oifrzv hidden-72rtr7">
+                                        <div class="framer-1epi35x-container">
+                                            <div class="framer-LgHU8 framer-33SOM framer-coXks framer-16e0psl framer-v-16e0psl" data-framer-name="Primary" style="background-color:var(--token-cba3b9c8-9e49-437e-aca1-1e69db3088dc, rgb(17, 17, 17));border-bottom-left-radius:20px;border-bottom-right-radius:20px;border-top-left-radius:20px;border-top-right-radius:20px;box-shadow:16px 24px 20px 8px rgba(0, 0, 0, 0.4), inset 0px 2px 0px 0px rgba(184, 180, 180, 0.08);width:100%;will-change:transform;opacity:0;transform:translateX(-50px)">
+                                                <div class="framer-uc9z24" data-framer-name="Content">
+                                                    <div class="framer-e5onc" data-framer-name="Heading &amp; Icon">
+                                                        <div class="framer-h8fwvn-container">
+                                                            <!--$-->
+                                                            <div style="display:contents"></div>
+                                                            <!--/$-->
+                                                        </div>
+                                                        <div class="framer-134dngq" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none" data-framer-component-type="RichTextContainer">
+                                                            <h5 class="framer-text framer-styles-preset-1ajziol" data-styles-preset="WkrX6JBfV">Logo Design</h5>
+                                                        </div>
+                                                    </div>
+                                                    <div class="framer-1gl58m0" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;opacity:0.7;transform:none" data-framer-component-type="RichTextContainer">
+                                                        <p class="framer-text framer-styles-preset-vp3sdo" data-styles-preset="WQG2SsoyY">Crafting distinctive, scalable, and impactful logos that embody your brand’s identity and vision</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="ssr-variant hidden-1oifrzv hidden-oryvlp">
+                                        <div class="framer-14trop2-container">
+                                            <div class="framer-LgHU8 framer-33SOM framer-coXks framer-16e0psl framer-v-16e0psl" data-framer-name="Primary" style="background-color:var(--token-cba3b9c8-9e49-437e-aca1-1e69db3088dc, rgb(17, 17, 17));border-bottom-left-radius:20px;border-bottom-right-radius:20px;border-top-left-radius:20px;border-top-right-radius:20px;box-shadow:16px 24px 20px 8px rgba(0, 0, 0, 0.4), inset 0px 2px 0px 0px rgba(184, 180, 180, 0.08);width:100%;will-change:transform;opacity:0;transform:translateX(-50px)">
+                                                <div class="framer-uc9z24" data-framer-name="Content">
+                                                    <div class="framer-e5onc" data-framer-name="Heading &amp; Icon">
+                                                        <div class="framer-h8fwvn-container">
+                                                            <!--$-->
+                                                            <div style="display:contents"></div>
+                                                            <!--/$-->
+                                                        </div>
+                                                        <div class="framer-134dngq" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none" data-framer-component-type="RichTextContainer">
+                                                            <h5 class="framer-text framer-styles-preset-1ajziol" data-styles-preset="WkrX6JBfV">Framer Design</h5>
+                                                        </div>
+                                                    </div>
+                                                    <div class="framer-1gl58m0" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;opacity:0.7;transform:none" data-framer-component-type="RichTextContainer">
+                                                        <p class="framer-text framer-styles-preset-vp3sdo" data-styles-preset="WQG2SsoyY">Bringing ideas to life with interactive, user-centered Framer designs that simplify complexity and elevate user experience</p>
+                                                    </div>
+                                                </div>
+                                                <div class="framer-azj6rc-container">
+                                                    <!--$-->
+                                                    <section style="display:flex;width:100%;height:100%;max-width:100%;max-height:100%;place-items:center;margin:0;padding:10px;list-style-type:none;text-indent:none;opacity:0;-webkit-mask-image:linear-gradient(to right, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 1) 12.5%, rgba(0, 0, 0, 1) 87.5%, rgba(0, 0, 0, 0) 100%);mask-image:linear-gradient(to right, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 1) 12.5%, rgba(0, 0, 0, 1) 87.5%, rgba(0, 0, 0, 0) 100%);overflow:hidden">
+                                                        <ul style="display:flex;width:100%;height:100%;max-width:100%;max-height:100%;place-items:center;margin:0;padding:0;list-style-type:none;text-indent:none;gap:10px;position:relative;flex-direction:row;will-change:auto;transform:translateX(-0px)">
+                                                            <li>
+                                                                <div class="framer-1p37e1a" data-framer-name="Ticker Image 1" style="border-bottom-left-radius:15px;border-bottom-right-radius:15px;border-top-left-radius:15px;border-top-right-radius:15px;flex-shrink:0">
+                                                                    <div style="position:absolute;border-radius:inherit;top:0;right:0;bottom:0;left:0" data-framer-background-image-wrapper="true">
+                                                                        <img decoding="async" width="4000" height="3000" sizes="299px" src="https://framerusercontent.com/images/qaXP9CBTkpCNVvyTQ6Uxc8kN5ts.png?scale-down-to=2048" alt style="display:block;width:100%;height:100%;border-radius:inherit;object-position:center;object-fit:cover">
+                                                                    </div>
+                                                                </div>
+                                                            </li>
+                                                            <li>
+                                                                <div class="framer-1a455c6" data-framer-name="Ticker Image 2" style="border-bottom-left-radius:15px;border-bottom-right-radius:15px;border-top-left-radius:15px;border-top-right-radius:15px;flex-shrink:0">
+                                                                    <div style="position:absolute;border-radius:inherit;top:0;right:0;bottom:0;left:0" data-framer-background-image-wrapper="true">
+                                                                        <img decoding="async" width="3840" height="2880" sizes="302px" src="https://framerusercontent.com/images/Uh4eI5tuS1UcMjPLwFeqxnXBJKQ.png?scale-down-to=2048" alt style="display:block;width:100%;height:100%;border-radius:inherit;object-position:center;object-fit:cover">
+                                                                    </div>
+                                                                </div>
+                                                            </li>
+                                                            <li>
+                                                                <div class="framer-170kwap" data-framer-name="Ticker Image 3" style="border-bottom-left-radius:15px;border-bottom-right-radius:15px;border-top-left-radius:15px;border-top-right-radius:15px;flex-shrink:0">
+                                                                    <div style="position:absolute;border-radius:inherit;top:0;right:0;bottom:0;left:0" data-framer-background-image-wrapper="true">
+                                                                        <img decoding="async" width="3514" height="2319" sizes="300px" src="https://framerusercontent.com/images/B6zI6nUrHNwrRM7ASHmAUUgXW0c.png?scale-down-to=2048" alt style="display:block;width:100%;height:100%;border-radius:inherit;object-position:center;object-fit:cover">
+                                                                    </div>
+                                                                </div>
+                                                            </li>
+                                                        </ul>
+                                                    </section>
+                                                    <!--/$-->
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="ssr-variant hidden-oryvlp hidden-72rtr7">
+                                        <div class="framer-14trop2-container">
+                                            <div class="framer-LgHU8 framer-33SOM framer-coXks framer-16e0psl framer-v-16e0psl" data-framer-name="Primary" style="background-color:var(--token-cba3b9c8-9e49-437e-aca1-1e69db3088dc, rgb(17, 17, 17));border-bottom-left-radius:20px;border-bottom-right-radius:20px;border-top-left-radius:20px;border-top-right-radius:20px;box-shadow:16px 24px 20px 8px rgba(0, 0, 0, 0.4), inset 0px 2px 0px 0px rgba(184, 180, 180, 0.08);width:100%;will-change:transform;opacity:0;transform:translateX(-50px)">
+                                                <div class="framer-uc9z24" data-framer-name="Content">
+                                                    <div class="framer-e5onc" data-framer-name="Heading &amp; Icon">
+                                                        <div class="framer-h8fwvn-container">
+                                                            <!--$-->
+                                                            <div style="display:contents"></div>
+                                                            <!--/$-->
+                                                        </div>
+                                                        <div class="framer-134dngq" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none" data-framer-component-type="RichTextContainer">
+                                                            <h5 class="framer-text framer-styles-preset-1ajziol" data-styles-preset="WkrX6JBfV">Framer Design</h5>
+                                                        </div>
+                                                    </div>
+                                                    <div class="framer-1gl58m0" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;opacity:0.7;transform:none" data-framer-component-type="RichTextContainer">
+                                                        <p class="framer-text framer-styles-preset-vp3sdo" data-styles-preset="WQG2SsoyY">Bringing ideas to life with interactive, user-centered Framer designs that simplify complexity and elevate user experience</p>
+                                                    </div>
+                                                </div>
+                                                <div class="framer-azj6rc-container">
+                                                    <!--$-->
+                                                    <section style="display:flex;width:100%;height:100%;max-width:100%;max-height:100%;place-items:center;margin:0;padding:10px;list-style-type:none;text-indent:none;opacity:0;-webkit-mask-image:linear-gradient(to right, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 1) 12.5%, rgba(0, 0, 0, 1) 87.5%, rgba(0, 0, 0, 0) 100%);mask-image:linear-gradient(to right, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 1) 12.5%, rgba(0, 0, 0, 1) 87.5%, rgba(0, 0, 0, 0) 100%);overflow:hidden">
+                                                        <ul style="display:flex;width:100%;height:100%;max-width:100%;max-height:100%;place-items:center;margin:0;padding:0;list-style-type:none;text-indent:none;gap:10px;position:relative;flex-direction:row;will-change:auto;transform:translateX(-0px)">
+                                                            <li>
+                                                                <div class="framer-1p37e1a" data-framer-name="Ticker Image 1" style="border-bottom-left-radius:15px;border-bottom-right-radius:15px;border-top-left-radius:15px;border-top-right-radius:15px;flex-shrink:0">
+                                                                    <div style="position:absolute;border-radius:inherit;top:0;right:0;bottom:0;left:0" data-framer-background-image-wrapper="true">
+                                                                        <img decoding="async" width="4000" height="3000" sizes="299px" src="https://framerusercontent.com/images/qaXP9CBTkpCNVvyTQ6Uxc8kN5ts.png?scale-down-to=2048" alt style="display:block;width:100%;height:100%;border-radius:inherit;object-position:center;object-fit:cover">
+                                                                    </div>
+                                                                </div>
+                                                            </li>
+                                                            <li>
+                                                                <div class="framer-1a455c6" data-framer-name="Ticker Image 2" style="border-bottom-left-radius:15px;border-bottom-right-radius:15px;border-top-left-radius:15px;border-top-right-radius:15px;flex-shrink:0">
+                                                                    <div style="position:absolute;border-radius:inherit;top:0;right:0;bottom:0;left:0" data-framer-background-image-wrapper="true">
+                                                                        <img decoding="async" width="3840" height="2880" sizes="302px" src="https://framerusercontent.com/images/Uh4eI5tuS1UcMjPLwFeqxnXBJKQ.png?scale-down-to=2048" alt style="display:block;width:100%;height:100%;border-radius:inherit;object-position:center;object-fit:cover">
+                                                                    </div>
+                                                                </div>
+                                                            </li>
+                                                            <li>
+                                                                <div class="framer-170kwap" data-framer-name="Ticker Image 3" style="border-bottom-left-radius:15px;border-bottom-right-radius:15px;border-top-left-radius:15px;border-top-right-radius:15px;flex-shrink:0">
+                                                                    <div style="position:absolute;border-radius:inherit;top:0;right:0;bottom:0;left:0" data-framer-background-image-wrapper="true">
+                                                                        <img decoding="async" width="3514" height="2319" sizes="300px" src="https://framerusercontent.com/images/B6zI6nUrHNwrRM7ASHmAUUgXW0c.png?scale-down-to=2048" alt style="display:block;width:100%;height:100%;border-radius:inherit;object-position:center;object-fit:cover">
+                                                                    </div>
+                                                                </div>
+                                                            </li>
+                                                        </ul>
+                                                    </section>
+                                                    <!--/$-->
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="ssr-variant hidden-1oifrzv hidden-72rtr7">
+                                        <div class="framer-14trop2-container">
+                                            <div class="framer-LgHU8 framer-33SOM framer-coXks framer-16e0psl framer-v-16e0psl" data-framer-name="Primary" style="background-color:var(--token-cba3b9c8-9e49-437e-aca1-1e69db3088dc, rgb(17, 17, 17));border-bottom-left-radius:20px;border-bottom-right-radius:20px;border-top-left-radius:20px;border-top-right-radius:20px;box-shadow:16px 24px 20px 8px rgba(0, 0, 0, 0.4), inset 0px 2px 0px 0px rgba(184, 180, 180, 0.08);width:100%;will-change:transform;opacity:0;transform:translateX(-50px)">
+                                                <div class="framer-uc9z24" data-framer-name="Content">
+                                                    <div class="framer-e5onc" data-framer-name="Heading &amp; Icon">
+                                                        <div class="framer-h8fwvn-container">
+                                                            <!--$-->
+                                                            <div style="display:contents"></div>
+                                                            <!--/$-->
+                                                        </div>
+                                                        <div class="framer-134dngq" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none" data-framer-component-type="RichTextContainer">
+                                                            <h5 class="framer-text framer-styles-preset-1ajziol" data-styles-preset="WkrX6JBfV">Framer Design</h5>
+                                                        </div>
+                                                    </div>
+                                                    <div class="framer-1gl58m0" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;opacity:0.7;transform:none" data-framer-component-type="RichTextContainer">
+                                                        <p class="framer-text framer-styles-preset-vp3sdo" data-styles-preset="WQG2SsoyY">Bringing ideas to life with interactive, user-centered Framer designs that simplify complexity and elevate user experience</p>
+                                                    </div>
+                                                </div>
+                                                <div class="framer-azj6rc-container">
+                                                    <!--$-->
+                                                    <section style="display:flex;width:100%;height:100%;max-width:100%;max-height:100%;place-items:center;margin:0;padding:10px;list-style-type:none;text-indent:none;opacity:0;-webkit-mask-image:linear-gradient(to right, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 1) 12.5%, rgba(0, 0, 0, 1) 87.5%, rgba(0, 0, 0, 0) 100%);mask-image:linear-gradient(to right, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 1) 12.5%, rgba(0, 0, 0, 1) 87.5%, rgba(0, 0, 0, 0) 100%);overflow:hidden">
+                                                        <ul style="display:flex;width:100%;height:100%;max-width:100%;max-height:100%;place-items:center;margin:0;padding:0;list-style-type:none;text-indent:none;gap:10px;position:relative;flex-direction:row;will-change:auto;transform:translateX(-0px)">
+                                                            <li>
+                                                                <div class="framer-1p37e1a" data-framer-name="Ticker Image 1" style="border-bottom-left-radius:15px;border-bottom-right-radius:15px;border-top-left-radius:15px;border-top-right-radius:15px;flex-shrink:0">
+                                                                    <div style="position:absolute;border-radius:inherit;top:0;right:0;bottom:0;left:0" data-framer-background-image-wrapper="true">
+                                                                        <img decoding="async" width="4000" height="3000" sizes="299px" src="https://framerusercontent.com/images/qaXP9CBTkpCNVvyTQ6Uxc8kN5ts.png?scale-down-to=2048" alt style="display:block;width:100%;height:100%;border-radius:inherit;object-position:center;object-fit:cover">
+                                                                    </div>
+                                                                </div>
+                                                            </li>
+                                                            <li>
+                                                                <div class="framer-1a455c6" data-framer-name="Ticker Image 2" style="border-bottom-left-radius:15px;border-bottom-right-radius:15px;border-top-left-radius:15px;border-top-right-radius:15px;flex-shrink:0">
+                                                                    <div style="position:absolute;border-radius:inherit;top:0;right:0;bottom:0;left:0" data-framer-background-image-wrapper="true">
+                                                                        <img decoding="async" width="3840" height="2880" sizes="302px" src="https://framerusercontent.com/images/Uh4eI5tuS1UcMjPLwFeqxnXBJKQ.png?scale-down-to=2048" alt style="display:block;width:100%;height:100%;border-radius:inherit;object-position:center;object-fit:cover">
+                                                                    </div>
+                                                                </div>
+                                                            </li>
+                                                            <li>
+                                                                <div class="framer-170kwap" data-framer-name="Ticker Image 3" style="border-bottom-left-radius:15px;border-bottom-right-radius:15px;border-top-left-radius:15px;border-top-right-radius:15px;flex-shrink:0">
+                                                                    <div style="position:absolute;border-radius:inherit;top:0;right:0;bottom:0;left:0" data-framer-background-image-wrapper="true">
+                                                                        <img decoding="async" width="3514" height="2319" sizes="300px" src="https://framerusercontent.com/images/B6zI6nUrHNwrRM7ASHmAUUgXW0c.png?scale-down-to=2048" alt style="display:block;width:100%;height:100%;border-radius:inherit;object-position:center;object-fit:cover">
+                                                                    </div>
+                                                                </div>
+                                                            </li>
+                                                        </ul>
+                                                    </section>
+                                                    <!--/$-->
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="framer-e60yuk" data-framer-name="More Services">
+                                <div class="framer-xb38sf-container">
+                                    <!--$-->
+                                    <section style="display:flex;width:100%;height:100%;max-width:100%;max-height:100%;place-items:center;margin:0;padding:10px;list-style-type:none;text-indent:none;opacity:0;-webkit-mask-image:linear-gradient(to right, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 1) 12.5%, rgba(0, 0, 0, 1) 87.5%, rgba(0, 0, 0, 0) 100%);mask-image:linear-gradient(to right, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 1) 12.5%, rgba(0, 0, 0, 1) 87.5%, rgba(0, 0, 0, 0) 100%);overflow:hidden">
+                                        <ul style="display:flex;width:100%;height:100%;max-width:100%;max-height:100%;place-items:center;margin:0;padding:0;list-style-type:none;text-indent:none;gap:24px;position:relative;flex-direction:row;will-change:auto;transform:translateX(-0px)">
+                                            <li style="width:191px;height:56px">
+                                                <div class="framer-14r9w8x-container" style="width:191px;height:56px;flex-shrink:0">
+                                                    <div class="framer-ajQUV framer-ZaPG2 framer-eygmpz framer-v-eygmpz" data-framer-name="Primary" style="background-color:var(--token-cba3b9c8-9e49-437e-aca1-1e69db3088dc, rgb(17, 17, 17));border-bottom-left-radius:78px;border-bottom-right-radius:78px;border-top-left-radius:78px;border-top-right-radius:78px;will-change:transform;opacity:0;transform:translateX(-50px)">
+                                                        <div class="framer-4mxji1-container">
+                                                            <div style="display:contents"></div>
+                                                        </div>
+                                                        <div class="framer-av4puv" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none" data-framer-component-type="RichTextContainer">
+                                                            <p class="framer-text framer-styles-preset-wu4ebp" data-styles-preset="H1YXoF4HR">Framer Migration</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </li>
+                                            <li style="width:251px;height:56px">
+                                                <div class="framer-1paipfw-container" style="width:251px;height:56px;flex-shrink:0">
+                                                    <div class="framer-ajQUV framer-ZaPG2 framer-eygmpz framer-v-eygmpz" data-framer-name="Primary" style="background-color:var(--token-cba3b9c8-9e49-437e-aca1-1e69db3088dc, rgb(17, 17, 17));border-bottom-left-radius:78px;border-bottom-right-radius:78px;border-top-left-radius:78px;border-top-right-radius:78px;will-change:transform;opacity:0;transform:translateX(-50px)">
+                                                        <div class="framer-4mxji1-container">
+                                                            <div style="display:contents"></div>
+                                                        </div>
+                                                        <div class="framer-av4puv" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none" data-framer-component-type="RichTextContainer">
+                                                            <p class="framer-text framer-styles-preset-wu4ebp" data-styles-preset="H1YXoF4HR">Video &amp;Motion Graphics</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </li>
+                                            <li style="width:103px;height:56px">
+                                                <div class="framer-rge1td-container" style="width:103px;height:56px;flex-shrink:0">
+                                                    <div class="framer-ajQUV framer-ZaPG2 framer-eygmpz framer-v-eygmpz" data-framer-name="Primary" style="background-color:var(--token-cba3b9c8-9e49-437e-aca1-1e69db3088dc, rgb(17, 17, 17));border-bottom-left-radius:78px;border-bottom-right-radius:78px;border-top-left-radius:78px;border-top-right-radius:78px;will-change:transform;opacity:0;transform:translateX(-50px)">
+                                                        <div class="framer-4mxji1-container">
+                                                            <div style="display:contents"></div>
+                                                        </div>
+                                                        <div class="framer-av4puv" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none" data-framer-component-type="RichTextContainer">
+                                                            <p class="framer-text framer-styles-preset-wu4ebp" data-styles-preset="H1YXoF4HR">icons</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </li>
+                                            <li style="width:120px;height:56px">
+                                                <div class="framer-pu76po-container" style="width:120px;height:56px;flex-shrink:0">
+                                                    <div class="framer-ajQUV framer-ZaPG2 framer-eygmpz framer-v-eygmpz" data-framer-name="Primary" style="background-color:var(--token-cba3b9c8-9e49-437e-aca1-1e69db3088dc, rgb(17, 17, 17));border-bottom-left-radius:78px;border-bottom-right-radius:78px;border-top-left-radius:78px;border-top-right-radius:78px;will-change:transform;opacity:0;transform:translateX(-50px)">
+                                                        <div class="framer-4mxji1-container">
+                                                            <div style="display:contents"></div>
+                                                        </div>
+                                                        <div class="framer-av4puv" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none" data-framer-component-type="RichTextContainer">
+                                                            <p class="framer-text framer-styles-preset-wu4ebp" data-styles-preset="H1YXoF4HR">Posters</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </li>
+                                        </ul>
+                                    </section>
+                                    <!--/$-->
+                                </div>
+                                <div class="framer-1dkp3p9-container">
+                                    <!--$-->
+                                    <section style="display:flex;width:100%;height:100%;max-width:100%;max-height:100%;place-items:center;margin:0;padding:10px;list-style-type:none;text-indent:none;opacity:0;-webkit-mask-image:linear-gradient(to right, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 1) 12.5%, rgba(0, 0, 0, 1) 87.5%, rgba(0, 0, 0, 0) 100%);mask-image:linear-gradient(to right, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 1) 12.5%, rgba(0, 0, 0, 1) 87.5%, rgba(0, 0, 0, 0) 100%);overflow:hidden">
+                                        <ul style="display:flex;width:100%;height:100%;max-width:100%;max-height:100%;place-items:center;margin:0;padding:0;list-style-type:none;text-indent:none;gap:24px;position:relative;flex-direction:row;will-change:auto;transform:translateX(0px)">
+                                            <li style="width:132px;height:56px">
+                                                <div class="framer-173x913-container" style="width:132px;height:56px;flex-shrink:0">
+                                                    <div class="framer-ajQUV framer-ZaPG2 framer-eygmpz framer-v-eygmpz" data-framer-name="Primary" style="background-color:var(--token-cba3b9c8-9e49-437e-aca1-1e69db3088dc, rgb(17, 17, 17));border-bottom-left-radius:78px;border-bottom-right-radius:78px;border-top-left-radius:78px;border-top-right-radius:78px;will-change:transform;opacity:0;transform:translateX(-50px)">
+                                                        <div class="framer-4mxji1-container">
+                                                            <div style="display:contents"></div>
+                                                        </div>
+                                                        <div class="framer-av4puv" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none" data-framer-component-type="RichTextContainer">
+                                                            <p class="framer-text framer-styles-preset-wu4ebp" data-styles-preset="H1YXoF4HR">Variables</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </li>
+                                            <li style="width:96px;height:56px">
+                                                <div class="framer-z2w6k9-container" style="width:96px;height:56px;flex-shrink:0">
+                                                    <div class="framer-ajQUV framer-ZaPG2 framer-eygmpz framer-v-eygmpz" data-framer-name="Primary" style="background-color:var(--token-cba3b9c8-9e49-437e-aca1-1e69db3088dc, rgb(17, 17, 17));border-bottom-left-radius:78px;border-bottom-right-radius:78px;border-top-left-radius:78px;border-top-right-radius:78px;will-change:transform;opacity:0;transform:translateX(-50px)">
+                                                        <div class="framer-4mxji1-container">
+                                                            <div style="display:contents"></div>
+                                                        </div>
+                                                        <div class="framer-av4puv" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none" data-framer-component-type="RichTextContainer">
+                                                            <p class="framer-text framer-styles-preset-wu4ebp" data-styles-preset="H1YXoF4HR">SEO</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </li>
+                                            <li style="width:153px;height:56px">
+                                                <div class="framer-lxcr0s-container" style="width:153px;height:56px;flex-shrink:0">
+                                                    <div class="framer-ajQUV framer-ZaPG2 framer-eygmpz framer-v-eygmpz" data-framer-name="Primary" style="background-color:var(--token-cba3b9c8-9e49-437e-aca1-1e69db3088dc, rgb(17, 17, 17));border-bottom-left-radius:78px;border-bottom-right-radius:78px;border-top-left-radius:78px;border-top-right-radius:78px;will-change:transform;opacity:0;transform:translateX(-50px)">
+                                                        <div class="framer-4mxji1-container">
+                                                            <div style="display:contents"></div>
+                                                        </div>
+                                                        <div class="framer-av4puv" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none" data-framer-component-type="RichTextContainer">
+                                                            <p class="framer-text framer-styles-preset-wu4ebp" data-styles-preset="H1YXoF4HR">Responsive </p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </li>
+                                            <li style="width:159px;height:56px">
+                                                <div class="framer-1qelgkn-container" style="width:159px;height:56px;flex-shrink:0">
+                                                    <div class="framer-ajQUV framer-ZaPG2 framer-eygmpz framer-v-eygmpz" data-framer-name="Primary" style="background-color:var(--token-cba3b9c8-9e49-437e-aca1-1e69db3088dc, rgb(17, 17, 17));border-bottom-left-radius:78px;border-bottom-right-radius:78px;border-top-left-radius:78px;border-top-right-radius:78px;will-change:transform;opacity:0;transform:translateX(-50px)">
+                                                        <div class="framer-4mxji1-container">
+                                                            <div style="display:contents"></div>
+                                                        </div>
+                                                        <div class="framer-av4puv" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none" data-framer-component-type="RichTextContainer">
+                                                            <p class="framer-text framer-styles-preset-wu4ebp" data-styles-preset="H1YXoF4HR">Social Media</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </li>
+                                            <li style="width:174px;height:56px">
+                                                <div class="framer-n1uwat-container" style="width:174px;height:56px;flex-shrink:0">
+                                                    <div class="framer-ajQUV framer-ZaPG2 framer-eygmpz framer-v-eygmpz" data-framer-name="Primary" style="background-color:var(--token-cba3b9c8-9e49-437e-aca1-1e69db3088dc, rgb(17, 17, 17));border-bottom-left-radius:78px;border-bottom-right-radius:78px;border-top-left-radius:78px;border-top-right-radius:78px;will-change:transform;opacity:0;transform:translateX(-50px)">
+                                                        <div class="framer-4mxji1-container">
+                                                            <div style="display:contents"></div>
+                                                        </div>
+                                                        <div class="framer-av4puv" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none" data-framer-component-type="RichTextContainer">
+                                                            <p class="framer-text framer-styles-preset-wu4ebp" data-styles-preset="H1YXoF4HR">Landing Pages</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </li>
+                                            <li style="width:161px;height:56px">
+                                                <div class="framer-8m0i2r-container" style="width:161px;height:56px;flex-shrink:0">
+                                                    <div class="framer-ajQUV framer-ZaPG2 framer-eygmpz framer-v-eygmpz" data-framer-name="Primary" style="background-color:var(--token-cba3b9c8-9e49-437e-aca1-1e69db3088dc, rgb(17, 17, 17));border-bottom-left-radius:78px;border-bottom-right-radius:78px;border-top-left-radius:78px;border-top-right-radius:78px;will-change:transform;opacity:0;transform:translateX(-50px)">
+                                                        <div class="framer-4mxji1-container">
+                                                            <div style="display:contents"></div>
+                                                        </div>
+                                                        <div class="framer-av4puv" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none" data-framer-component-type="RichTextContainer">
+                                                            <p class="framer-text framer-styles-preset-wu4ebp" data-styles-preset="H1YXoF4HR">Optimization</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </li>
+                                        </ul>
+                                    </section>
+                                    <!--/$-->
+                                </div>
+                            </div>
+                        </div>
+                        <div class="framer-bz02lf" data-border="true" data-framer-name="Border"></div>
+                    </section>
+                    <div class="framer-phxu8k-container">
+                        <!--$-->
+                        <div style="position:absolute;inset:0;overflow:hidden">
+                            <div style="opacity:1;position:absolute;inset:0;z-index:1;mask-image:linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 1) 12.5%, rgba(0, 0, 0, 1) 25%, rgba(0, 0, 0, 0) 37.5%);-webkit-mask-image:linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 1) 12.5%, rgba(0, 0, 0, 1) 25%, rgba(0, 0, 0, 0) 37.5%);border-radius:0px;pointer-events:none;backdrop-filter:blur(0.0546875px)"></div>
+                            <div style="opacity:1;position:absolute;inset:0;z-index:2;mask-image:linear-gradient(to bottom, rgba(0, 0, 0, 0) 12.5%, rgba(0, 0, 0, 1) 25%, rgba(0, 0, 0, 1) 37.5%, rgba(0, 0, 0, 0) 50%);-webkit-mask-image:linear-gradient(to bottom, rgba(0, 0, 0, 0) 12.5%, rgba(0, 0, 0, 1) 25%, rgba(0, 0, 0, 1) 37.5%, rgba(0, 0, 0, 0) 50%);border-radius:0px;pointer-events:none;backdrop-filter:blur(0.109375px)"></div>
+                            <div style="opacity:1;position:absolute;inset:0;z-index:3;mask-image:linear-gradient(to bottom, rgba(0, 0, 0, 0) 25%, rgba(0, 0, 0, 1) 37.5%, rgba(0, 0, 0, 1) 50%, rgba(0, 0, 0, 0) 62.5%);-webkit-mask-image:linear-gradient(to bottom, rgba(0, 0, 0, 0) 25%, rgba(0, 0, 0, 1) 37.5%, rgba(0, 0, 0, 1) 50%, rgba(0, 0, 0, 0) 62.5%);border-radius:0px;pointer-events:none;backdrop-filter:blur(0.21875px)"></div>
+                            <div style="opacity:1;position:absolute;inset:0;z-index:4;mask-image:linear-gradient(to bottom, rgba(0, 0, 0, 0) 37.5%, rgba(0, 0, 0, 1) 50%, rgba(0, 0, 0, 1) 62.5%, rgba(0, 0, 0, 0) 75%);-webkit-mask-image:linear-gradient(to bottom, rgba(0, 0, 0, 0) 37.5%, rgba(0, 0, 0, 1) 50%, rgba(0, 0, 0, 1) 62.5%, rgba(0, 0, 0, 0) 75%);border-radius:0px;pointer-events:none;backdrop-filter:blur(0.4375px)"></div>
+                            <div style="opacity:1;position:absolute;inset:0;z-index:5;mask-image:linear-gradient(to bottom, rgba(0, 0, 0, 0) 50%, rgba(0, 0, 0, 1) 62.5%, rgba(0, 0, 0, 1) 75%, rgba(0, 0, 0, 0) 87.5%);-webkit-mask-image:linear-gradient(to bottom, rgba(0, 0, 0, 0) 50%, rgba(0, 0, 0, 1) 62.5%, rgba(0, 0, 0, 1) 75%, rgba(0, 0, 0, 0) 87.5%);border-radius:0px;pointer-events:none;backdrop-filter:blur(0.875px)"></div>
+                            <div style="opacity:1;position:absolute;inset:0;z-index:6;mask-image:linear-gradient(to bottom, rgba(0, 0, 0, 0) 62.5%, rgba(0, 0, 0, 1) 75%, rgba(0, 0, 0, 1) 87.5%, rgba(0, 0, 0, 0) 100%);-webkit-mask-image:linear-gradient(to bottom, rgba(0, 0, 0, 0) 62.5%, rgba(0, 0, 0, 1) 75%, rgba(0, 0, 0, 1) 87.5%, rgba(0, 0, 0, 0) 100%);border-radius:0px;pointer-events:none;backdrop-filter:blur(1.75px)"></div>
+                            <div style="opacity:1;position:absolute;inset:0;z-index:7;mask-image:linear-gradient(to bottom, rgba(0, 0, 0, 0) 75%, rgba(0, 0, 0, 1) 87.5%, rgba(0, 0, 0, 1) 100%);-webkit-mask-image:linear-gradient(to bottom, rgba(0, 0, 0, 0) 75%, rgba(0, 0, 0, 1) 87.5%, rgba(0, 0, 0, 1) 100%);border-radius:0px;pointer-events:none;backdrop-filter:blur(3.5px)"></div>
+                            <div style="opacity:1;position:absolute;inset:0;z-index:8;mask-image:linear-gradient(to bottom, rgba(0, 0, 0, 0) 87.5%, rgba(0, 0, 0, 1) 100%);-webkit-mask-image:linear-gradient(to bottom, rgba(0, 0, 0, 0) 87.5%, rgba(0, 0, 0, 1) 100%);border-radius:0px;pointer-events:none;backdrop-filter:blur(7px)"></div>
+                        </div>
+                        <!--/$-->
+                    </div>
+                    <div class="framer-1hon8kr-container hidden-1oifrzv hidden-oryvlp">
+                        <!--$-->
+                        <div></div>
+                        <!--/$-->
+                    </div>
+                </div>
+                <div id="overlay"></div>
+                <div class="framer-wi2ciu"></div>
+            </div>
+            <div id="template-overlay"></div>
+            <!--/$-->
+        </div>
+        <script>
+            ( () => {
+                function u() {
+                    function n(t, e, i) {
+                        let r = document.createElement("a");
+                        r.href = t,
+                        r.target = i,
+                        r.rel = e,
+                        document.body.appendChild(r),
+                        r.click(),
+                        r.remove()
+                    }
+                    function o(t) {
+                        if (this.dataset.hydrated) {
+                            this.removeEventListener("click", o);
+                            return
+                        }
+                        t.preventDefault(),
+                        t.stopPropagation();
+                        let e = this.getAttribute("href");
+                        if (!e)
+                            return;
+                        if (/Mac|iPod|iPhone|iPad/u.test(navigator.userAgent) ? t.metaKey : t.ctrlKey)
+                            return n(e, "", "_blank");
+                        let r = this.getAttribute("rel") ?? ""
+                          , c = this.getAttribute("target") ?? "";
+                        n(e, r, c)
+                    }
+                    function a(t) {
+                        if (this.dataset.hydrated) {
+                            this.removeEventListener("auxclick", o);
+                            return
+                        }
+                        t.preventDefault(),
+                        t.stopPropagation();
+                        let e = this.getAttribute("href");
+                        e && n(e, "", "_blank")
+                    }
+                    function s(t) {
+                        if (this.dataset.hydrated) {
+                            this.removeEventListener("keydown", s);
+                            return
+                        }
+                        if (t.key !== "Enter")
+                            return;
+                        t.preventDefault(),
+                        t.stopPropagation();
+                        let e = this.getAttribute("href");
+                        if (!e)
+                            return;
+                        let i = this.getAttribute("rel") ?? ""
+                          , r = this.getAttribute("target") ?? "";
+                        n(e, i, r)
+                    }
+                    document.querySelectorAll("[data-nested-link]").forEach(t => {
+                        t instanceof HTMLElement && (t.addEventListener("click", o),
+                        t.addEventListener("auxclick", a),
+                        t.addEventListener("keydown", s))
+                    }
+                    )
+                }
+                return u
+            }
+            )()()
+        </script>
+        <script>
+            ( () => {
+                function i() {
+                    for (let e of document.querySelectorAll("[data-framer-original-sizes]")) {
+                        let t = e.getAttribute("data-framer-original-sizes");
+                        t === "" ? e.removeAttribute("sizes") : e.setAttribute("sizes", t),
+                        e.removeAttribute("data-framer-original-sizes")
+                    }
+                }
+                function a() {
+                    window.__framer_onRewriteBreakpoints = i
+                }
+                return a
+            }
+            )()()
+        </script>
+        <div id="__framer-badge-container"></div>
+        <script>
+            var animator = ( () => {
+                var be = ["transformPerspective", "x", "y", "z", "translateX", "translateY", "translateZ", "scale", "scaleX", "scaleY", "rotate", "rotateX", "rotateY", "rotateZ", "skew", "skewX", "skewY"]
+                  , q = new Set(be);
+                var S = e => e * 1e3
+                  , k = e => e / 1e3;
+                var E = e => e;
+                var W = E;
+                var z = (e, t, n) => n > t ? t : n < e ? e : n;
+                function H(e, t) {
+                    return t ? e * (1e3 / t) : 0
+                }
+                var ve = 5;
+                function U(e, t, n) {
+                    let o = Math.max(t - ve, 0);
+                    return H(n - e(o), t - o)
+                }
+                var B = .001
+                  , Oe = .01
+                  , Q = 10
+                  , Se = .05
+                  , ke = 1;
+                function J({duration: e=800, bounce: t=.25, velocity: n=0, mass: o=1}) {
+                    let f, r;
+                    W(e <= S(Q), "Spring duration must be 10 seconds or less");
+                    let a = 1 - t;
+                    a = z(Se, ke, a),
+                    e = z(Oe, Q, k(e)),
+                    a < 1 ? (f = s => {
+                        let p = s * a
+                          , c = p * e
+                          , u = p - n
+                          , l = C(s, a)
+                          , d = Math.exp(-c);
+                        return B - u / l * d
+                    }
+                    ,
+                    r = s => {
+                        let c = s * a * e
+                          , u = c * n + n
+                          , l = Math.pow(a, 2) * Math.pow(s, 2) * e
+                          , d = Math.exp(-c)
+                          , g = C(Math.pow(s, 2), a);
+                        return (-f(s) + B > 0 ? -1 : 1) * ((u - l) * d) / g
+                    }
+                    ) : (f = s => {
+                        let p = Math.exp(-s * e)
+                          , c = (s - n) * e + 1;
+                        return -B + p * c
+                    }
+                    ,
+                    r = s => {
+                        let p = Math.exp(-s * e)
+                          , c = (n - s) * (e * e);
+                        return p * c
+                    }
+                    );
+                    let m = 5 / e
+                      , i = De(f, r, m);
+                    if (e = S(e),
+                    isNaN(i))
+                        return {
+                            stiffness: 100,
+                            damping: 10,
+                            duration: e
+                        };
+                    {
+                        let s = Math.pow(i, 2) * o;
+                        return {
+                            stiffness: s,
+                            damping: a * 2 * Math.sqrt(o * s),
+                            duration: e
+                        }
+                    }
+                }
+                var Pe = 12;
+                function De(e, t, n) {
+                    let o = n;
+                    for (let f = 1; f < Pe; f++)
+                        o = o - e(o) / t(o);
+                    return o
+                }
+                function C(e, t) {
+                    return e * Math.sqrt(1 - t * t)
+                }
+                var Ie = ["duration", "bounce"]
+                  , Ke = ["stiffness", "damping", "mass"];
+                function ee(e, t) {
+                    return t.some(n => e[n] !== void 0)
+                }
+                function Ee(e) {
+                    let t = {
+                        velocity: 0,
+                        stiffness: 100,
+                        damping: 10,
+                        mass: 1,
+                        isResolvedFromDuration: !1,
+                        ...e
+                    };
+                    if (!ee(e, Ke) && ee(e, Ie)) {
+                        let n = J(e);
+                        t = {
+                            ...t,
+                            ...n,
+                            mass: 1
+                        },
+                        t.isResolvedFromDuration = !0
+                    }
+                    return t
+                }
+                function P({keyframes: e, restDelta: t, restSpeed: n, ...o}) {
+                    let f = e[0]
+                      , r = e[e.length - 1]
+                      , a = {
+                        done: !1,
+                        value: f
+                    }
+                      , {stiffness: m, damping: i, mass: s, duration: p, velocity: c, isResolvedFromDuration: u} = Ee({
+                        ...o,
+                        velocity: -k(o.velocity || 0)
+                    })
+                      , l = c || 0
+                      , d = i / (2 * Math.sqrt(m * s))
+                      , g = r - f
+                      , y = k(Math.sqrt(m / s))
+                      , M = Math.abs(g) < 5;
+                    n || (n = M ? .01 : 2),
+                    t || (t = M ? .005 : .5);
+                    let h;
+                    if (d < 1) {
+                        let x = C(y, d);
+                        h = A => {
+                            let T = Math.exp(-d * y * A);
+                            return r - T * ((l + d * y * g) / x * Math.sin(x * A) + g * Math.cos(x * A))
+                        }
+                    } else if (d === 1)
+                        h = x => r - Math.exp(-y * x) * (g + (l + y * g) * x);
+                    else {
+                        let x = y * Math.sqrt(d * d - 1);
+                        h = A => {
+                            let T = Math.exp(-d * y * A)
+                              , K = Math.min(x * A, 300);
+                            return r - T * ((l + d * y * g) * Math.sinh(K) + x * g * Math.cosh(K)) / x
+                        }
+                    }
+                    return {
+                        calculatedDuration: u && p || null,
+                        next: x => {
+                            let A = h(x);
+                            if (u)
+                                a.done = x >= p;
+                            else {
+                                let T = 0;
+                                d < 1 && (T = x === 0 ? S(l) : U(h, x, A));
+                                let K = Math.abs(T) <= n
+                                  , Te = Math.abs(r - A) <= t;
+                                a.done = K && Te
+                            }
+                            return a.value = a.done ? r : A,
+                            a
+                        }
+                    }
+                }
+                var te = e => Array.isArray(e) && typeof e[0] == "number";
+                var ne = (e, t, n) => {
+                    let o = t - e;
+                    return o === 0 ? 1 : (n - e) / o
+                }
+                ;
+                var Ce = 10
+                  , oe = (e, t) => {
+                    let n = ""
+                      , o = Math.max(Math.round(t / Ce), 2);
+                    for (let f = 0; f < o; f++)
+                        n += e(ne(0, o - 1, f)) + ", ";
+                    return `linear(${n.substring(0, n.length - 2)})`
+                }
+                ;
+                function re(e) {
+                    let t;
+                    return () => (t === void 0 && (t = e()),
+                    t)
+                }
+                var ie = {
+                    linearEasing: void 0
+                };
+                function se(e, t) {
+                    let n = re(e);
+                    return () => {
+                        var o;
+                        return (o = ie[t]) !== null && o !== void 0 ? o : n()
+                    }
+                }
+                var ae = se( () => {
+                    try {
+                        document.createElement("div").animate({
+                            opacity: 0
+                        }, {
+                            easing: "linear(0, 1)"
+                        })
+                    } catch {
+                        return !1
+                    }
+                    return !0
+                }
+                , "linearEasing");
+                var D = ([e,t,n,o]) => `cubic-bezier(${e}, ${t}, ${n}, ${o})`
+                  , pe = {
+                    linear: "linear",
+                    ease: "ease",
+                    easeIn: "ease-in",
+                    easeOut: "ease-out",
+                    easeInOut: "ease-in-out",
+                    circIn: D([0, .65, .55, 1]),
+                    circOut: D([.55, 0, 1, .45]),
+                    backIn: D([.31, .01, .66, -.59]),
+                    backOut: D([.33, 1.53, .69, .99])
+                };
+                function L(e, t) {
+                    if (e)
+                        return typeof e == "function" && ae() ? oe(e, t) : te(e) ? D(e) : Array.isArray(e) ? e.map(n => L(n, t) || pe.easeOut) : pe[e]
+                }
+                function R(e, t, n, {delay: o=0, duration: f=300, repeat: r=0, repeatType: a="loop", ease: m, times: i}={}) {
+                    let s = {
+                        [t]: n
+                    };
+                    i && (s.offset = i);
+                    let p = L(m, f);
+                    return Array.isArray(p) && (s.easing = p),
+                    e.animate(s, {
+                        delay: o,
+                        duration: f,
+                        easing: Array.isArray(p) ? "linear" : p,
+                        fill: "both",
+                        iterations: r + 1,
+                        direction: a === "reverse" ? "alternate" : "normal"
+                    })
+                }
+                var fe = e => e.replace(/([a-z])([A-Z])/gu, "$1-$2").toLowerCase();
+                var F = "framerAppearId"
+                  , me = "data-" + fe(F);
+                function ce(e) {
+                    return e.props[me]
+                }
+                var b = (e, t) => {
+                    let n = q.has(t) ? "transform" : t;
+                    return `${e}: ${n}`
+                }
+                ;
+                var w = new Map
+                  , v = new Map;
+                function X(e, t, n) {
+                    var o;
+                    let f = b(e, t)
+                      , r = w.get(f);
+                    if (!r)
+                        return null;
+                    let {animation: a, startTime: m} = r;
+                    function i() {
+                        var s;
+                        (s = window.MotionCancelOptimisedAnimation) === null || s === void 0 || s.call(window, e, t, n)
+                    }
+                    return a.onfinish = i,
+                    m === null || !((o = window.MotionHandoffIsComplete) === null || o === void 0) && o.call(window, e) ? (i(),
+                    null) : m
+                }
+                var V, O, Y = new Set;
+                function Ve() {
+                    Y.forEach(e => {
+                        e.animation.play(),
+                        e.animation.startTime = e.startTime
+                    }
+                    ),
+                    Y.clear()
+                }
+                function j(e, t, n, o, f) {
+                    if (window.MotionIsMounted)
+                        return;
+                    let r = e.dataset[F];
+                    if (!r)
+                        return;
+                    window.MotionHandoffAnimation = X;
+                    let a = b(r, t);
+                    O || (O = R(e, t, [n[0], n[0]], {
+                        duration: 1e4,
+                        ease: "linear"
+                    }),
+                    w.set(a, {
+                        animation: O,
+                        startTime: null
+                    }),
+                    window.MotionHandoffAnimation = X,
+                    window.MotionHasOptimisedAnimation = (i, s) => {
+                        if (!i)
+                            return !1;
+                        if (!s)
+                            return v.has(i);
+                        let p = b(i, s);
+                        return !!w.get(p)
+                    }
+                    ,
+                    window.MotionHandoffMarkAsComplete = i => {
+                        v.has(i) && v.set(i, !0)
+                    }
+                    ,
+                    window.MotionHandoffIsComplete = i => v.get(i) === !0,
+                    window.MotionCancelOptimisedAnimation = (i, s, p, c) => {
+                        let u = b(i, s)
+                          , l = w.get(u);
+                        l && (p && c === void 0 ? p.postRender( () => {
+                            p.postRender( () => {
+                                l.animation.cancel()
+                            }
+                            )
+                        }
+                        ) : l.animation.cancel(),
+                        p && c ? (Y.add(l),
+                        p.render(Ve)) : (w.delete(u),
+                        w.size || (window.MotionCancelOptimisedAnimation = void 0)))
+                    }
+                    ,
+                    window.MotionCheckAppearSync = (i, s, p) => {
+                        var c, u;
+                        let l = ce(i);
+                        if (!l)
+                            return;
+                        let d = (c = window.MotionHasOptimisedAnimation) === null || c === void 0 ? void 0 : c.call(window, l, s)
+                          , g = (u = i.props.values) === null || u === void 0 ? void 0 : u[s];
+                        if (!d || !g)
+                            return;
+                        let y = p.on("change", M => {
+                            var h;
+                            g.get() !== M && ((h = window.MotionCancelOptimisedAnimation) === null || h === void 0 || h.call(window, l, s),
+                            y())
+                        }
+                        );
+                        return y
+                    }
+                    );
+                    let m = () => {
+                        O.cancel();
+                        let i = R(e, t, n, o);
+                        V === void 0 && (V = performance.now()),
+                        i.startTime = V,
+                        w.set(a, {
+                            animation: i,
+                            startTime: V
+                        }),
+                        f && f(i)
+                    }
+                    ;
+                    v.set(r, !1),
+                    O.ready ? O.ready.then(m).catch(E) : m()
+                }
+                var N = ["transformPerspective", "x", "y", "z", "translateX", "translateY", "translateZ", "scale", "scaleX", "scaleY", "rotate", "rotateX", "rotateY", "rotateZ", "skew", "skewX", "skewY"]
+                  , $e = {
+                    x: "translateX",
+                    y: "translateY",
+                    z: "translateZ",
+                    transformPerspective: "perspective"
+                }
+                  , ze = {
+                    translateX: "px",
+                    translateY: "px",
+                    translateZ: "px",
+                    x: "px",
+                    y: "px",
+                    z: "px",
+                    perspective: "px",
+                    transformPerspective: "px",
+                    rotate: "deg",
+                    rotateX: "deg",
+                    rotateY: "deg"
+                };
+                function ue(e, t) {
+                    let n = ze[e];
+                    return !n || typeof t == "string" && t.endsWith(n) ? t : `${t}${n}`
+                }
+                function G(e) {
+                    return N.includes(e)
+                }
+                var Be = (e, t) => N.indexOf(e) - N.indexOf(t);
+                function le({transform: e, transformKeys: t}, n) {
+                    let o = {}
+                      , f = !0
+                      , r = "";
+                    t.sort(Be);
+                    for (let a of t) {
+                        let m = e[a]
+                          , i = !0;
+                        typeof m == "number" ? i = m === (a.startsWith("scale") ? 1 : 0) : i = parseFloat(m) === 0,
+                        i || (f = !1,
+                        r += `${$e[a] || a}(${e[a]}) `),
+                        n && (o[a] = e[a])
+                    }
+                    return r = r.trim(),
+                    n ? r = n(o, r) : f && (r = "none"),
+                    r
+                }
+                function _(e, t) {
+                    let n = new Set(Object.keys(e));
+                    for (let o in t)
+                        n.add(o);
+                    return Array.from(n)
+                }
+                function Z(e, t) {
+                    let n = t - e.length;
+                    if (n <= 0)
+                        return e;
+                    let o = new Array(n).fill(e[e.length - 1]);
+                    return e.concat(o)
+                }
+                function I(e) {
+                    return e * 1e3
+                }
+                var ge = {
+                    duration: .001
+                }
+                  , $ = {
+                    opacity: 1,
+                    scale: 1,
+                    translateX: 0,
+                    translateY: 0,
+                    translateZ: 0,
+                    x: 0,
+                    y: 0,
+                    z: 0,
+                    rotate: 0,
+                    rotateX: 0,
+                    rotateY: 0
+                };
+                function ye(e, t, n, o, f) {
+                    return n.delay && (n.delay = I(n.delay)),
+                    n.type === "spring" ? Re(e, t, n, o, f) : Xe(e, t, n, o, f)
+                }
+                function Le(e, t, n) {
+                    let o = {}
+                      , f = 0
+                      , r = 0;
+                    for (let a of _(e, t)) {
+                        let m = e[a] ?? $[a]
+                          , i = t[a] ?? $[a];
+                        if (m === void 0 || i === void 0 || a !== "transformPerspective" && m === i)
+                            continue;
+                        a === "transformPerspective" && (o[a] = [m, i]);
+                        let s = _e(m, i, n)
+                          , {duration: p, keyframes: c} = s;
+                        p === void 0 || c === void 0 || (p > f && (f = p,
+                        r = c.length),
+                        o[a] = c)
+                    }
+                    return {
+                        keyframeValuesByProps: o,
+                        longestDuration: f,
+                        longestLength: r
+                    }
+                }
+                function Re(e, t, n, o, f) {
+                    let r = {}
+                      , {keyframeValuesByProps: a, longestDuration: m, longestLength: i} = Le(e, t, n);
+                    if (!i)
+                        return r;
+                    let s = {
+                        ease: "linear",
+                        duration: m,
+                        delay: n.delay
+                    }
+                      , p = f ? ge : s
+                      , c = {};
+                    for (let[l,d] of Object.entries(a))
+                        G(l) ? c[l] = Z(d, i) : r[l] = {
+                            keyframes: Z(d, i),
+                            options: l === "opacity" ? s : p
+                        };
+                    let u = he(c, o);
+                    return u && (r.transform = {
+                        keyframes: u,
+                        options: p
+                    }),
+                    r
+                }
+                function Fe(e) {
+                    let {type: t, duration: n, ...o} = e;
+                    return {
+                        duration: I(n),
+                        ...o
+                    }
+                }
+                function Xe(e, t, n, o, f) {
+                    let r = Fe(n);
+                    if (!r)
+                        return;
+                    let a = {}
+                      , m = f ? ge : r
+                      , i = {};
+                    for (let p of _(e, t)) {
+                        let c = e[p] ?? $[p]
+                          , u = t[p] ?? $[p];
+                        c === void 0 || u === void 0 || p !== "transformPerspective" && c === u || (G(p) ? i[p] = [c, u] : a[p] = {
+                            keyframes: [c, u],
+                            options: p === "opacity" ? r : m
+                        })
+                    }
+                    let s = he(i, o);
+                    return s && (a.transform = {
+                        keyframes: s,
+                        options: m
+                    }),
+                    a
+                }
+                var Ye = ["duration", "bounce"]
+                  , je = ["stiffness", "damping", "mass"];
+                function Ae(e) {
+                    return je.some(t => t in e) ? !1 : Ye.some(t => t in e)
+                }
+                function Ne(e, t, n) {
+                    return Ae(n) ? `${e}-${t}-${n.duration}-${n.bounce}` : `${e}-${t}-${n.damping}-${n.stiffness}-${n.mass}`
+                }
+                function Ge(e) {
+                    return Ae(e) ? {
+                        ...e,
+                        duration: I(e.duration)
+                    } : e
+                }
+                var de = new Map
+                  , xe = 10;
+                function _e(e, t, n) {
+                    let o = Ne(e, t, n)
+                      , f = de.get(o);
+                    if (f)
+                        return f;
+                    let r = [e, t]
+                      , a = P({
+                        ...Ge(n),
+                        keyframes: r
+                    })
+                      , m = {
+                        done: !1,
+                        value: r[0]
+                    }
+                      , i = []
+                      , s = 0;
+                    for (; !m.done && s < I(10); )
+                        m = a.next(s),
+                        i.push(m.value),
+                        s += xe;
+                    r = i;
+                    let p = s - xe
+                      , u = {
+                        keyframes: r,
+                        duration: p,
+                        ease: "linear"
+                    };
+                    return de.set(o, u),
+                    u
+                }
+                function he(e, t) {
+                    let n = []
+                      , o = Object.values(e)[0]?.length;
+                    if (!o)
+                        return;
+                    let f = Object.keys(e);
+                    for (let r = 0; r < o; r++) {
+                        let a = {};
+                        for (let[i,s] of Object.entries(e)) {
+                            let p = s[r];
+                            p !== void 0 && (a[i] = ue(i, p))
+                        }
+                        let m = le({
+                            transform: a,
+                            transformKeys: f
+                        }, t);
+                        n.push(m)
+                    }
+                    return n
+                }
+                function Ze(e, t) {
+                    if (!t)
+                        for (let n in e) {
+                            let o = e[n];
+                            return o?.legacy === !0 ? o : void 0
+                        }
+                }
+                function we(e, t, n, o, f, r) {
+                    for (let[a,m] of Object.entries(e)) {
+                        let i = r ? m[r] : void 0;
+                        if (i === null || !i && m.default === null)
+                            continue;
+                        let s = i ?? m.default ?? Ze(m, r);
+                        if (!s)
+                            continue;
+                        let {initial: p, animate: c, transformTemplate: u} = s;
+                        if (!p || !c)
+                            continue;
+                        let {transition: l, ...d} = c
+                          , g = ye(p, d, l, qe(u, o), f);
+                        if (!g)
+                            continue;
+                        let y = {}
+                          , M = {};
+                        for (let[x,A] of Object.entries(g))
+                            y[x] = A.keyframes,
+                            M[x] = A.options;
+                        let h = r ? `:not(.hidden-${r}) ` : "";
+                        t(`${h}[${n}="${a}"]`, y, M)
+                    }
+                }
+                function qe(e, t) {
+                    if (!(!e || !t))
+                        return (n, o) => e.replace(t, o)
+                }
+                function Me(e) {
+                    return e ? e.find(n => n.mediaQuery ? window.matchMedia(n.mediaQuery).matches === !0 : !1)?.hash : void 0
+                }
+                var mn = {
+                    animateAppearEffects: we,
+                    getActiveVariantHash: Me,
+                    spring: P,
+                    startOptimizedAppearAnimation: j
+                };
+                return mn
+            }
+            )()
+        </script>
+        <script type="framer/appear" id="__framer__appearAnimationsContent">
+            {"15rs65j":{"default":{"initial":{"opacity":0.001,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":0},"animate":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"transition":{"bounce":0.2,"delay":0.5,"duration":0.4,"type":"spring"},"x":0,"y":0}}},"h1h6ez":{"default":{"initial":{"opacity":0.001,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":20},"animate":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"transition":{"damping":30,"delay":0.4,"mass":1,"stiffness":400,"type":"spring"},"x":0,"y":0}}},"142rx2f":{"default":{"initial":{"opacity":0.001,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":20},"animate":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"transition":{"damping":30,"delay":0.5,"mass":1,"stiffness":400,"type":"spring"},"x":0,"y":0}}},"8edj8b":{"default":{"initial":{"opacity":0.001,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":0},"animate":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"transition":{"bounce":0.2,"delay":0.5,"duration":0.4,"type":"spring"},"x":0,"y":0}},"1oifrzv":{"initial":{"opacity":0.001,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":0},"animate":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"transition":{"bounce":0.2,"delay":0.5,"duration":0.4,"type":"spring"},"x":0,"y":0}},"oryvlp":{"initial":{"opacity":0.001,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":0},"animate":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"transition":{"bounce":0.2,"delay":0.5,"duration":0.4,"type":"spring"},"x":0,"y":0}}},"1ga9jn2":{"default":{"initial":{"opacity":0.001,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":20},"animate":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"transition":{"damping":30,"delay":0.4,"mass":1,"stiffness":400,"type":"spring"},"x":0,"y":0}}},"lkoyi4":{"default":{"initial":{"opacity":0.001,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":20},"animate":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"transition":{"damping":30,"delay":0.4,"mass":1,"stiffness":400,"type":"spring"},"x":0,"y":0}},"1oifrzv":{"initial":{"opacity":0.001,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":20},"animate":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"transition":{"damping":30,"delay":0.4,"mass":1,"stiffness":400,"type":"spring"},"x":0,"y":0}},"oryvlp":{"initial":{"opacity":0.001,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":20},"animate":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"transition":{"damping":30,"delay":0.4,"mass":1,"stiffness":400,"type":"spring"},"x":0,"y":0}}},"wh422y":{"default":{"initial":{"opacity":0.001,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":20},"animate":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"transition":{"damping":30,"delay":0.4,"mass":1,"stiffness":400,"type":"spring"},"x":0,"y":0}}},"7muodc":{"default":{"initial":{"opacity":0.001,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":0},"animate":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"transition":{"bounce":0.2,"delay":0.5,"duration":0.4,"type":"spring"},"x":0,"y":0}},"1oifrzv":{"initial":{"opacity":0.001,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":0},"animate":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"transition":{"bounce":0.2,"delay":0.5,"duration":0.4,"type":"spring"},"x":0,"y":0}},"oryvlp":{"initial":{"opacity":0.001,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":0},"animate":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"transition":{"bounce":0.2,"delay":0.5,"duration":0.4,"type":"spring"},"x":0,"y":0}}},"dq26nc":{"default":{"initial":{"opacity":0.001,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":0},"animate":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"transition":{"bounce":0.2,"delay":0.5,"duration":0.4,"type":"spring"},"x":0,"y":0}}},"i19y5c":{"default":{"initial":{"opacity":0.001,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":20},"animate":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"transition":{"damping":30,"delay":0.4,"mass":1,"stiffness":400,"type":"spring"},"x":0,"y":0}}},"6jq0ri":{"default":{"initial":{"opacity":0.001,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":20},"animate":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"transition":{"damping":30,"delay":0.5,"mass":1,"stiffness":400,"type":"spring"},"x":0,"y":0}}},"qfl6p0":{"default":{"initial":{"opacity":0.001,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":0},"animate":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"transition":{"bounce":0.2,"delay":0.5,"duration":0.4,"type":"spring"},"x":0,"y":0}},"1oifrzv":{"initial":{"opacity":0.001,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":0},"animate":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"transition":{"bounce":0.2,"delay":0.5,"duration":0.4,"type":"spring"},"x":0,"y":0}},"oryvlp":{"initial":{"opacity":0.001,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":0},"animate":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"transition":{"bounce":0.2,"delay":0.5,"duration":0.4,"type":"spring"},"x":0,"y":0}}}}
+        </script>
+        <script type="framer/appear" id="__framer__breakpoints">
+            [{"hash":"72rtr7","mediaQuery":"(min-width: 1300px)"},{"hash":"1oifrzv","mediaQuery":"(min-width: 750px) and (max-width: 1299px)"},{"hash":"oryvlp","mediaQuery":"(max-width: 749px)"},{"hash":"ynmlr3","mediaQuery":"(min-width: 1300px)"},{"hash":"1979d9p","mediaQuery":"(min-width: 750px) and (max-width: 1299px)"},{"hash":"173olyx","mediaQuery":"(max-width: 749px)"}]
+        </script>
+        <script data-framer-appear-animation="no-preference">
+            ( () => {
+                function c(i, o, m) {
+                    if (window.__framer_disable_appear_effects_optimization__ || typeof animator > "u")
+                        return;
+                    let e = {
+                        detail: {
+                            bg: document.hidden
+                        }
+                    };
+                    requestAnimationFrame( () => {
+                        let a = "framer-appear-start";
+                        performance.mark(a, e),
+                        animator.animateAppearEffects(JSON.parse(window.__framer__appearAnimationsContent.text), (s, p, d) => {
+                            let t = document.querySelector(s);
+                            if (t)
+                                for (let[r,f] of Object.entries(p))
+                                    animator.startOptimizedAppearAnimation(t, r, f, d[r])
+                        }
+                        , i, o, m && window.matchMedia("(prefers-reduced-motion:reduce)").matches === !0, animator.getActiveVariantHash(JSON.parse(window.__framer__breakpoints.text)));
+                        let n = "framer-appear-end";
+                        performance.mark(n, e),
+                        performance.measure("framer-appear", {
+                            start: a,
+                            end: n,
+                            detail: e.detail
+                        })
+                    }
+                    )
+                }
+                return c
+            }
+            )()("data-framer-appear-id", "__Appear_Animation_Transform__", false)
+        </script>
+        <link rel="modulepreload" fetchpriority="low" href="https://framerusercontent.com/sites/4893q6qVZE0ffMSHqTelzS/chunk-NESTONX5.mjs">
+        <link rel="modulepreload" fetchpriority="low" href="https://framerusercontent.com/sites/4893q6qVZE0ffMSHqTelzS/chunk-NC7IKQNE.mjs">
+        <link rel="modulepreload" fetchpriority="low" href="https://framerusercontent.com/sites/4893q6qVZE0ffMSHqTelzS/chunk-BSKATT4Q.mjs">
+        <link rel="modulepreload" fetchpriority="low" href="https://framerusercontent.com/sites/4893q6qVZE0ffMSHqTelzS/chunk-A3IIQ6X3.mjs">
+        <link rel="modulepreload" fetchpriority="low" href="https://framerusercontent.com/sites/4893q6qVZE0ffMSHqTelzS/chunk-HZL4YIMB.mjs">
+        <link rel="modulepreload" fetchpriority="low" href="https://framerusercontent.com/sites/4893q6qVZE0ffMSHqTelzS/chunk-THOG7P4M.mjs">
+        <link rel="modulepreload" fetchpriority="low" href="https://framerusercontent.com/sites/4893q6qVZE0ffMSHqTelzS/chunk-42U43NKG.mjs">
+        <link rel="modulepreload" fetchpriority="low" href="https://framerusercontent.com/sites/4893q6qVZE0ffMSHqTelzS/tmTLnLcHBB5Eq3gTJZ_v-XgZcYVlla0hoDC-WFJGH1s.NRSJJQUG.mjs">
+        <link rel="modulepreload" fetchpriority="low" href="https://framerusercontent.com/sites/4893q6qVZE0ffMSHqTelzS/chunk-GR42S3GM.mjs">
+        <link rel="modulepreload" fetchpriority="low" href="https://framerusercontent.com/sites/4893q6qVZE0ffMSHqTelzS/chunk-U4DJRAAW.mjs">
+        <link rel="modulepreload" fetchpriority="low" href="https://framerusercontent.com/sites/4893q6qVZE0ffMSHqTelzS/chunk-4TZCXKLO.mjs">
+        <link rel="modulepreload" fetchpriority="low" href="https://framerusercontent.com/sites/4893q6qVZE0ffMSHqTelzS/chunk-2VWOSHF7.mjs">
+        <link rel="modulepreload" fetchpriority="low" href="https://framerusercontent.com/sites/4893q6qVZE0ffMSHqTelzS/chunk-NYACNBHW.mjs">
+        <link rel="modulepreload" fetchpriority="low" href="https://framerusercontent.com/sites/4893q6qVZE0ffMSHqTelzS/chunk-KHENT5LY.mjs">
+        <link rel="modulepreload" fetchpriority="low" href="https://framerusercontent.com/sites/4893q6qVZE0ffMSHqTelzS/chunk-H3BJ3RX7.mjs">
+        <link rel="modulepreload" fetchpriority="low" href="https://framerusercontent.com/sites/4893q6qVZE0ffMSHqTelzS/chunk-5VE4SVOS.mjs">
+        <link rel="modulepreload" fetchpriority="low" href="https://framerusercontent.com/sites/4893q6qVZE0ffMSHqTelzS/chunk-LJ7GEN6L.mjs">
+        <link rel="modulepreload" fetchpriority="low" href="https://framerusercontent.com/sites/4893q6qVZE0ffMSHqTelzS/chunk-OBZOZ7AB.mjs">
+        <link rel="modulepreload" fetchpriority="low" href="https://framerusercontent.com/sites/4893q6qVZE0ffMSHqTelzS/chunk-S57CRZQA.mjs">
+        <link rel="modulepreload" fetchpriority="low" href="https://framerusercontent.com/sites/4893q6qVZE0ffMSHqTelzS/chunk-IVXVYIN5.mjs">
+        <link rel="modulepreload" fetchpriority="low" href="https://framerusercontent.com/sites/4893q6qVZE0ffMSHqTelzS/chunk-OS2N3C5K.mjs">
+        <link rel="modulepreload" fetchpriority="low" href="https://framerusercontent.com/sites/4893q6qVZE0ffMSHqTelzS/script_main.N34F4KOO.mjs">
+        <script type="module" async data-framer-bundle="main" fetchpriority="low" src="https://framerusercontent.com/sites/4893q6qVZE0ffMSHqTelzS/script_main.N34F4KOO.mjs"></script>
+        <div id="svg-templates" style="position: absolute; overflow: hidden; bottom: 0; left: 0; width: 0; height: 0; z-index: 0; contain: strict" aria-hidden="true"></div>
+        <!-- Start of bodyEnd -->
+        <!-- End of bodyEnd -->
+    </body>
+</html>
